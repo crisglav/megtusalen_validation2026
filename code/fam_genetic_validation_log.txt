@@ -1,0 +1,87 @@
+ID FAMCD001, variable ERBB4: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCD001, variable BDNF: mismatch - fam_gen=AG, megtusalen=GG
+ID FAMCD001, variable NRG1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCD001, variable COMT: mismatch - fam_gen=GG, megtusalen=GA
+ID FAMCD001, variable CLU: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCD001, variable BACE1: mismatch - fam_gen=CG, megtusalen=CC
+ID FAMCD002, variable APOE: mismatch - fam_gen=44, megtusalen=33
+ID FAMCD002, variable ERBB4: mismatch - fam_gen=AG, megtusalen=GG
+ID FAMCD002, variable NRG1: mismatch - fam_gen=CT, megtusalen=TT
+ID FAMCD002, variable COMT: mismatch - fam_gen=GA, megtusalen=AA
+ID FAMCD002, variable CLU: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCD002, variable ACT: mismatch - fam_gen=AA, megtusalen=TT
+ID FAMCD002, variable BACE1: mismatch - fam_gen=CG, megtusalen=GG
+ID FAMCD002, variable PICALM: mismatch - fam_gen=AG, megtusalen=GG
+ID FAMCD003, variable CLU: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCD003, variable ACT: mismatch - fam_gen=TT, megtusalen=TA
+ID FAMCD003, variable BACE1: mismatch - fam_gen=GG, megtusalen=CG
+ID FAMCD003, variable PICALM: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCD004, variable BDNF: mismatch - fam_gen=AG, megtusalen=GG
+ID FAMCD004, variable NRG1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCD004, variable COMT: mismatch - fam_gen=AA, megtusalen=GA
+ID FAMCD004, variable BACE1: mismatch - fam_gen=CG, megtusalen=CC
+ID FAMCOMPLUTENSE001, variable APOE: mismatch - fam_gen=34, megtusalen=33
+ID FAMCOMPLUTENSE001, variable NRG1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE001, variable CLU: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE001, variable BACE1: mismatch - fam_gen=CG, megtusalen=CC
+ID FAMCOMPLUTENSE002, variable APOE: mismatch - fam_gen=34, megtusalen=23
+ID FAMCOMPLUTENSE002, variable ERBB4: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCOMPLUTENSE002, variable NRG1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCOMPLUTENSE002, variable CR1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCOMPLUTENSE002, variable COMT: mismatch - fam_gen=GA, megtusalen=AA
+ID FAMCOMPLUTENSE002, variable CLU: mismatch - fam_gen=CC, megtusalen=TT
+ID FAMCOMPLUTENSE002, variable ACT: mismatch - fam_gen=AA, megtusalen=TA
+ID FAMCOMPLUTENSE002, variable BACE1: mismatch - fam_gen=GG, megtusalen=CG
+ID FAMCOMPLUTENSE002, variable CHRNA7: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE003, variable APOE: mismatch - fam_gen=34, megtusalen=33
+ID FAMCOMPLUTENSE003, variable ERBB4: mismatch - fam_gen=GG, megtusalen=AA
+ID FAMCOMPLUTENSE003, variable NRG1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE003, variable COMT: mismatch - fam_gen=AA, megtusalen=GA
+ID FAMCOMPLUTENSE003, variable CLU: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE004, variable APOE: mismatch - fam_gen=33, megtusalen=34
+ID FAMCOMPLUTENSE004, variable BDNF: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCOMPLUTENSE004, variable COMT: mismatch - fam_gen=GA, megtusalen=GG
+ID FAMCOMPLUTENSE004, variable ACT: mismatch - fam_gen=TA, megtusalen=TT
+ID FAMCOMPLUTENSE004, variable BACE1: mismatch - fam_gen=CG, megtusalen=GG
+ID FAMCOMPLUTENSE004, variable PICALM: mismatch - fam_gen=GG, megtusalen=AA
+ID FAMCOMPLUTENSE005, variable ERBB4: mismatch - fam_gen=AA, megtusalen=AG
+ID FAMCOMPLUTENSE005, variable NRG1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE005, variable CR1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE005, variable COMT: mismatch - fam_gen=AA, megtusalen=GA
+ID FAMCOMPLUTENSE005, variable CLU: mismatch - fam_gen=CC, megtusalen=TT
+ID FAMCOMPLUTENSE005, variable ACT: mismatch - fam_gen=TT, megtusalen=TA
+ID FAMCOMPLUTENSE006, variable NRG1: mismatch - fam_gen=TT, megtusalen=CT
+ID FAMCOMPLUTENSE006, variable CR1: mismatch - fam_gen=CC, megtusalen=TT
+ID FAMCOMPLUTENSE006, variable COMT: mismatch - fam_gen=GA, megtusalen=GG
+ID FAMCOMPLUTENSE006, variable ACT: mismatch - fam_gen=TA, megtusalen=TT
+ID FAMCOMPLUTENSE006, variable CHRNA7: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE006, variable PICALM: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCOMPLUTENSE007, variable APOE: mismatch - fam_gen=33, megtusalen=34
+ID FAMCOMPLUTENSE007, variable ERBB4: mismatch - fam_gen=AG, megtusalen=AA
+ID FAMCOMPLUTENSE007, variable NRG1: mismatch - fam_gen=TT, megtusalen=CT
+ID FAMCOMPLUTENSE007, variable CR1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCOMPLUTENSE007, variable CLU: mismatch - fam_gen=CT, megtusalen=TT
+ID FAMCOMPLUTENSE007, variable ACT: mismatch - fam_gen=TT, megtusalen=TA
+ID FAMCOMPLUTENSE007, variable BACE1: mismatch - fam_gen=CG, megtusalen=GG
+ID FAMCOMPLUTENSE008, variable ERBB4: mismatch - fam_gen=AG, megtusalen=GG
+ID FAMCOMPLUTENSE008, variable BDNF: mismatch - fam_gen=GG, megtusalen=AA
+ID FAMCOMPLUTENSE008, variable NRG1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCOMPLUTENSE008, variable CR1: mismatch - fam_gen=CT, megtusalen=CC
+ID FAMCOMPLUTENSE008, variable CLU: mismatch - fam_gen=TT, megtusalen=CT
+ID FAMCOMPLUTENSE008, variable ACT: mismatch - fam_gen=TA, megtusalen=AA
+ID FAMCOMPLUTENSE008, variable BACE1: mismatch - fam_gen=CG, megtusalen=CC
+ID FAMCOMPLUTENSE009, variable APOE: mismatch - fam_gen=33, megtusalen=34
+ID FAMCOMPLUTENSE009, variable ERBB4: mismatch - fam_gen=GG, megtusalen=AG
+ID FAMCOMPLUTENSE009, variable CR1: mismatch - fam_gen=CC, megtusalen=CT
+ID FAMCOMPLUTENSE009, variable COMT: mismatch - fam_gen=GA, megtusalen=AA
+ID FAMCOMPLUTENSE009, variable BACE1: mismatch - fam_gen=CC, megtusalen=CG
+ID FAMCOMPLUTENSE010, variable ERBB4: missing value(s) - fam_gen=AG, megtusalen=
+ID FAMCOMPLUTENSE010, variable NRG1: missing value(s) - fam_gen=CC, megtusalen=
+ID FAMCOMPLUTENSE010, variable CR1: missing value(s) - fam_gen=CT, megtusalen=
+ID FAMCOMPLUTENSE010, variable COMT: missing value(s) - fam_gen=GA, megtusalen=
+ID FAMCOMPLUTENSE010, variable CLU: missing value(s) - fam_gen=CC, megtusalen=
+ID FAMCOMPLUTENSE010, variable ACT: missing value(s) - fam_gen=TA, megtusalen=
+ID FAMCOMPLUTENSE010, variable BACE1: missing value(s) - fam_gen=CG, megtusalen=
+ID FAMCOMPLUTENSE010, variable CHRNA7: missing value(s) - fam_gen=CC, megtusalen=
+ID FAMCOMPLUTENSE010, variable PICALM: missing value(s) - fam_gen=AG, megtusalen=
+ID FAMCOMPLUTENSE011, variable APOE: missing value(s) - fam_gen=34, megtusalen=
