@@ -24,9 +24,9 @@ megtusalen = readtable(megtusalen_excel);
 %     'ROCFB_copy', 'ROCFB_memory', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
 %     'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'};
 
-vars_megtusalen = {'age'};
+vars_megtusalen = {'sex'};
 
-vars_fam = {'Edad'};
+vars_fam = {'Sexo'};
 
 ids = fam_neuro.CodigoProyecto;
 n = length(ids);
@@ -63,7 +63,7 @@ for i = 1:n
         varname_megtusalen = string(vars_megtusalen{ivar});
 
         fam_val = fam_neuro.(varname_fam)(i);
-        meg_val = megtusalen.(varname_megtusalen)(meg_row);
+        meg_val = megtusalen.(varname_megtusalen){meg_row};
 
         if iscell(fam_val)
             if isempty(fam_val)
@@ -116,7 +116,7 @@ for i = 1:n
 
         % Case 1: fam has value and megtusalen is missing → FILL
         if ~fam_missing && meg_missing
-            megtusalen.(varname_megtusalen)(meg_row) = fam_val;
+            megtusalen.(varname_megtusalen){meg_row} = fam_val;
             n_updated = n_updated + 1;
 
             log_lines{end+1} = sprintf( ...
@@ -125,7 +125,7 @@ for i = 1:n
 
             % Case 2: both have values but differ → CORRECT
         elseif ~fam_missing && ~meg_missing && ~isequal(fam_val, meg_val)
-            megtusalen.(varname_megtusalen)(meg_row) = fam_val;
+            megtusalen.(varname_megtusalen){meg_row} = fam_val;
             n_updated = n_updated + 1;
 
             log_lines{end+1} = sprintf( ...
@@ -173,7 +173,7 @@ fprintf('Validation finished. Log saved to %s\n', log_file);
 summary_lines = {
     sprintf('Comparison: %s vs %s', fam_gen_excel, megtusalen_excel)
     sprintf('Variable to compare: %s', varname_megtusalen)
-    sprintf('Date: %s', datestr (datetime('now'), 'dd mmm yyyy'))
+    sprintf('Date: %s', datestr (datetime('now', 'Format', 'dd mmm yyyy  HH:mm:ss')))
     sprintf('Updated values: %d', n_updated)
     sprintf('Participants not found: %d', n_not_found)
     sprintf('Participants in megtusalen not in fam: %d', n_not_in_fam)
