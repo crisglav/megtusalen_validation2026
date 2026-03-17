@@ -1,11 +1,18 @@
-fam_gen_excel = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\source_data\BBDD Conjunta 261 familiares.xlsx';
-megtusalen_excel = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen.xlsx';
-out_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen_corrected.tsv';
+%% Script to compare megtudalen db with familiares original db 
+
+clc
+clear 
+close all
+
+fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
+megtusalen_excel = '../results/participants_megtusalen_corrected.tsv';
+out_file = '../results/participants_megtusalen_corrected.tsv';
 
 
 fam_neuro = readtable(fam_gen_excel,'Sheet','Neuropsicología');
-megtusalen = readtable(megtusalen_excel);
-% 
+megtusalen = readtable(megtusalen_excel, 'FileType', 'text', 'Delimiter', '\t');
+
+
 % vars_megtusalen = {'age','sex','edu_years','BADS_rules_test', 'cog_res','DTS_forward','DTS_backward','GDS_15', ...
 %     'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','MOCA','PTF_F','PTF_A','PTF_S', ...
 %     'ROCFB_copy', 'ROCFB_memory', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
@@ -19,7 +26,7 @@ ids = fam_neuro.CodigoProyecto;
 n = length(ids);
 
 % Open log file
-log_file = ['fam_neuro_validation_log_' vars_megtusalen{1} '.txt'];
+log_file = ['../results/logs/fam_neuro_validation_log_' vars_megtusalen{1} '.txt'];
 fid = fopen(log_file, 'w');
 
 n_updated = 0;
@@ -34,8 +41,8 @@ for i = 1:n
     meg_row = find(strcmp(megtusalen.recording_id_orig, id), 1);
 
     if isempty(meg_row)
-        warning('Could not find %s\n', id)
-        fprintf(fid, 'ID %s: participant not found in megtusalen\n', id);
+        warning('Could not find %s/n', id)
+        fprintf(fid, 'ID %s: participant not found in megtusalen/n', id);
         n_not_found = n_not_found + 1;
         continue;
     end
@@ -105,7 +112,7 @@ for i = 1:n
             n_updated = n_updated + 1;
 
             fprintf(fid, ...
-                'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
+                'ID %s, variable %s: filled missing - old=NaN, new=%s/n', ...
                 id, varname, fam_str);
 
         % Case 2: both have values but differ → CORRECT
@@ -114,13 +121,13 @@ for i = 1:n
             n_updated = n_updated + 1;
 
             fprintf(fid, ...
-                'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
+                'ID %s, variable %s: corrected - old=%s, new=%s/n', ...
                 id, varname, meg_str, fam_str);
 
         % Case 3: fam is missing → do nothing
         elseif fam_missing
             fprintf(fid, ...
-                'ID %s, variable %s: skipped (fam_neuro missing, megtusalen=%s)\n', ...
+                'ID %s, variable %s: skipped (fam_neuro missing, megtusalen=%s)/n', ...
                 id, varname, meg_str);
         end
 
@@ -128,19 +135,20 @@ for i = 1:n
     end
 
     if subject_ok
-        % fprintf(fid, 'ID %s: subject ok\n', id);
+        % fprintf(fid, 'ID %s: subject ok/n', id);
     end
 
 end
 
 fclose(fid);
-fprintf('Validation finished. Log saved to %s\n', log_file);
+fprintf('Validation finished. Log saved to %s/n', log_file);
 
 writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');
 
-fprintf('Correction finished.\n');
-fprintf('Updated values: %d\n', n_updated);
-fprintf('Participants not found: %d\n', n_not_found);
-fprintf('Corrected file saved to: %s\n', out_file);
-fprintf('Log saved to: %s\n', log_file);
+
+fprintf('Correction finished./n');
+fprintf('Updated values: %d/n', n_updated);
+fprintf('Participants not found: %d/n', n_not_found);
+fprintf('Corrected file saved to: %s/n', out_file);
+fprintf('Log saved to: %s/n', log_file);
 
