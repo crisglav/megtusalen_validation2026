@@ -1,7 +1,7 @@
 *.xlsx
 *.xls
 *.csv
-*.tsv
 *.sav
 *.doc
 *.docx
+../data/participants_megtusalen_corrected.tsv
