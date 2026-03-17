@@ -1,0 +1,4 @@
+Log created on: 17-Mar-2026 15:56:46
+
+ID umeccd016, variable MMSE: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable MMSE: skipped (umec_neuro missing, megtusalen=NaN)

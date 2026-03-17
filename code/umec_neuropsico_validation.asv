@@ -10,12 +10,12 @@ vars_megtusalen = {'group','age','sex','edu_years','BADS_rules_test', 'cog_res',
     'ROCFB_simp_copy', 'ROCFB_simp_mem', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
     'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'};
 
-vars_umec = {'Diagnostico','Edad','sexo','numañosescol','Pre_CReglas_perfil', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total','Pre_GDS', ...
+vars_umec = {'diag_antiguo','Edad','sexo','numañosescol','Pre_CReglas_perfil', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total','Pre_GDS', ...
     'Pre_ML_total_unid_inm','Pre_ML_total_unid_dem','Pre_ML_total_temas_inm','Pre_ML_total_temas_dem','Pre_MMSE','Pre_F','Pre_A','Pre_S', ...
     'Pre_Rey_copia', 'Pre_Rey_memoria', 'Pre_animales', 'Pre_TMTa_a', 'Pre_TMTa_t', 'Pre_TMTb_a', 'Pre_TMTb_t', ...
     'Pre_LP_ap_inmediato', 'Pre_LP_4intento', 'Pre_LP_recuerdoT', 'Pre_LP_recuerdo_d', 'Pre_LP_reconoc'};
 
-nvar = 1;
+nvar = 28;
 
 vars_megtusalen = vars_megtusalen(nvar); 
 vars_umec = vars_umec(nvar);
@@ -75,20 +75,20 @@ for i = 1:n
         end
 
         % Convert group variable
-        if strcmp(varname_megtusalen,'group')
+        if strcmp(varname_umec,'group')
             switch umec_val
                 case 1
                     umec_val = 'SCD-';
                 case 2
-                    umec_val = 'SCD+';
+                    umec_val = 'SCD+'
                 case 3
-                    umec_val = 'MCIa';
+                case 4
             end
 
         end
     
         % Convert sex variable
-        if strcmp(varname_megtusalen,'sex')
+        if strcmp(varname_umec,'sexo')
             if umec_val == 1
                 umec_val = 'm';
             elseif umec_val == 2

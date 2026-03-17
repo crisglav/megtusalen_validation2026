@@ -1,0 +1,31 @@
+Log created on: 17-Mar-2026 16:00:59
+
+ID umeccd015, variable PTF_S: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd005, variable PTF_S: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd024, variable PTF_S: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC003, variable PTF_S: filled missing - old=NaN, new=9
+ID UMECNC005, variable PTF_S: filled missing - old=NaN, new=12
+ID UMECNC004, variable PTF_S: filled missing - old=NaN, new=14
+ID UMECNC006, variable PTF_S: filled missing - old=NaN, new=10
+ID UMECNC009, variable PTF_S: filled missing - old=NaN, new=3
+ID UMECNC002, variable PTF_S: filled missing - old=NaN, new=14
+ID UMECNC001, variable PTF_S: filled missing - old=NaN, new=7
+ID UMECNC010, variable PTF_S: filled missing - old=NaN, new=9
+ID UMECNC011, variable PTF_S: filled missing - old=NaN, new=6
+ID UMECNC012, variable PTF_S: filled missing - old=NaN, new=10
+ID UMECNC007, variable PTF_S: filled missing - old=NaN, new=9
+ID UMECNC014, variable PTF_S: filled missing - old=NaN, new=14
+ID UMECNC013, variable PTF_S: filled missing - old=NaN, new=7
+ID UMECNC017, variable PTF_S: filled missing - old=NaN, new=10
+ID UMECNC016, variable PTF_S: filled missing - old=NaN, new=10
+ID UMECNC015, variable PTF_S: filled missing - old=NaN, new=15
+ID umeccd001, variable PTF_S: filled missing - old=NaN, new=7
+ID UMECNC008, variable PTF_S: filled missing - old=NaN, new=4
+ID UMECNC019, variable PTF_S: filled missing - old=NaN, new=9
+ID UMECNC020, variable PTF_S: filled missing - old=NaN, new=10
+ID UMECNC018, variable PTF_S: filled missing - old=NaN, new=5
+ID umeccd064, variable PTF_S: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC021, variable PTF_S: filled missing - old=NaN, new=15
+ID UMECNC022, variable PTF_S: filled missing - old=NaN, new=14
+ID umeccd108, variable PTF_S: filled missing - old=NaN, new=20
+ID UMECMA093, variable PTF_S: skipped (umec_neuro missing, megtusalen=NaN)

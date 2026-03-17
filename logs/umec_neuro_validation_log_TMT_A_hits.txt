@@ -1,0 +1,8 @@
+Log created on: 17-Mar-2026 16:07:36
+
+Updated values: false
+
+ID umeccd002, variable TMT_A_hits: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd024, variable TMT_A_hits: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd064, variable TMT_A_hits: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable TMT_A_hits: skipped (umec_neuro missing, megtusalen=NaN)

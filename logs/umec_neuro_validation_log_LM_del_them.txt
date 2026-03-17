@@ -1,0 +1,5 @@
+Log created on: 17-Mar-2026 15:52:36
+
+ID umeccd038, variable LM_del_them: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd064, variable LM_del_them: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable LM_del_them: skipped (umec_neuro missing, megtusalen=NaN)

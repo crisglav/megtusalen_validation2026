@@ -1,7 +1,9 @@
 % Correct recording_id_orig typos
-megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen_corrected.tsv';
+megtusalen_in = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen.xlsx';
 
-megtusalen = readtable(megtusalen_file,'FileType','text');
+megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen_umec_corrected.xlsx';
+
+megtusalen = readtable(megtusalen_in,'Filetype','spreadsheet','VariableNamingRule','preserve');
 
 ids = megtusalen.recording_id_orig;
 
@@ -29,4 +31,4 @@ megtusalen.recording_id_orig{meg_row} = 'umeccd108';
 meg_row = find(strcmp(megtusalen.participant_id, 'UMEC-215'));
 megtusalen.recording_id_orig{meg_row} = 'umeccd108';
 
-writetable(megtusalen, megtusalen_file, 'FileType', 'text', 'Delimiter', '\t');
+writetable(megtusalen, megtusalen_file,"FileType","spreadsheet");

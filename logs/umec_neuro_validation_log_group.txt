@@ -1,0 +1,5 @@
+Log created on: 17-Mar-2026 16:21:31
+
+Updated values: false
+
+ID UMECMA093, variable group: skipped (umec_neuro missing, megtusalen=NaN)

@@ -1,0 +1,5 @@
+Log created on: 17-Mar-2026 16:10:29
+
+Updated values: false
+
+ID UMECMA093, variable word_list_delayed_recall: skipped (umec_neuro missing, megtusalen=NaN)
