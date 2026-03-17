@@ -1,0 +1,1 @@
+ID UMECMA093, variable age: skipped (umec_neuro missing, megtusalen=NaN)
