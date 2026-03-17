@@ -1,0 +1,193 @@
+umec_excel = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\source_data\UMEC_DAVID.csv';
+megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen_umec_corrected.xlsx';
+update = false;
+
+umec_neuro = readtable(umec_excel,'VariableNamingRule','preserve');
+megtusalen = readtable(megtusalen_file,'FileType','spreadsheet','VariableNamingRule','preserve');
+
+vars_megtusalen = {'age','sex','group','conversion_time','edu_years','edu_level','BADS_rules_test', 'cog_res','DTS_forward','DTS_backward','GDS_15', ...
+    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','PTF_F','PTF_A','PTF_S', ...
+    'ROCFB_simp_copy', 'ROCFB_simp_mem', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
+    'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'};
+
+vars_umec = {'Edad','sexo','Diagnostico','T_Conversion','numañosescol','Estudios','Pre_CReglas_perfil', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total','Pre_GDS', ...
+    'Pre_ML_total_unid_inm','Pre_ML_total_unid_dem','Pre_ML_total_temas_inm','Pre_ML_total_temas_dem','Pre_MMSE','Pre_F','Pre_A','Pre_S', ...
+    'Pre_Rey_copia', 'Pre_Rey_memoria', 'Pre_animales', 'Pre_TMTa_a', 'Pre_TMTa_t', 'Pre_TMTb_a', 'Pre_TMTb_t', ...
+    'Pre_LP_ap_inmediato', 'Pre_LP_4intento', 'Pre_LP_recuerdoT', 'Pre_LP_recuerdo_d', 'Pre_LP_reconoc'};
+
+nvar = 6;
+
+vars_megtusalen = vars_megtusalen(nvar); 
+vars_umec = vars_umec(nvar);
+
+ids = umec_neuro.CodigoCentroPaciente;
+n = length(ids);
+
+% Open log file
+log_file = fullfile( '..', 'logs', ['umec_neuro_validation_log_' vars_megtusalen{1} '.txt']);
+fid = fopen(log_file, 'w');
+fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
+fprintf(fid, 'Updated values: %s\n\n',string(update));
+
+n_updated = 0;
+n_not_found = 0;
+
+for i = 1:n
+    subject_ok = true;
+
+    % id = string(umec_neuro.CodigoProyecto{i});
+    id = ids{i};
+
+    % Find in megtusalen the participant with current id
+    meg_row = find(strcmp(megtusalen.recording_id_orig, id), 1);
+
+    if isempty(meg_row)
+        warning('Could not find %s\n', id)
+        fprintf(fid, 'ID %s: participant not found in megtusalen\n', id);
+        n_not_found = n_not_found + 1;
+        continue;
+    end
+
+    % Make sure that variable value in megtusalen is equal to
+    % variable value in umec_neuro
+    for ivar = 1:length(vars_umec)
+
+        varname_umec = string(vars_umec{ivar});
+        varname_megtusalen = string(vars_megtusalen{ivar});
+
+        umec_val = umec_neuro.(varname_umec)(i);
+        meg_val = megtusalen.(varname_megtusalen)(meg_row);
+
+        if iscell(umec_val)
+            if isempty(umec_val)
+                umec_val = [];
+            else
+                umec_val = umec_val{1};
+            end
+        end
+        
+        if iscell(meg_val)
+            if isempty(meg_val)
+                meg_val = [];
+            else
+                meg_val = meg_val{1};
+            end
+        end
+
+        % Deal with 999 values
+        if umec_val == 999
+            umec_val = nan;
+        end
+
+        % Convert group variable
+        if strcmp(varname_megtusalen,'group')
+            switch umec_val
+                case 1
+                    umec_val = 'SCD-';
+                case 2
+                    umec_val = 'SCD+';
+                case 3
+                    umec_val = 'MCIa';
+            end
+
+        end
+
+        % Convert sex variable
+        if strcmp(varname_megtusalen,'sex')
+            if umec_val == 1
+                umec_val = 'm';
+            elseif umec_val == 2
+                umec_val = 'f';
+            end
+        end
+
+        % % Convert edu_level
+        % if strcmp(varname_megtusalen,'edu_level')
+        %     switch umec_val
+        %         case 3
+        %             umec_val = 2;
+        %         case 4
+        %             umec_val = 3;
+        %         case 5
+        %             umec_val = 4;
+        %     end
+        % end
+
+        % Define missing flags clearly
+        umec_missing = isempty(umec_val) || ...
+              (isnumeric(umec_val) && isnan(umec_val)) || ...
+              (isstring(umec_val) && strlength(umec_val)==0);
+
+        meg_missing = isempty(meg_val) || ...
+              (isnumeric(meg_val) && isnan(meg_val)) || ...
+              (isstring(meg_val) && strlength(meg_val)==0);
+
+
+        % Convert umec_val to string safely
+        if umec_missing
+            umec_str = "NaN";
+        else
+            umec_str = string(umec_val);
+        end
+
+        % Convert meg_val to string safely
+        if meg_missing
+            meg_str = "NaN";
+        else
+            meg_str = string(meg_val);
+        end
+
+        % Case 1: umec has value and megtusalen is missing → FILL
+        if ~umec_missing && meg_missing
+            if isnumeric(umec_val)
+                megtusalen.(varname_megtusalen)(meg_row) = umec_val;
+            else
+                megtusalen.(varname_megtusalen){meg_row} = umec_val;
+            end
+            n_updated = n_updated + 1;
+
+            fprintf(fid, ...
+                'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
+                id, varname_megtusalen, umec_str);
+
+        % Case 2: both have values but differ → CORRECT
+        elseif ~umec_missing && ~meg_missing && ~isequal(umec_val, meg_val)
+            if isnumeric(umec_val)
+                megtusalen.(varname_megtusalen)(meg_row) = umec_val;
+            else
+                megtusalen.(varname_megtusalen){meg_row} = umec_val;
+            end
+            n_updated = n_updated + 1;
+
+            fprintf(fid, ...
+                'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
+                id, varname_megtusalen, meg_str, umec_str);
+
+        % Case 3: umec is missing → do nothing
+        elseif umec_missing
+            fprintf(fid, ...
+                'ID %s, variable %s: skipped (umec_neuro missing, megtusalen=%s)\n', ...
+                id, varname_megtusalen, meg_str);
+        end
+
+
+    end
+
+    if subject_ok
+        % fprintf(fid, 'ID %s: subject ok\n', id);
+    end
+
+end
+
+fclose(fid);
+fprintf('Validation finished. Log saved to %s\n', log_file);
+
+if update
+    writetable(megtusalen, megtusalen_file, 'FileType', 'spreadsheet');
+    
+    fprintf('Correction finished.\n');
+    fprintf('Updated values: %d\n', n_updated);
+    fprintf('Participants not found: %d\n', n_not_found);
+    fprintf('Corrected file saved to: %s\n', megtusalen_file);
+    fprintf('Log saved to: %s\n', log_file);
+end
