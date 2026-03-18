@@ -1,0 +1,56 @@
+Log created on: 18-Mar-2026 16:19:31
+
+Variable: group
+Updated values: false
+
+ID FAMMA018: participant not found in megtusalen
+ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
+Log created on: 18-Mar-2026 16:36:25
+
+Variable: group
+Updated values: true
+
+ID FAMMA018: participant not found in megtusalen
+ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
+Log created on: 18-Mar-2026 16:42:36
+
+Variable: group
+Updated values: true
+
+ID FAMMA018: participant not found in megtusalen
+ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
+Log created on: 18-Mar-2026 16:42:50
+
+Variable: group
+Updated values: true
+
+ID FAMMA018: participant not found in megtusalen
+ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)

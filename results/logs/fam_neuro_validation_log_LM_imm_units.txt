@@ -1,0 +1,128 @@
+Log created on: 18-Mar-2026 16:19:32
+
+Variable: LM_imm_units
+Updated values: false
+
+ID FAMCOMPLUTENSE011, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMUNED698, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA040, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:36:25
+
+Variable: LM_imm_units
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMUNED698, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA040, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:42:36
+
+Variable: LM_imm_units
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMUNED698, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA040, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:42:50
+
+Variable: LM_imm_units
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMUNED698, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA040, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable LM_imm_units: skipped (fam_neuro missing, megtusalen=NaN)

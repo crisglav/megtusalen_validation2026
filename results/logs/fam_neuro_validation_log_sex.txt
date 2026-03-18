@@ -1,53 +1,88 @@
-Comparison: ../data/source_data/BBDD Conjunta 261 familiares.xlsx vs ../results/participants_megtusalen_fam_corrected.xlsx
-Variable to compare: sex
-Date: 17-Mar-2026 16:19:26
-Updated values: 4
-Participants not found: 1
-Participants in megtusalen not in fam: 6
-----------------------------------------
+Log created on: 18-Mar-2026 16:19:31
+
+Variable: sex
+Updated values: false
+
 ID FAMMA018: participant not found in megtusalen
-
 ID FAMMA032, variable sex: skipped (fam_neuro missing, megtusalen=m)
-
 ID FAMCOMPLUTENSE022, variable sex: corrected - old=m, new=f
-
 ID FAMCTB103, variable sex: skipped (fam_neuro missing, megtusalen=m)
-
 ID FAMCOMPLUTENSE013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMCOMPLUTENSE014, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMCOMPLUTENSE019, variable sex: skipped (fam_neuro missing, megtusalen=f)
-
 ID FAMCTB079, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMCTB088, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMCTB090, variable sex: filled missing - old=NaN, new=f
-
 ID FAMCTB091, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMMA050, variable sex: filled missing - old=NaN, new=f
-
 ID FAMMA051, variable sex: filled missing - old=NaN, new=f
-
 ID FAMMA066, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMMA067, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMMA068, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
-
 ID FAMNC013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:36:25
 
-ID FAMMA018 (UMECMA037): present in megtusalen but NOT in fam_neuro
+Variable: sex
+Updated values: true
 
-ID FAMCTB105: present in megtusalen but NOT in fam_neuro
+ID FAMMA018: participant not found in megtusalen
+ID FAMMA032, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE022, variable sex: corrected - old=m, new=f
+ID FAMCTB103, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable sex: skipped (fam_neuro missing, megtusalen=f)
+ID FAMCTB079, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable sex: filled missing - old=NaN, new=f
+ID FAMCTB091, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable sex: filled missing - old=NaN, new=f
+ID FAMMA051, variable sex: filled missing - old=NaN, new=f
+ID FAMMA066, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:42:36
 
-ID FAMCTB109: present in megtusalen but NOT in fam_neuro
+Variable: sex
+Updated values: true
 
-ID FAMCTB108: present in megtusalen but NOT in fam_neuro
+ID FAMMA018: participant not found in megtusalen
+ID FAMMA032, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE022, variable sex: corrected - old=m, new=f
+ID FAMCTB103, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable sex: skipped (fam_neuro missing, megtusalen=f)
+ID FAMCTB079, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable sex: filled missing - old=NaN, new=f
+ID FAMCTB091, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable sex: filled missing - old=NaN, new=f
+ID FAMMA051, variable sex: filled missing - old=NaN, new=f
+ID FAMMA066, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 16:42:50
 
-ID FAMCTB104: present in megtusalen but NOT in fam_neuro
+Variable: sex
+Updated values: true
 
-ID FAMCTB106: present in megtusalen but NOT in fam_neuro
-
+ID FAMMA018: participant not found in megtusalen
+ID FAMMA032, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE022, variable sex: corrected - old=m, new=f
+ID FAMCTB103, variable sex: skipped (fam_neuro missing, megtusalen=m)
+ID FAMCOMPLUTENSE013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable sex: skipped (fam_neuro missing, megtusalen=f)
+ID FAMCTB079, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable sex: filled missing - old=NaN, new=f
+ID FAMCTB091, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable sex: filled missing - old=NaN, new=f
+ID FAMMA051, variable sex: filled missing - old=NaN, new=f
+ID FAMMA066, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable sex: skipped (fam_neuro missing, megtusalen=NaN)
