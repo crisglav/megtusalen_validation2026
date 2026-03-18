@@ -1,0 +1,16 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: word_list_recognition
+Updated values: false
+
+ID UMECNC017, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC021, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: word_list_recognition
+Updated values: true
+
+ID UMECNC017, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC021, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable word_list_recognition: skipped (umec_neuro missing, megtusalen=NaN)

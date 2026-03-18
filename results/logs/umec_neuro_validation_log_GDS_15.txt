@@ -1,0 +1,22 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: GDS_15
+Updated values: false
+
+ID umeccd040, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC002, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC014, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd058, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC019, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: GDS_15
+Updated values: true
+
+ID umeccd040, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC002, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC014, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd058, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC019, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable GDS_15: skipped (umec_neuro missing, megtusalen=NaN)

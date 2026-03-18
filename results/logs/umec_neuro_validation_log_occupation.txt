@@ -1,0 +1,14 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: occupation
+Updated values: false
+
+ID umeccd057, variable occupation: skipped (umec_neuro missing, megtusalen=5)
+ID UMECMA093, variable occupation: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: occupation
+Updated values: true
+
+ID umeccd057, variable occupation: skipped (umec_neuro missing, megtusalen=5)
+ID UMECMA093, variable occupation: skipped (umec_neuro missing, megtusalen=NaN)

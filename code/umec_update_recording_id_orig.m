@@ -1,7 +1,7 @@
 % Correct recording_id_orig typos
 megtusalen_in = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen.xlsx';
 
-megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen_umec_corrected.xlsx';
+megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\results\participants_megtusalen_umec_corrected.xlsx';
 
 megtusalen = readtable(megtusalen_in,'Filetype','spreadsheet','VariableNamingRule','preserve');
 

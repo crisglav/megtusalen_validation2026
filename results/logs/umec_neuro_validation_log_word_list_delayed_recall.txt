@@ -1,0 +1,12 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: word_list_delayed_recall
+Updated values: false
+
+ID UMECMA093, variable word_list_delayed_recall: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: word_list_delayed_recall
+Updated values: true
+
+ID UMECMA093, variable word_list_delayed_recall: skipped (umec_neuro missing, megtusalen=NaN)

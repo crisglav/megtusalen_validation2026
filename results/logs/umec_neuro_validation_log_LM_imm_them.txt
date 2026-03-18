@@ -1,0 +1,14 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: LM_imm_them
+Updated values: false
+
+ID umeccd064, variable LM_imm_them: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable LM_imm_them: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: LM_imm_them
+Updated values: true
+
+ID umeccd064, variable LM_imm_them: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable LM_imm_them: skipped (umec_neuro missing, megtusalen=NaN)

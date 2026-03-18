@@ -1,0 +1,42 @@
+Log created on: 18-Mar-2026 15:22:10
+
+Variable: SFT_names
+Updated values: false
+
+ID umeccd015, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd005, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd024, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd047, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd083, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd077, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd087, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd064, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd098, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd095, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd090, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd104, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd103, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd105, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd109, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 18-Mar-2026 15:23:40
+
+Variable: SFT_names
+Updated values: true
+
+ID umeccd015, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd005, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd024, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd047, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd083, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd077, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd087, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd064, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd098, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd095, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd090, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd104, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd103, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd105, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd109, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA093, variable SFT_names: skipped (umec_neuro missing, megtusalen=NaN)
