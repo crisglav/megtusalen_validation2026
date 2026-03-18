@@ -5,12 +5,13 @@ update = false;
 umec_neuro = readtable(umec_excel,'VariableNamingRule','preserve');
 megtusalen = readtable(megtusalen_file,'FileType','spreadsheet','VariableNamingRule','preserve');
 
-vars_megtusalen = {'group','age','sex','edu_years','BADS_rules_test', 'cog_res','DTS_forward','DTS_backward','GDS_15', ...
+
+vars_megtusalen = {'age','sex','group','conversion_time','edu_years','edu_level','BADS_rules_test', 'cog_res','DTS_forward','DTS_backward','GDS_15', ...
     'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','PTF_F','PTF_A','PTF_S', ...
     'ROCFB_simp_copy', 'ROCFB_simp_mem', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
     'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'};
 
-vars_umec = {'Diagnostico','Edad','sexo','numañosescol','Pre_CReglas_perfil', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total','Pre_GDS', ...
+vars_umec = {'Edad','sexo','Diagnostico','T_Conversion','numañosescol','Estudios','Pre_CReglas_perfil', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total','Pre_GDS', ...
     'Pre_ML_total_unid_inm','Pre_ML_total_unid_dem','Pre_ML_total_temas_inm','Pre_ML_total_temas_dem','Pre_MMSE','Pre_F','Pre_A','Pre_S', ...
     'Pre_Rey_copia', 'Pre_Rey_memoria', 'Pre_animales', 'Pre_TMTa_a', 'Pre_TMTa_t', 'Pre_TMTb_a', 'Pre_TMTb_t', ...
     'Pre_LP_ap_inmediato', 'Pre_LP_4intento', 'Pre_LP_recuerdoT', 'Pre_LP_recuerdo_d', 'Pre_LP_reconoc'};
@@ -74,6 +75,11 @@ for i = 1:n
             end
         end
 
+        % Deal with 999 values
+        if umec_val == 999
+            umec_val = nan;
+        end
+
         % Convert group variable
         if strcmp(varname_megtusalen,'group')
             switch umec_val
@@ -86,7 +92,7 @@ for i = 1:n
             end
 
         end
-    
+
         % Convert sex variable
         if strcmp(varname_megtusalen,'sex')
             if umec_val == 1
@@ -95,6 +101,18 @@ for i = 1:n
                 umec_val = 'f';
             end
         end
+
+        % % Convert edu_level
+        % if strcmp(varname_megtusalen,'edu_level')
+        %     switch umec_val
+        %         case 3
+        %             umec_val = 2;
+        %         case 4
+        %             umec_val = 3;
+        %         case 5
+        %             umec_val = 4;
+        %     end
+        % end
 
         % Define missing flags clearly
         umec_missing = isempty(umec_val) || ...
