@@ -1,12 +1,12 @@
 clear all
 close all
 
-umec_excel = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\source_data\UMEC_DAVID.csv';
-megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\results\participants_megtusalen_umec_corrected.xlsx';
+umec_excel = '../data/source_data/UMEC_DAVID.csv';
+megtusalen_excel = '../results/participants_megtusalen_umec_corrected.xlsx';
 update = true;
 
 umec_neuro = readtable(umec_excel,'VariableNamingRule','preserve');
-megtusalen = readtable(megtusalen_file,'FileType','spreadsheet','VariableNamingRule','preserve');
+megtusalen = readtable(megtusalen_excel,'FileType','spreadsheet','VariableNamingRule','preserve');
 
 vars = struct( ...
     'megtusalen', ...
@@ -28,15 +28,6 @@ vars = struct( ...
 id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'umec' , {'CodigoCentroPaciente'});
 ids = umec_neuro.(id_vars(1).umec);
 n = length(ids);
-
-% nvar = 1;
-% vars = vars(nvar);
-%
-% % Open log file
-% log_file = fullfile( '..', 'logs', ['umec_neuro_validation_log_' vars_megtusalen{1} '.txt']);
-% fid = fopen(log_file, 'w');
-% fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
-% fprintf(fid, 'Updated values: %s\n\n',string(update));
 
 n_updated = 0;
 n_not_found = 0;
@@ -210,11 +201,11 @@ end
 fprintf('Validation finished.\n');
 
 if update
-    writetable(megtusalen, megtusalen_file, 'FileType', 'spreadsheet');
+    writetable(megtusalen, megtusalen_excel, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
     fprintf('Updated values: %d\n', n_updated);
     fprintf('Participants not found: %d\n', n_not_found);
-    fprintf('Corrected file saved to: %s\n', megtusalen_file);
+    fprintf('Corrected file saved to: %s\n', megtusalen_excel);
     fprintf('Log saved to: %s\n', log_file);
 end
