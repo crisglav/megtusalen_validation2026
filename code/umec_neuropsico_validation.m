@@ -64,7 +64,7 @@ for ivar = 1:length(vars)
         end
 
 
-        % Value for this participant an this variable
+        % Value for this participant and this variable
         umec_val = umec_neuro.(varname_umec)(i);
         meg_val = megtusalen.(varname_megtusalen)(meg_row);
 

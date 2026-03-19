@@ -9,37 +9,59 @@ clc
 clear
 close all
 
-fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
-megtusalen_excel = '../data/participants_megtusalen.xlsx';
-out_file = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
+fam_gen_excel = '../data/source_data/familiares Resultados resto pacientes abril 2019.xlsx';
+megtusalen_excel = '../results/participants_megtusalen_fam_corrected.xlsx';
+out_file = '../results/participants_megtusalen_fam_corrected.xlsx';
 update = true;
 
-fam_gen = readtable(fam_gen_excel ,'Sheet','Genética');
+fam_gen = readtable(fam_gen_excel );
 megtusalen = readtable(megtusalen_excel);
 
-vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
+% vars_megtusalen = {'ACT', ...
+%                    'APOE', ...
+%                    'BACE1', ...
+%                    'BDNF', ...
+%                    'CHRNA7', ...
+%                    'CLU', ...
+%                    'COMT', ...
+%                    'CR1', ...
+%                    'ERBB4', ...
+%                    'NRG1', ...
+%                    'PICALM'};
+% 
+% vars_fam = {'AACT_rs4934', ...
+%             'APOE_Haplotipo', ...
+%             'BACE1_rs638405', ...
+%             'BDNF_rs6265', ...
+%             'CHRNA7_P', ...
+%             'CLU_rs11136000', ...
+%             'COMT_rs4680', ...
+%             'CR1_rs3818361', ...
+%             'ERBB4_rs839523', ...
+%             'NRG1_rs6994992', ...
+%             'PICALM_rs3851179'};
 
-% Match vars name with fam_neuro cols:
-vars_fam = cell(1,length(vars_megtusalen));
+vars_megtusalen = {'APOE', ...
+                   'BDNF'};
 
-for i = 1:length(vars_megtusalen)
-    col_match = find(contains(fam_gen.Properties.VariableNames, vars_megtusalen{i},'IgnoreCase', true));
-    if ~isempty(col_match)
-        vars_fam{i} = fam_gen.Properties.VariableNames{col_match(1)};
-    else
-        warning('Variable %s not found in fam_neuro', vars_megtusalen{i});
-        vars_fam{i} = ''; % o NaN, según prefieras
-    end
-end
+vars_fam = {'APOE_Haplotipo', ...
+            'BDNF_rs6265'};
 
 vars = struct('megtusalen',vars_megtusalen,'fam',vars_fam);
 
-id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'CodigoProyecto'});
+id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'Id'});
 ids = fam_gen.(id_vars(1).fam);
 n = length(ids);
 
 % IDs megtusalen
 ids_meg = string(megtusalen.(id_vars(1).megtusalen));
+% ids_meg = cellfun(@(x) str2double(x{1}), regexp(ids_meg, '\d{3}$', 'match'));
+
+% % Open log file
+% log_file = ['../results/logs/fam_gen_validation_log_' vars_megtusalen{1} '.txt'];  % overwrites preexisting logs
+% fid = fopen(log_file, 'w');
+% 
+% log_lines = {};  % cell array vacío para guardar todas las líneas
 
 n_updated = 0;
 n_not_found = 0;
@@ -53,7 +75,7 @@ for ivar = 1:length(vars)
 
     % Open log file per variable
     log_file = fullfile('..', 'results', 'logs', ['fam_gen_validation_log_' varname_megtusalen '.txt']);
-    fid = fopen(log_file, 'a');
+    fid = fopen(log_file, 'w');
 
     fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
     fprintf(fid, 'Variable: %s\n', varname_megtusalen);
@@ -64,6 +86,15 @@ for ivar = 1:length(vars)
 
         % ID familiares
         id_fam = string(fam_gen.(id_vars(1).fam){i});
+        % id_fam = str2double(regexp(id_fam, '\d{3}$', 'match'));
+        % if isempty(id_fam)
+        %     continue
+        % end
+
+        % % Find in megtusalen the participant with current id
+        % match_idx = mod(ids_meg,1000) == id_fam; % Logical match on last 3 digits
+        % isF = startsWith(megtusalen.(id_vars(1).megtusalen), 'F'); % Among matches, find starting with 'F'
+        % meg_row = find(match_idx & isF, 1);   % first F match
 
         meg_row = find(strcmp(megtusalen.(id_vars(1).megtusalen), id_fam), 1);
 
@@ -157,6 +188,9 @@ for ivar = 1:length(vars)
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
                 id_fam, varname_megtusalen, fam_str);
 
+            % log_lines{end+1} = sprintf( ...
+            %     'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
+            %     id_fam, varname_megtusalen, fam_str);
 
             % Case 2: both have values but differ → CORRECT
         elseif ~fam_missing && ~meg_missing && ~isequal(fam_val, meg_val)
@@ -165,7 +199,8 @@ for ivar = 1:length(vars)
                 megtusalen.(varname_megtusalen){meg_row} = fam_val; % cell → usar {}
             elseif iscategorical(megtusalen.(varname_megtusalen)) || isstring(megtusalen.(varname_megtusalen)) || isnumeric(megtusalen.(varname_megtusalen))
                 megtusalen.(varname_megtusalen)(meg_row) = fam_val;% otros → usar ()
-
+                % else
+                %     error('Tipo de columna no soportado: %s', class(megtusalen.(varname_megtusalen)));
             end
 
             n_updated = n_updated + 1;
@@ -174,9 +209,15 @@ for ivar = 1:length(vars)
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
                 id_fam, varname_megtusalen, meg_str, fam_str);
 
-          
+            % log_lines{end+1} = sprintf( ...
+            %     'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
+            %     id_fam, varname_megtusalen, meg_str, fam_str);
+
             % Case 3: fam is missing → do nothing
         elseif fam_missing
+            % log_lines{end+1} = sprintf( ...
+            %     'ID %s, variable %s: skipped (fam_neuro missing, megtusalen=%s)\n', ...
+            %     id_fam, varname_megtusalen, meg_str);
 
             fprintf(fid, ...
                 'ID %s, variable %s: skipped (fam_neuro missing, megtusalen=%s)\n', ...
@@ -235,9 +276,9 @@ if update
     writetable(megtusalen, out_file);
 
     fprintf('Correction finished.\n');
-%     fprintf('Updated values: %d\n', n_updated);
-%     fprintf('Participants not found: %d\n', n_not_found);
-%     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-%     fprintf('Corrected file saved to: %s\n', out_file);
-%     fprintf('Log saved to: %s\n', log_file);
+    % fprintf('Updated values: %d\n', n_updated);
+    % fprintf('Participants not found: %d\n', n_not_found);
+    % fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
+    % fprintf('Corrected file saved to: %s\n', out_file);
+    % fprintf('Log saved to: %s\n', log_file);
 end

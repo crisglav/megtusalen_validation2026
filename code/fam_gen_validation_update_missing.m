@@ -9,32 +9,23 @@ clc
 clear
 close all
 
-fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
-megtusalen_excel = '../data/participants_megtusalen.xlsx';
+fam_gen_excel = '../data/source_data/familiares Resultados pendientes julio 2019.xlsx';
+megtusalen_excel = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
 out_file = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
 update = true;
 
-fam_gen = readtable(fam_gen_excel ,'Sheet','Genética');
+fam_gen = readtable(fam_gen_excel);
 megtusalen = readtable(megtusalen_excel);
 
-vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
+vars_megtusalen = {'ACT','APOE','BACE1','BDNF','CHRNA7','CLU','COMT','CR1','ERBB4','NRG1','PICALM'};
 
-% Match vars name with fam_neuro cols:
-vars_fam = cell(1,length(vars_megtusalen));
-
-for i = 1:length(vars_megtusalen)
-    col_match = find(contains(fam_gen.Properties.VariableNames, vars_megtusalen{i},'IgnoreCase', true));
-    if ~isempty(col_match)
-        vars_fam{i} = fam_gen.Properties.VariableNames{col_match(1)};
-    else
-        warning('Variable %s not found in fam_neuro', vars_megtusalen{i});
-        vars_fam{i} = ''; % o NaN, según prefieras
-    end
-end
+vars_fam = {'AACT_rs4934','APOE_Haplotipo','BACE1_rs638405','BDNF_rs6265', ...
+     'CHRNA7_P','CLU_rs11136000','COMT_rs4680','CR1_rs3818361', ...
+     'ERBB4_rs839523','NRG1_rs6994992','PICALM_rs3851179'};
 
 vars = struct('megtusalen',vars_megtusalen,'fam',vars_fam);
 
-id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'CodigoProyecto'});
+id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'Id'});
 ids = fam_gen.(id_vars(1).fam);
 n = length(ids);
 
@@ -157,7 +148,6 @@ for ivar = 1:length(vars)
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
                 id_fam, varname_megtusalen, fam_str);
 
-
             % Case 2: both have values but differ → CORRECT
         elseif ~fam_missing && ~meg_missing && ~isequal(fam_val, meg_val)
 
@@ -174,7 +164,7 @@ for ivar = 1:length(vars)
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
                 id_fam, varname_megtusalen, meg_str, fam_str);
 
-          
+
             % Case 3: fam is missing → do nothing
         elseif fam_missing
 
