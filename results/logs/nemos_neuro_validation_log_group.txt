@@ -1,0 +1,16 @@
+Comparison: ../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx vs ../results/participants_megtusalen_nemos_corrected.xlsx
+Variable to compare: group
+Date: 19-Mar-2026 12:49:10
+Updated excel: true
+Updated values: 4
+Participants not found: 0
+Participants in megtusalen not in nemos: 0
+----------------------------------------
+ID NEMOS-001, variable group: corrected - old=MCIa, new=DCLa'
+
+ID NEMOS-141, variable group: corrected - old=MCIa, new=DCL
+
+ID NEMOS-184, variable group: corrected - old=MCIa, new=DCL
+
+ID NEMOS-190, variable group: corrected - old=MCIa, new=DCL
+
