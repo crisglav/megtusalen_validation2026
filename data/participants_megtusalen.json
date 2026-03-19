@@ -83,21 +83,31 @@
         "Description": "Education level status.",
         "Levels": {
             "1": "Illiterate / Functionally illiterate",
-            "2": "Basic education / Primary education",
-            "3": "Secondary education",
-            "4": "Higher education"
+            "2": "Basic education / Primary education (6-12)",
+            "3": "Secondary education (12-16)",
+            "4": "Mid education  / Bachelor (16-18)",
+            "5": "Higher education / University"
         }
     },
     "occupation": {
         "LongName": "Occupation",
         "Description": "Employment type.",
         "Levels": {
-            "1": "Unskilled",
-            "2": "Skilled",
-            "3": "Professional",
-            "4": "Executive / Researcher"
+            "1": "No work",
+            "2": "Unskilled",
+            "3": "Skilled",
+            "4": "Professional",
+            "5": "Executive / Researcher"
         }
     },
+    "cognitive_stimulation": {
+        "LongName": "Cognitive stimulation",
+        "Description": "Variable that indicates wether the participant has done cognitive stimulation on their own",
+        "Levels": {
+            "1": "yes", 
+            "2": "no", 
+        }
+    }, 
     "BADS_rules_test": {
         "LongName": "Behavioural Assessment of the Dysexecutive Syndrome, Rule Shift Cards Test",
         "Instructions": "Participants respond “Yes” or “No” to a sequence of red and black cards, first according to card color and then according to whether the card matches the color of the previous card, requiring them to shift rules during the task. The score reflectes the performance, being 4 perfect performance and 0 unable to follow the rule.",
