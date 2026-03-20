@@ -83,10 +83,10 @@
         "LongName": "Education level",
         "Description": "Education level status for UMEC project.",
         "Levels": {
-            "1": "Self-taught reader and writer",
+            "1": "Illiterate / Functionally illiterate",
             "2": "Basic education (< 6 years)",
             "3": "Primary education (> 6 years)",
-            "4": "Secondary education (> 9 years)",
+            "4": "Mid education  / Bachelor (16-18)",
             "5": "Higher education / University"
         }
     },
@@ -105,25 +105,14 @@
         "LongName": "Education level",
         "Description": "Education level status for FAM project.",
         "Levels": {
-            "1": "Self-taught reader and writer",
-            "2": "Basic education (< 6 years)",
-            "3": "Primary education (> 6 years)",
-            "4": "Secondary education (> 9 years)",
+            "1": "Illiterate / Functionally illiterate",
+            "2": "Basic education / Primary education (6-12)",
+            "3": "Secondary education (12-16)",
+            "4": "Mid education  / Bachelor (16-18)",
             "5": "Higher education / University"
         }
     },
-    "occupation_umec": {
-        "LongName": "Occupation",
-        "Description": "Employment type.",
-        "Levels": {
-            "0": "Unskilled (including household duties)",
-            "1": "Skilled manual (trades, service workers)",
-            "2": "Skilled non-manual (including clerical, technical, business owners)",
-            "3": "Professional (higher education)",
-            "4": "Executive / Researcher"
-        }
-    },
-    "occupation_nemos": {
+    "occupation": {
         "LongName": "Occupation",
         "Description": "Employment type.",
         "Levels": {
@@ -132,17 +121,6 @@
             "3": "Skilled",
             "4": "Professional",
             "5": "Executive / Researcher"
-        }
-    },
-    "occupation_fam": {
-        "LongName": "Occupation",
-        "Description": "Employment type.",
-        "Levels": {
-            "0": "Unskilled (including household duties)",
-            "1": "Skilled manual (trades, service workers)",
-            "2": "Skilled non-manual (including clerical, technical, business owners)",
-            "3": "Professional (higher education)",
-            "4": "Executive / Researcher"
         }
     },
     "cognitive_stimulation": {
