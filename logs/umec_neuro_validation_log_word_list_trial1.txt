@@ -1,5 +1,0 @@
-Log created on: 17-Mar-2026 16:09:54
-
-Updated values: false
-
-ID UMECMA093, variable word_list_trial1: skipped (umec_neuro missing, megtusalen=NaN)

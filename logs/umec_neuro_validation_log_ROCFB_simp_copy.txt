@@ -1,8 +1,0 @@
-Log created on: 17-Mar-2026 16:03:22
-
-Updated values: false
-
-ID umeccd024, variable ROCFB_simp_copy: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECNC011, variable ROCFB_simp_copy: filled missing - old=NaN, new=999
-ID umeccd064, variable ROCFB_simp_copy: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable ROCFB_simp_copy: skipped (umec_neuro missing, megtusalen=NaN)

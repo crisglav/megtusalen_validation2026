@@ -1,12 +1,4 @@
-Log created on: 18-Mar-2026 15:22:10
-
-Variable: LM_del_units
-Updated values: false
-
-ID umeccd038, variable LM_del_units: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd064, variable LM_del_units: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable LM_del_units: skipped (umec_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 15:23:40
+Log created on: 20-Mar-2026 16:41:52
 
 Variable: LM_del_units
 Updated values: true
