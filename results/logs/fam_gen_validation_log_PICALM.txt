@@ -1,0 +1,299 @@
+Log created on: 20-Mar-2026 16:41:09
+
+Variable: PICALM
+Updated values: true
+
+ID FAMNC004, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC005, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC001, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA002, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA004, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA001, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA005, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA007, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA003, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA008, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA006, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE005, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE001, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA012, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE007, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE002, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA011, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA013, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE006, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE008, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE003, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE009, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC003, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC003, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA014, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA010, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE011, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC004, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC005, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA017, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA016, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC006, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC002, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE012, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA019, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE016, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC008, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC007, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLUTENSE010, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE017, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA015, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCD002, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCD001, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA024, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA021, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMUNED577, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED696, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED697, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA026, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA022, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA020, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA025, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA009, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED699, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED698, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED579, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA023, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC009, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMUNED639, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED525, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMNC010, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMGC010, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC006, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC008, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC007, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA027, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE018, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC001, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA029, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA028, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA038, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA039, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA030, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA041, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED599, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA032, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA034, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA042, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA044, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA043, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA045, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA035, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA036, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA033, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA031, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA049, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA046, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA055, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA063, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA054, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA053, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA047, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA048, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC015, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA057, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA056, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC011, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA058, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA037, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA052, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA072, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA073, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA071, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCD003, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC016, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA070, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA076, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB021, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB006, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB019, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMGC014, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC013, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB008, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC011, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB026, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB004, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB005, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB022, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB023, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB007, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA074, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCD004, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB020, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB035, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB028, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB017, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB009, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA077, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMGC017, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB044, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB045, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMUNED443, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED605, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB027, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMUNED624, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED633, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA079, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB038, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB043, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB042, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB015, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB059, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB049, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB014, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB003, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB057, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB002, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA040, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB011, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB040, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB046, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC015, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB013, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB012, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB041, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB048, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB029, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB034, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB032, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB033, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB037, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB089, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB092, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB039, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB061, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB010, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMGC020, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC021, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB063, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB025, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB016, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMUNED561, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB058, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB067, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB068, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB073, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB065, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB076, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB071, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB072, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB087, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMGC018, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB082, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB052, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB055, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB064, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB056, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB031, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC014, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB053, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB054, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB098, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB099, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB069, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB074, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB070, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB080, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA075, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB093, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMNC012, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB084, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB047, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA078, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB066, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB078, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB083, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMGC019, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB062, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMCTB018, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB050, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB086, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB036, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB085, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE022, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB075, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB081, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB024, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA080, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB030, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB095, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB100, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB094, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB102, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLUTENSE019, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB077, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB079, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMGC012, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA050, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA059, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA060, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA061, variable PICALM: filled missing - old=NaN, new=AA
+ID FAMMA062, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA064, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMMA065, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA066, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA069, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMMA081, variable PICALM: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC002, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMNC013, variable PICALM: filled missing - old=NaN, new=GG
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:50
+
+Variable: PICALM
+Updated values: true
+
+ID FAMCTB024, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCOMPLU23: participant not found in megtusalen
+ID FAMCTB100, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB030, variable PICALM: filled missing - old=NaN, new=NAN
+ID FAMCOMPLU22: participant not found in megtusalen
+ID FAMCOMPLU21: participant not found in megtusalen
+ID FAMCTB015, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB101, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB050, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB060, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCOMPLU20: participant not found in megtusalen
+ID FAMCTB097, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB096, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB058, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB001, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB014, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB033, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB045, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB051, variable PICALM: filled missing - old=NaN, new=AG
+ID FAMCTB052, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB102, variable PICALM: filled missing - old=NaN, new=GG
+ID FAMCTB084, variable PICALM: filled missing - old=NaN, new=AG
