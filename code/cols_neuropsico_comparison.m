@@ -16,7 +16,7 @@ megtusalen = readtable(megtusalen_excel);
 cols_fam = fam_neuro.Properties.VariableNames(:, 45:end)'; 
 cols_nemos = nemos_neuro.Properties.VariableNames(:, 13:43)'; 
 cols_umec = umec_neuro.Properties.VariableNames(:, 52:109)'; 
-cols_megtusalen = megtusalen.Properties.VariableNames'; 
+cols_megtusalen = megtusalen.Properties.VariableNames(:,14:53)'; 
 
 
 
