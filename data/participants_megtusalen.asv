@@ -1,0 +1,439 @@
+{
+    "project_id" : {
+        "LongName": "Project ID",
+        "Description": "Project identificator",
+        "Levels": {
+            "UMEC": "UMEC",
+            "NEMOS": "NEMOS",
+            "FAM": "FAMILIARES"
+        }
+    },
+    "participant_id": {
+        "LongName": "Participant ID",
+        "Description": "Participant identificator"
+    },
+    "age": {
+        "LongName": "Age",
+        "Description": "Age at first MEG recording.",
+        "Units": "years"
+    },
+    "sex": {
+        "LongName": "Biological sex",
+        "Description": "Biological sex at birth.",
+        "Levels": {
+            "m": "Male",
+            "f": "Female"
+        }
+    },
+    "group": {
+        "LongName": "Participant group",
+        "Description": "Group to which the participant belongs based on their clinical diagnosis.",
+        "Levels": {
+            "SCD-": "Healthy participant without Subjective Congnitve Decline",
+            "SCD+": "Participant with Subjective Cognitive Decline",
+            "MCIa": "Participant with Mild Cognitive Impairment, amnesic type",
+            "MCIm": "Participant with Mild Cognitive Impairment, multidomain type",
+            "MCI-": "Healthy participant without Mild Cognitive Impairment",
+            "FH-": "Healthy participant without a Family History of Alzheimer's Disease",
+            "FH+": "Healthy participant with a Family History of Alzheimer's Disease",
+            "AD": "Participant with Alzheimer's disease"
+        }
+    },
+    "diagnosis": {
+        "LongName": "Clinical diagnosis",
+        "Description": "Clinical diagnosis.",
+        "Levels": {
+            "HC": "Healthy control",
+            "SCD": "Subjective cognitive decline",
+            "MCI": "Mild cognitive impairment",
+            "FH": "Healthy participant with a Family History of Alzheimer's Disease",
+            "AD": "Alzheimer's disease"
+        }
+    },
+    "converter": {
+        "LongName": "Alzheimer's Disease Converter",
+        "Description": "Indicates whether an MCI participant converted to AD or other type of dementia or remained stable.",
+        "Levels": {
+            "0": "No converter", 
+            "1": "Converter from MCI to AD"; 
+            "2": "Converter from MCI to other dementia", 
+        }
+    },
+     "conversion_time": {
+        "LongName": "Time to conversion to Alzheimer's Disease or other dementia",
+        "Description": "Time to conversion to Alzheimer's Disease or other dementia.",
+        "Units": "months"
+    },
+    "family_history":{
+        "LongName": "Family history of dementia",
+        "Description": "Variable that indicates whether a participant has a family history of dementia.",
+        "Levels": {
+            "0": "No family history of dementia",
+            "1": "A first degree family member with dementia",
+            "2": "A second degree family member with dementia",
+            "3": "A first and second degree family member with dementia"
+        }
+    },
+    "edu_years": {
+        "LongName": "Education years",
+        "Description": "Completed years of formal education.",
+        "Units": "years (max.20 years)"
+    },
+    "edu_level_umec": {
+        "LongName": "Education level",
+        "Description": "Education level status for UMEC project.",
+        "Levels": {
+            "1": "Illiterate / Functionally illiterate",
+            "2": "Basic education (< 6 years)",
+            "3": "Primary education (> 6 years)",
+            "4": "Mid education  / Bachelor (16-18)",
+            "5": "Higher education / University"
+        }
+    },
+    "edu_level_nemos": {
+        "LongName": "Education level",
+        "Description": "Education level status for NEMOS project.",
+        "Levels": {
+            "1": "Illiterate / Functionally illiterate",
+            "2": "Basic education / Primary education (6-12)",
+            "3": "Secondary education (12-16)",
+            "4": "Mid education  / Bachelor (16-18)",
+            "5": "Higher education / University"
+        }
+    },
+    "edu_level_fam": {
+        "LongName": "Education level",
+        "Description": "Education level status for FAM project.",
+        "Levels": {
+            "1": "Illiterate / Functionally illiterate",
+            "2": "Basic education / Primary education (6-12)",
+            "3": "Secondary education (12-16)",
+            "4": "Mid education  / Bachelor (16-18)",
+            "5": "Higher education / University"
+        }
+    },
+    "occupation": {
+        "LongName": "Occupation",
+        "Description": "Employment type.",
+        "Levels": {
+            "1": "No work",
+            "2": "Unskilled",
+            "3": "Skilled",
+            "4": "Professional",
+            "5": "Executive / Researcher"
+        }
+    },
+    "cognitive_stimulation": {
+        "LongName": "Cognitive stimulation",
+        "Description": "Variable that indicates wether the participant has done cognitive stimulation on their own",
+        "Levels": {
+            "1": "yes", 
+            "2": "no", 
+        }
+    }, 
+    "BADS_rules_test": {
+        "LongName": "Behavioural Assessment of the Dysexecutive Syndrome, Rule Shift Cards Test",
+        "Instructions": "Participants respond “Yes” or “No” to a sequence of red and black cards, first according to card color and then according to whether the card matches the color of the previous card, requiring them to shift rules during the task. The score reflectes the performance, being 4 perfect performance and 0 unable to follow the rule.",
+        "Range": [
+            0,4
+        ],
+        "ReferencesAndLinks": "Wilson, B. A., Evans, J. J., Alderman, N., Burgess, P. W., & Emslie, H. (1996). Behavioural Assessment of the Dysexecutive Syndrome (BADS). Bury St Edmunds, UK: Thames Valley Test Company."
+    },
+    "BNT_spon": {
+        "LongName": "Boston Naming Test, correct spontaneous responses",
+        "Instructions": "Subjects identify 60 line-drawn objects of increasing complexity, with 20 seconds per object. If the participant can't name the object a semantic clue is given. If the participant can't name the object after the semantic clue, a phonological clue is given. The variable indicates the number of spontaneous responses, without any clue given.",
+        "Range": [
+            0,60
+        ],
+        "ReferencesAndLinks": "Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Lippincott Williams & Wilkins."
+    },
+    "BNT_sem": {
+        "LongName": "Boston Naming Test, correct responses with a phonological clue",
+        "Instructions": "Subjects identify 60 line-drawn objects of increasing complexity, with 20 seconds per object. If the participant can't name the object a semantic clue is given. If the participant can't name the object after the semantic clue, a phonological clue is given. The variable indicates number of correct responses in which a semantic clue was given.",
+        "Range": [
+            0,60
+        ],
+        "ReferencesAndLinks": "Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Lippincott Williams & Wilkins."
+    },
+      "clock_drawing": {
+        "LongName": "Clock Drawing Test",
+        "Instructions": "The participant is asked to draw a clock, place all the numbers correctly, and set the hands to show the time 11:10. The score reflects the accuracy of the circle, the presence and correct placement of numbers, and the correct positioning of the clock hands.",
+        "Range": [0,7],
+        "ReferencesAndLinks": "Shulman, K. I. (2000). Clock-drawing: is it the ideal cognitive screening test? International Journal of Geriatric Psychiatry, 15(6), 548–561. Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. Archives of Neurology, 55(3), 349–355. DOI: 10.1001/archneur.55.3.349"
+    },
+    "cog_res": {
+        "LongName": "Rami's Cognitive Reserve Questionnaire",
+        "Instructions": "Participants are instructed to fill in a 8 item questionnaire assessing education, occupation, language knowledge, reading and intellectual activity to estimate a person's cognitive reserve. Higher scores indicate higher cognitive reserve.",
+        "Range": [0,25],
+        "ReferencesAndLinks": "Rami L, Valls-Pedret C, Bartrés-Faz D, Caprile C, Solé-Padullés C, Castellvi M, Olives J, Bosch B, Molinuevo JL. Cuestionario de reserva cognitiva. Valores obtenidos en poblacion anciana sana y con enfermedad de Alzheimer [Cognitive reserve questionnaire. Scores obtained in a healthy elderly population and in one with Alzheimer's disease]. Rev Neurol. 2011 Feb 16;52(4):195-201. Spanish. PMID: 21312165."
+    },
+    "DST_forward": {
+        "LongName": "Digit Span Test (forward)",
+        "Instructions": "Subjects are read digit sequences (2 to 9 digits; 2 trials per length) and repeat them in the same order. The score is the number of correct repetitions.",
+        "Range": [
+            0,16
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2008). Wechsler Adult Intelligence Scale—Fourth Edition (WAIS-IV). Pearson."
+    },
+    "DST_backward": {
+        "LongName": "Digit Span Test (backward)",
+        "Instructions": "Subjects are read digit sequences (2 to 8 digits; 2 trials per length) and repeat them in reverse order. The score is the number of correct repetitions.",
+        "Range": [
+            0,14
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2008). Wechsler Adult Intelligence Scale—Fourth Edition (WAIS-IV). Pearson."
+    },
+    "FAQ": {
+        "LongName": "Functional Activities Questionnaire",
+        "Instructions": "Informants rate the subject's ability to perform 10 instrumental activities of daily living (0 = normal to 3 = dependent). The score reflects functional impairment, with higher scores indicating greater difficulty.",
+        "Range": [
+            0,30
+        ],
+        "ReferencesAndLinks": "Pfeffer, R. I., Kurosaki, T. T., Harrah Jr., C. H., Chance, J. M., & Filos, S. (1982). Measurement of functional activities in older adults in the community. Journal of Gerontology, 37(3), 323-329."
+    },
+    "GDS_15": {
+        "LongName": "15-item Geriatric Depression Scale (Spanish adaptation)",
+        "Instructions": "Subjects answer 15 yes/no questions assessing depressive symptoms over the recent period. The score reflects symptom severity, with higher scores indicating greater depressive symptomatology. A score equal or higher than 5 indicates depression.",
+        "Range": [
+            0,15
+        ],
+        "ReferencesAndLinks": "Martínez de la Iglesia, J. et al. (2002). Versión española del cuestionario de Yesavage abreviado (GDS) para el despistaje de depresión en mayores de 65 años: adaptación y validación. Revista de Medicina Familiar y Comunitaria, 12, 26-40."
+    },
+    "GloDS": {
+        "LongName": "Global Deterioration Scale",
+        "Instructions": "Clinicians rate the subject's level of cognitive decline across seven stages. The score reflects the global severity of the deterioration, with higher scores indicating more deterioration.",
+        "Range": [
+            1,7
+        ],
+        "ReferencesAndLinks": "Reisberg, B., Ferris, S. H., de Leon, M. J., & Crook, T. (1982). The Global Deterioration Scale for assessment of primary degenerative dementia. The American Journal of Psychiatry, 139(9), 1136-1139."
+    },
+    "imitation_gestures": {
+        "LongName": "Imitation of gestures",
+        "Instructions": "Subjects imitate 8 hand gestures performed by the examiner. The score is the number of correct imitations.",
+        "Range": [
+            0,8
+        ]
+    },
+   "LM_imm_units": {
+        "LongName": "Logical Memory (immediate units), Wechsler Memory Scale-III-R (Spanish version).",
+        "Instructions": "Subjects listen to 2 short texts and are instructed to pay attention for later recall. The second text is repeated. For the score, a checklist of 25 specific ideas is used. Subjects get 1 point for each remembered idea. The total score is 25 points per text (here 75, as the second text is repeated).",
+        "Range": [
+            0,75
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2004). WMS-III Escala de memoria de Wechsler-III. TEA ediciones."
+    },
+    "LM_del_units": {
+        "LongName": "Logical Memory (delayed units), Wechsler Memory Scale-III-R (Spanish version).",
+        "Instructions": "Subjects listen to 2 short texts and are instructed to pay attention for later recall. The second text is repeated. For the score, a checklist of 25 specific ideas is used 20 minutes after the reading. Subjects get 1 point for each remembered idea. The total score is 25 points per text (here 50).",
+        "Range": [
+            0,50
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2004). WMS-III Escala de memoria de Wechsler-III. TEA ediciones."
+    },
+    "LM_imm_them": {
+        "LongName": "Logical Memory (immediate thematic), Wechsler Memory Scale-III-R (Spanish version).",
+        "Instructions": "Subjects listen to 2 short texts and are instructed to pay attention for later recall. The second text is repeated. For the score, a checklist of 7 general ideas is used. Subjects get 1 point for each remembered idea. The total score is 7 points per text (here 21, as the second text is repeated).",
+        "Range": [
+            0,21
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2004). WMS-III Escala de memoria de Wechsler-III. TEA ediciones."
+    },
+    "LM_del_them": {
+        "LongName": "Logical Memory (delayed thematic), Wechsler Memory Scale-III-R (Spanish version).",
+        "Instructions": "Subjects listen to 2 short texts and are instructed to pay attention for later recall. The second text is repeated. For the score, a checklist of 7 general ideas is used 20 minutes after the reading. Subjects get 1 point for each remembered idea. The total score is 7 points per text (here 14).",
+        "Range": [
+            0,14
+        ],
+        "ReferencesAndLinks": "Wechsler, D. (2004). WMS-III Escala de memoria de Wechsler-III. TEA ediciones."
+    },
+    "MMSE": {
+        "LongName": "Mini-Mental State Examination (Spanish adaptation)",
+        "Instructions": "Clinicians administer a brief standardized assessment covering orientation, attention, memory, language, and visuoconstructive abilities. The score is the number of correct responses. A score lower than 26 indicates cognitive impairment.",
+        "Range": [
+            0,30
+        ],
+        "ReferencesAndLinks": "Lobo, A., Escobar, V., Ezquerra, J. & Seva Díaz, A. (1980). 'El Mini-Examen Cognoscitivo': Un test sencillo, práctico, para detectar alteraciones intelectuales en pacientes psiquiátricos. Revista de Psiquiatría y Psicología Médica, 14, 39-57."
+    },
+    "PFT_F": {
+        "LongName": "Phonemic Fluency Test, letter F scores",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible starting with the letters F, A, and S. The score is the number of valid responses starting with letter F.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Benton, A. L., Hamsher, K. D., & Sivan, A. B. (1994). Multilingual Aphasia Examination. AJA Associates."
+    },
+    "PFT_A": {
+        "LongName": "Phonemic Fluency Test, letter A scores",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible starting with the letters F, A, and S. The score is the number of valid responses starting with letter A.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Benton, A. L., Hamsher, K. D., & Sivan, A. B. (1994). Multilingual Aphasia Examination. AJA Associates."
+    },
+    "PFT_S": {
+        "LongName": "Phonemic Fluency Test, letter S scores",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible starting with the letters F, A, and S. The score is the number of valid responses starting with letter S.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Benton, A. L., Hamsher, K. D., & Sivan, A. B. (1994). Multilingual Aphasia Examination. AJA Associates."
+    },
+    "PFT": {
+        "LongName": "Phonemic Fluency Test",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible starting with the letters F, A, and S. The score is the average number of valid responses.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Benton, A. L., Hamsher, K. D., & Sivan, A. B. (1994). Multilingual Aphasia Examination. AJA Associates."
+    },
+    "ROCFB_simp_copy":{
+        "LongName": "Rey-Osterrieth Complex Figure B (simplified figure), copy figure score",
+        "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the copy.",
+        "Range": [0,22],
+        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+    },
+    "ROCFB_simp_memory":{
+        "LongName": "Rey-Osterrieth Complex Figure B (simplified figure), copy figure from memory score",
+        "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the recall.",
+        "Range": [0,22],
+        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+    },
+    "ROCFB_copy":{
+        "LongName": "Rey-Osterrieth Complex Figure B, copy figure score",
+        "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the copy.",
+        "Range": [0,36],
+        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+    },
+    "ROCFB_memory":{
+        "LongName": "Rey-Osterrieth Complex Figure B, copy figure from memory score",
+        "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the recall.",
+        "Range": [0,36],
+        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+    },
+    "SFT_animals": {
+        "LongName": "Semantic Fluency Test, animals score",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible belonging to the categories 'animals', 'fruits', and 'names'. The score is the number of valid responses in the animal category.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Goodglass, H. & Kaplan, E. (1983). The Assessment of Aphasia and Related Disorders. Lea & Febiger."
+    },
+    "SFT_fruits": {
+        "LongName": "Semantic Fluency Test, fruits score",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible belonging to the categories 'animals', 'fruits', and 'names'. The score is the number of valid responses in the fruits category.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Goodglass, H. & Kaplan, E. (1983). The Assessment of Aphasia and Related Disorders. Lea & Febiger."
+    },
+    "SFT_names": {
+        "LongName": "Semantic Fluency Test, names score",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible belonging to the categories 'animals', 'fruits', and 'names'. The score is the number of valid responses in the names category.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Goodglass, H. & Kaplan, E. (1983). The Assessment of Aphasia and Related Disorders. Lea & Febiger."
+    },
+    "SFT": {
+        "LongName": "Semantic Fluency Test",
+        "Instructions": "Subjects are given a 60-second time limit to produce as many words as possible belonging to the categories 'animals', 'fruits', and 'names'. The score is the average number of valid responses.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": "Goodglass, H. & Kaplan, E. (1983). The Assessment of Aphasia and Related Disorders. Lea & Febiger."
+    },
+    "TMT_A_hits": {
+        "LongName": "Trail Making Test (Part A), number of hits",
+        "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the number of correct lines drawn.",
+        "Range": [0, 24],
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
+    "TMT_A_time": {
+        "LongName": "Trail Making Test (Part A), time to complete",
+        "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the time required to complete the task.",
+        "Range": "non-bounded",
+        "Units": "seconds",
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
+    "TMT_B_hits": {
+        "LongName": "Trail Making Test (Part B), number of hits",
+        "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the correct number of lines drawn.",
+        "Range": [0,24],
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
+    "TMT_B_time": {
+        "LongName": "Trail Making Test (Part B), time to complete",
+        "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the time required to complete the task.",
+        "Range": "non-bounded",
+        "Units": "seconds",
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
+    "word_list_trial1":{
+        "LongName": "Word List Learning Trial 1",
+        "Instructions": "The examiner reads a list of 12 unrelated words aloud and the participant recalls as many words as possible immediately after presentation. This list will be repeated 4 times. Each time the participant has to repeat as many words as possible. This variable records the number of correctly recalled words in the first learning trial.",
+        "Range": [0,12],
+        "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
+        },
+     "word_list_trial4":{
+        "LongName": "Word List Learning Trial 4",
+        "Instructions": "The examiner reads the same list of 12 words for a fourth time and the participant recalls as many words as possible. This variable records the number of correctly recalled words in the fourth learning trial.",
+        "Range": [0,12],
+        "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
+    },
+    "word_list_learning_total":{
+        "LongName": "Word List Total Learning Score",
+        "Instructions": "Total number of words correctly recalled across the four learning trials of the word list task.",
+        "Range": [0,48],
+        "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
+    },
+    "word_list_delayed_recall":{
+        "LongName": "Word List Delayed Recall",
+        "Instructions": "After a delay of approximately five minutes, the participant is asked to recall the previously presented list of words. This variable records the number of correctly recalled words.",
+        "Range": [0,12],
+        "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
+    },
+    "word_list_recognition":{
+        "LongName": "Word List Recognition Score",
+        "Instructions": "The participant is presented with a list of 24 words containing the original target words and distractor words and must identify which words were previously presented. The score reflects correct number of repeated words.",
+        "Range": [0,24],
+        "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
+    },
+    "7MT":{
+        "LongName": "Seven Minutes Test, total score",
+        "Instructions": "Participants performed a battery of 5 neuropsychological tests to assess orientation, memory, verbal fluency.",
+        "Range": "non-bounded",
+        "ReferencesAndLinks": ""
+    },
+    "APOE": {
+        "LongName": "APOE genotype (rs429358/rs7412 haplotype)",
+        "Description": "Genotype for the APOE gene, determined by the combination of rs429358 and rs7412 SNPs. Reported as allele pairs corresponding to the e2, e3, and e4 isoforms (e.g., 23 = e2/e3, 34 = e3/e4)."
+    },
+    "ACT": {
+        "LongName": "ACT (SERPINA3) genotype",
+        "Description": "Genotype for the ACT/SERPINA3 gene, reported as allele pairs: AA, AT, or TT."
+    },
+    "BACE1": {
+        "LongName": "BACE1 rs638405 genotype",
+        "Description": "Genotype for the BACE1 rs638405 SNP, reported as allele pairs: CC, CG, or GG."
+    },
+    "BDNF": {
+        "LongName": "BDNF rs6265 (Val66Met) genotype",
+        "Description": "Genotype for the BDNF rs6265 (Val66Met) SNP, reported as allele pairs: AA, AG, or GG."
+    },
+    "CHRNA7": {
+        "LongName": "CHRNA7 genotype",
+        "Description": "Genotype for the CHRNA7 gene, reported as allele pairs: CC, CT, or TT."
+    },
+    "CLU": {
+        "LongName": "CLU rs11136000 genotype",
+        "Description": "Genotype for the CLU rs11136000 SNP, reported as allele pairs: CC, CT, or TT."
+    },
+    "COMT": {
+        "LongName": "COMT rs4680 (Val158Met) genotype",
+        "Description": "Genotype for the COMT rs4680 (Val158Met) SNP, reported as allele pairs: AA, AG, or GG."
+    },
+    "CR1": {
+        "LongName": "CR1 rs3818361 genotype",
+        "Description": "Genotype for the CR1 rs3818361 SNP, reported as allele pairs: CC, CT, or TT."
+    },
+    "ERBB4": {
+        "LongName": "ERBB4 rs839523 genotype",
+        "Description": "Genotype for the ERBB4 rs839523 SNP, reported as allele pairs: AA, AG, or GG."
+    },
+    "NRG1": {
+        "LongName": "NRG1 rs6994992 genotype",
+        "Description": "Genotype for the NRG1 rs6994992 SNP, reported as allele pairs: CC, CT, or TT."
+    },
+    "PICALM": {
+        "LongName": "PICALM rs3851179 genotype",
+        "Description": "Genotype for the PICALM rs3851179 SNP, reported as allele pairs: AA, AG, or GG."
+    },
+     "recording_id_orig": {
+        "LongName": "Recording ID",
+        "Description": "Recording identificator. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
+     }
+}
