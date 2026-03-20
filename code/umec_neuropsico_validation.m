@@ -42,7 +42,7 @@ for ivar = 1:length(vars)
 
     % Open log file per variable
     log_file = fullfile('..', 'results', 'logs', ['umec_neuro_validation_log_' varname_megtusalen '.txt']);
-    fid = fopen(log_file, 'a');
+    fid = fopen(log_file, 'w');
 
     fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
     fprintf(fid, 'Variable: %s\n', varname_megtusalen);
@@ -112,30 +112,7 @@ for ivar = 1:length(vars)
                 umec_val = 'f';
             end
         end
-
-        % Convert edu_level
-        if strcmp(varname_megtusalen,'edu_level')
-            switch umec_val
-                case 3
-                    umec_val = 2;
-                case 4
-                    umec_val = 3;
-                case 5
-                    umec_val = 4;
-            end
-        end
-
-
-        % Convert occupation
-        if strcmp(varname_megtusalen,'occupation')
-            switch umec_val
-                case 0
-                    umec_val = 1;
-                case 1
-                    umec_val = 2;
-            end
-        end
-
+       
         % Define missing flags clearly
         umec_missing = isempty(umec_val) || ...
             (isnumeric(umec_val) && isnan(umec_val)) || ...
@@ -199,8 +176,35 @@ for ivar = 1:length(vars)
 
 end
 
-fprintf('Validation finished.\n');
+fid = fopen(log_file, 'a');
 
+% Check participants in megtusalen not in umec
+all_meg_ids = string(megtusalen.(id_vars(1).megtusalen));
+is_umec = startsWith(all_meg_ids, 'UMEC');
+meg_ids = all_meg_ids(is_umec);
+umec_ids = string(umec_neuro.(id_vars(1).umec));
+
+n_not_in_umec = 0;
+
+for j = 1:length(meg_ids)
+    meg_id = meg_ids(j);
+
+    if ~any(strcmp(umec_ids, meg_id))
+        fprintf('ID %s: present in megtusalen but NOT in umec_neuro\n', meg_id);
+        n_not_in_umec = n_not_in_umec + 1;
+    end
+end
+sprintf('Participants in megtusalen not in umec: %d\n', n_not_in_umec)
+
+% Add summary comparisons to the log file
+fprintf(fid,'Comparison: %s vs megtusalen_umec_corrected\n', umec_neuro_excel);
+fprintf(fid,'Updated values: %d\n', n_updated);
+fprintf(fid,'Participants not found: %d\n', n_not_found);
+fprintf(fid,'Participants in megtusalen not in umec: %d\n', n_not_in_umec);
+
+fclose(fid);
+
+fprintf('Validation finished.\n');
 if update
     writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
@@ -208,6 +212,5 @@ if update
     fprintf('Updated values: %d\n', n_updated);
     fprintf('Participants not found: %d\n', n_not_found);
     fprintf('Corrected file saved to: %s\n', out_file);
-    % fprintf('Log saved to: %s\n', log_file);
 end
 end

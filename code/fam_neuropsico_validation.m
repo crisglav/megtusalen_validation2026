@@ -202,52 +202,52 @@ fprintf('Validation finished.\n');
 
 %%
 
-% % Check participants in megtusalen not in fam
-% all_meg_ids = string(megtusalen.recording_id_orig);
-% is_fam = startsWith(all_meg_ids, 'FAM');
-% meg_ids = all_meg_ids(is_fam);
-%
-% fam_ids = string(fam_neuro.CodigoProyecto);
-%
-% n_not_in_fam = 0;
-%
-% for j = 1:length(meg_ids)
-%     meg_id = meg_ids(j);
-%
-%     if ~any(strcmp(fam_ids, meg_id))
-%         fprintf('ID %s: present in megtusalen but NOT in fam_neuro\n', meg_id);
-%         n_not_in_fam = n_not_in_fam + 1;
-%     end
-% end
-% sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
+% Check participants in megtusalen not in fam
+all_meg_ids = string(megtusalen.recording_id_orig);
+is_fam = startsWith(all_meg_ids, 'FAM');
+meg_ids = all_meg_ids(is_fam);
 
-% % Add summary comparisons to the log file
-% summary_lines = {
-%     sprintf('Comparison: %s vs %s', fam_gen_excel, megtusalen_excel)
-%     sprintf('Variable to compare: %s', varname_megtusalen)
-%     sprintf('Date: %s', datestr (datetime('now', 'Format', 'dd mmm yyyy  HH:mm:ss')))
-%     sprintf('Updated values: %d', n_updated)
-%     sprintf('Participants not found: %d', n_not_found)
-%     sprintf('Participants in megtusalen not in fam: %d', n_not_in_fam)
-%     '----------------------------------------'  % separador
-%     };
-% fid = fopen(log_file, 'w');  % abre para escribir (sobrescribe)
-% for k = 1:length(summary_lines)
-%     fprintf(fid, '%s\n', summary_lines{k});
-% end
-% for k = 1:length(log_lines)
-%     fprintf(fid, '%s\n', log_lines{k});
-% end
-% fclose(fid);
-%
-% % writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');      % for -tsv
-% writetable(megtusalen, megtusalen_file);
-%
-% fprintf('Correction finished.\n');
-% fprintf('Updated values: %d\n', n_updated);
-% fprintf('Participants not found: %d\n', n_not_found);
-% fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-% fprintf('Corrected file saved to: %s\n', megtusalen_excel);
-% fprintf('Log saved to: %s\n', log_file);
+fam_ids = string(fam_neuro.CodigoProyecto);
+
+n_not_in_fam = 0;
+
+for j = 1:length(meg_ids)
+    meg_id = meg_ids(j);
+
+    if ~any(strcmp(fam_ids, meg_id))
+        fprintf('ID %s: present in megtusalen but NOT in fam_neuro\n', meg_id);
+        n_not_in_fam = n_not_in_fam + 1;
+    end
+end
+sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
+
+% Add summary comparisons to the log file
+summary_lines = {
+    sprintf('Comparison: %s vs %s', fam_gen_excel, megtusalen_excel)
+    sprintf('Variable to compare: %s', varname_megtusalen)
+    sprintf('Date: %s', datestr (datetime('now', 'Format', 'dd mmm yyyy  HH:mm:ss')))
+    sprintf('Updated values: %d', n_updated)
+    sprintf('Participants not found: %d', n_not_found)
+    sprintf('Participants in megtusalen not in fam: %d', n_not_in_fam)
+    '----------------------------------------'  % separador
+    };
+fid = fopen(log_file, 'w');  % abre para escribir (sobrescribe)
+for k = 1:length(summary_lines)
+    fprintf(fid, '%s\n', summary_lines{k});
+end
+for k = 1:length(log_lines)
+    fprintf(fid, '%s\n', log_lines{k});
+end
+fclose(fid);
+
+% writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');      % for -tsv
+writetable(megtusalen, megtusalen_file);
+
+fprintf('Correction finished.\n');
+fprintf('Updated values: %d\n', n_updated);
+fprintf('Participants not found: %d\n', n_not_found);
+fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
+fprintf('Corrected file saved to: %s\n', megtusalen_excel);
+fprintf('Log saved to: %s\n', log_file);
 
 end
