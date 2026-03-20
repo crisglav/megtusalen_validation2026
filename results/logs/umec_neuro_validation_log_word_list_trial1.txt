@@ -1,10 +1,4 @@
-Log created on: 18-Mar-2026 15:22:10
-
-Variable: word_list_trial1
-Updated values: false
-
-ID UMECMA093, variable word_list_trial1: skipped (umec_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 15:23:40
+Log created on: 20-Mar-2026 16:41:52
 
 Variable: word_list_trial1
 Updated values: true

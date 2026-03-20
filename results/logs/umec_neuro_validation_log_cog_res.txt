@@ -1,40 +1,4 @@
-Log created on: 18-Mar-2026 15:22:10
-
-Variable: cog_res
-Updated values: false
-
-ID umeccd010, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd004, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd009, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd016, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd013, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd020, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd022, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd024, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd035, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd036, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd045, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd050, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd049, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd057, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd014, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd061, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd072, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd084, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd089, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd085, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd092, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd093, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd097, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd099, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd094, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd101, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd112, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd114, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd111, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd113, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable cog_res: skipped (umec_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 15:23:40
+Log created on: 20-Mar-2026 16:41:52
 
 Variable: cog_res
 Updated values: true

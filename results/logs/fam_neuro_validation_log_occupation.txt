@@ -130,3 +130,67 @@ ID FAMMA066, variable occupation: skipped (fam_neuro missing, megtusalen=5)
 ID FAMMA067, variable occupation: skipped (fam_neuro missing, megtusalen=5)
 ID FAMMA068, variable occupation: skipped (fam_neuro missing, megtusalen=5)
 ID FAMNC013, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+Log created on: 20-Mar-2026 13:16:17
+
+Variable: occupation
+Updated values: true
+
+ID FAMNC001, variable occupation: corrected - old=2, new=1
+ID FAMMA003, variable occupation: corrected - old=2, new=1
+ID FAMMA011, variable occupation: corrected - old=1, new=0
+ID FAMCOMPLUTENSE008, variable occupation: corrected - old=2, new=1
+ID FAMMA014, variable occupation: corrected - old=1, new=0
+ID FAMCOMPLUTENSE011, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMGC004, variable occupation: corrected - old=2, new=1
+ID FAMMA016, variable occupation: corrected - old=2, new=1
+ID FAMCOMPLUTENSE016, variable occupation: corrected - old=2, new=1
+ID FAMMA018: participant not found in megtusalen
+ID FAMGC007, variable occupation: corrected - old=2, new=1
+ID FAMCOMPLUTENSE010, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA024, variable occupation: corrected - old=2, new=1
+ID FAMNC010, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMNC009, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMNC007, variable occupation: corrected - old=2, new=1
+ID FAMCOMPLUTENSE018, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA039, variable occupation: corrected - old=2, new=1
+ID FAMMA032, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA042, variable occupation: corrected - old=2, new=1
+ID FAMMA047, variable occupation: corrected - old=2, new=1
+ID FAMMA048, variable occupation: corrected - old=1, new=0
+ID FAMMA052, variable occupation: corrected - old=2, new=1
+ID FAMMA073, variable occupation: corrected - old=2, new=1
+ID FAMCTB004, variable occupation: corrected - old=2, new=1
+ID FAMCTB005, variable occupation: corrected - old=1, new=0
+ID FAMUNED624, variable occupation: corrected - old=1, new=0
+ID FAMUNED633, variable occupation: corrected - old=1, new=0
+ID FAMCTB002, variable occupation: corrected - old=2, new=1
+ID FAMCTB046, variable occupation: corrected - old=2, new=1
+ID FAMCTB092, variable occupation: corrected - old=2, new=1
+ID FAMCTB068, variable occupation: corrected - old=2, new=1
+ID FAMCTB076, variable occupation: corrected - old=1, new=0
+ID FAMCTB053, variable occupation: corrected - old=2, new=1
+ID FAMMA075, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB084, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA078, variable occupation: corrected - old=2, new=1
+ID FAMCOMPLUTENSE020, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB085, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB097, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB096, variable occupation: corrected - old=1, new=0
+ID FAMCTB100, variable occupation: corrected - old=1, new=0
+ID FAMCTB102, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB103, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB101, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCOMPLUTENSE013, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCOMPLUTENSE014, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCOMPLUTENSE019, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB079, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB088, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB090, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMCTB091, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA050, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA051, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA066, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA067, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA068, variable occupation: skipped (fam_neuro missing, megtusalen=5)
+ID FAMMA081, variable occupation: corrected - old=1, new=0
+ID FAMNC013, variable occupation: skipped (fam_neuro missing, megtusalen=5)

@@ -1,28 +1,4 @@
-Log created on: 18-Mar-2026 15:22:10
-
-Variable: BNT_phon
-Updated values: false
-
-ID umeccd024, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd027, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECNC002, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECNC001, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd067, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd076, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd081, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd082, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd080, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd064, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd069, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd092, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd093, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd098, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd101, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd090, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd104, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd103, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 15:23:40
+Log created on: 20-Mar-2026 16:41:52
 
 Variable: BNT_phon
 Updated values: true
