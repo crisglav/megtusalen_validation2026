@@ -12,10 +12,6 @@
         "LongName": "Participant ID",
         "Description": "Participant identificator"
     },
-    "recording_id": {
-        "LongName": "Recording ID",
-        "Description": "Recording identificator. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
-    },
     "age": {
         "LongName": "Age",
         "Description": "Age at first MEG recording.",
@@ -50,13 +46,18 @@
             "HC": "Healthy control",
             "SCD": "Subjective cognitive decline",
             "MCI": "Mild cognitive impairment",
+            "FH": "Healthy participant with a Family History of Alzheimer's Disease",
             "AD": "Alzheimer's disease"
         }
     },
     "converter": {
         "LongName": "Alzheimer's Disease Converter",
         "Description": "Indicates whether an MCI participant converted to AD or other type of dementia or remained stable.",
-        "Units": "months"
+        "Levels": {
+            "0": "No converter", 
+            "1": "Converter from MCI to AD"; 
+            "2": "Converter from MCI to other dementia", 
+        }
     },
      "conversion_time": {
         "LongName": "Time to conversion to Alzheimer's Disease or other dementia",
@@ -76,11 +77,22 @@
     "edu_years": {
         "LongName": "Education years",
         "Description": "Completed years of formal education.",
-        "Units": "years"
+        "Units": "years (max.20 years)"
     },
-    "edu_level": {
+    "edu_level_umec": {
         "LongName": "Education level",
-        "Description": "Education level status.",
+        "Description": "Education level status for UMEC project.",
+        "Levels": {
+            "1": "Self-taught reader and writer",
+            "2": "Basic education (< 6 years)",
+            "3": "Primary education (> 6 years)",
+            "4": "Secondary education (> 9 years)",
+            "5": "Higher education / University"
+        }
+    },
+    "edu_level_nemos": {
+        "LongName": "Education level",
+        "Description": "Education level status for NEMOS project.",
         "Levels": {
             "1": "Illiterate / Functionally illiterate",
             "2": "Basic education / Primary education (6-12)",
@@ -89,7 +101,29 @@
             "5": "Higher education / University"
         }
     },
-    "occupation": {
+    "edu_level_fam": {
+        "LongName": "Education level",
+        "Description": "Education level status for FAM project.",
+        "Levels": {
+            "1": "Self-taught reader and writer",
+            "2": "Basic education (< 6 years)",
+            "3": "Primary education (> 6 years)",
+            "4": "Secondary education (> 9 years)",
+            "5": "Higher education / University"
+        }
+    },
+    "occupation_umec": {
+        "LongName": "Occupation",
+        "Description": "Employment type.",
+        "Levels": {
+            "0": "Unskilled (including household duties)",
+            "1": "Skilled manual (trades, service workers)",
+            "2": "Skilled non-manual (including clerical, technical, business owners)",
+            "3": "Professional (higher education)",
+            "4": "Executive / Researcher"
+        }
+    },
+    "occupation_nemos": {
         "LongName": "Occupation",
         "Description": "Employment type.",
         "Levels": {
@@ -98,6 +132,17 @@
             "3": "Skilled",
             "4": "Professional",
             "5": "Executive / Researcher"
+        }
+    },
+    "occupation_fam": {
+        "LongName": "Occupation",
+        "Description": "Employment type.",
+        "Levels": {
+            "0": "Unskilled (including household duties)",
+            "1": "Skilled manual (trades, service workers)",
+            "2": "Skilled non-manual (including clerical, technical, business owners)",
+            "3": "Professional (higher education)",
+            "4": "Executive / Researcher"
         }
     },
     "cognitive_stimulation": {
@@ -408,5 +453,9 @@
     "PICALM": {
         "LongName": "PICALM rs3851179 genotype",
         "Description": "Genotype for the PICALM rs3851179 SNP, reported as allele pairs: AA, AG, or GG."
-    }
+    },
+     "recording_id_orig": {
+        "LongName": "Recording ID",
+        "Description": "Recording identificator. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
+     }
 }

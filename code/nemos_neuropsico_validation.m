@@ -8,30 +8,43 @@ close all
 
 %% Initital creation of participants_megtusalen_corrected.tsv
 % megtusalen_excel = '../data/participants_megtusalen.xlsx';
-% out_file = '../results/participants_megtusalen_nemos_corrected.xlsx';
+% out_file = '../results2/participants_megtusalen_nemos_corrected.xlsx';
 % megtusalen = readtable(megtusalen_excel);
 % writetable(megtusalen, out_file);
 
 %% Script
 nemos_excel = '../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx';
-megtusalen_excel = '../results/participants_megtusalen_nemos_corrected.xlsx';
-out_file = '../results/participants_megtusalen_nemos_corrected.xlsx';
+megtusalen_excel = '../results2/participants_megtusalen_nemos_corrected.xlsx';
+out_file = '../results2/participants_megtusalen_nemos_corrected.xlsx';
 update = true;
 
 nemos_neuro = readtable(nemos_excel ,'Sheet','Datos');
 megtusalen = readtable(megtusalen_excel);
 
 
-% vars_megtusalen = {'age','sex','edu_years','BADS_rules_test', 'cog_res','DTS_forward','DTS_backward','GDS_15', ...
-%     'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','MOCA','PTF_F','PTF_A','PTF_S', ...
-%     'ROCFB_copy', 'ROCFB_memory', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
-%     'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'};
+vars_megtusalen =  {'age','sex','group', 'converter', 'conversion_time', 'edu_years', 'edu_level_nemos', 'occupation_nemos' ...
+    'BADS_rules_test', 'BNT_spon', 'BNT_phon', 'clock_drawing', 'DTS_forward','DTS_backward', ...
+    'FAQ', 'GDS_15', 'imitation_gestures', ...
+    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them',...
+    'MMSE','PTF_F','PTF_A','PTF_S', 'PTF', ...
+   'SFT_animals', 'SFT_fruits',  ...
+    'TMT_A_hits', 'TMT_A_errors', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_errors', 'TMT_B_time', ...
+   }; 
+
+vars_nemos =    {'Edad','Sexo','Diagnostico', 'Conversores', 'TiempoConversion_enMeses_', 'EduYears', 'NivelDeEstudios', 'Ocupacion'...
+    'CambioDeReglas', 'BNT', 'BNT_ClaveFon_', 'RELOJ_Orden', 'D_GITOS_Directos', 'DIGITOS_Inversos', ...
+    'FAQ', 'GDS', 'Imitaci_nDePosturas', ...
+    'TEXTOS_Unid_Inmediatas', 'TEXTOS_Unid_Demoradas', 'TEXTOS_Tem_Rec_Inmed_', 'TEXTOS_Tem_Rec_Demor_', ...
+    'MMSE', 'F', 'A', 'S', 'FASPromedioFonologico', ...
+    'Animales', 'Frutas',  ...
+    'TMT_A_Aciertos', 'TMT_A_Errores', 'TMT_A_Tiempo', 'TMT_B_Aciertos', 'TMT_B_Errores', 'TMT_B_Tiempo', ...
+  };
 
 % vars_megtusalen = {'edu_years', 'edu_level', 'occupation'};
-vars_megtusalen = {'sex'};
+% vars_megtusalen = {'conversion_time'};
 
 % vars_nemos = {'EduYears', 'NivelDeEstudios', 'Ocupacion'};
-vars_nemos = {'Sexo'};
+% vars_nemos = {'TiempoConversion_enMeses_'};
 
 % Unify ID Codes
 nemos_neuro.IDcorrected = sprintfc('NEMOS-%03d', nemos_neuro.IDMEG);
@@ -45,7 +58,7 @@ ids = nemos_neuro.IDcorrected;
 n = length(ids);
 
 % Open log file
-log_file = ['../results/logs/nemos_neuro_validation_log_' vars_megtusalen{1} '.txt'];  % overwrites preexisting logs
+log_file = ['../results2/logs/nemos_neuro_validation_log_' vars_megtusalen{1} '.txt'];  % overwrites preexisting logs
 fid = fopen(log_file, 'w');
 
 log_lines = {};  % cell array vacío para guardar todas las líneas
@@ -106,6 +119,13 @@ for i = 1:n
                 nemos_val = 'm';
             elseif nemos_val == 2
                 nemos_val = 'f';
+            end
+        end
+
+        % Adjust edu_years to max 20
+        if strcmp(varname_nemos,'EduYears')
+            if nemos_val > 20
+                nemos_val = 20;
             end
         end
 

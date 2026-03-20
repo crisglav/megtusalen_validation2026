@@ -1,0 +1,19 @@
+NOTAS MARIA EUGENIA SOBRE EXCEL NEMOS: 
+Base de Datos Proyecto NEMOS para MEGTUSALEN 17.03.26 .xlsx
+
+- Los EduYears se puso en consenso para megtusalen que el tope fuesen 20 años. 
+
+- El sujeto 20 convirtió a demencia frontotemporal, y está con código 2. En MEGTUSALEN fijo que este sujeto está con 0 en conversión porque sólo teníamos en cuenta la conversión a Enfermedad de Alzheimer (los conversores a EA tienen un 1).
+
+- Hay una columna de "estimulación cognitiva" que no la hemos usado nunca y seguramente no esté incluida en MEGTUSALEN. Igual ni la incluyas, a no ser que otros proyectos también cuenten con esta información. Variable Estimulación Cognitiva: Esa variable alude a si hacían por su cuenta estimulación cognitiva los participantes. Nunca la hemos usado y no sé si se ha recogido en otros proyectos (aunque en otros proyectos sí que se hacía estimulación de manera deliberada para ver los efectos). Igual por eso es mejor no incluirla en la base de datos general, como lo veáis.
+
+- Los valores 1000 son NaN
+
+- Están los promedios de fluidez fonológica (variable: "FAS promedio fonológico") y semántica ("FAS promedio semántico"). Si quieres la información en bruto de "F", "A", "S" y "frutas" y "animales", la tengo en otra base de datos.
+
+- Hay valores de años de educación que superan los 20 años. Para MEGTUSALEN se puso de tope años de educación en 20 creo recordar... Por lo que aquellos que tenían más se toparon con una puntuación máxima de 20
+
+- En el TMT-A y B el máximo son 25 aciertos (el máximo teórico). Sin embargo, se suelen contar el número de conexiones, y no el número máximo de números correctos, y el máximo en la parte A se cuenta en 24 aciertos y el B en 23. Por eso hay discrepancias con las puntuaciones de otros proyectos. Como siempre hay un poco de lío con el tema de los aciertos, lo que se termina contando son el tiempo y los errores (los he añadido porque no estaban). Y he puesto los aciertos originales del proyecto, tal como me los dieron a mí sin hacer ninguna transformación.
+
+- La máxima puntuación del test del reloj orden y copia está en 7 puntos (no sé si en otros proyectos el máximo es 7). 
+
