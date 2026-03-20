@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: APOE
 Updated values: true
 
 ID FAMNC004, variable APOE: filled missing - old=NaN, new=23
-ID FAMNC005, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA002, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA004, variable APOE: filled missing - old=NaN, new=33
@@ -65,8 +65,8 @@ ID FAMMA023, variable APOE: filled missing - old=NaN, new=34
 ID FAMGC009, variable APOE: filled missing - old=NaN, new=34
 ID FAMUNED639, variable APOE: filled missing - old=NaN, new=33
 ID FAMUNED525, variable APOE: filled missing - old=NaN, new=23
-ID FAMNC010, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable APOE: filled missing - old=NaN, new=33
 ID FAMNC006, variable APOE: filled missing - old=NaN, new=34
 ID FAMNC008, variable APOE: filled missing - old=NaN, new=44
@@ -81,7 +81,7 @@ ID FAMMA039, variable APOE: filled missing - old=NaN, new=34
 ID FAMMA030, variable APOE: filled missing - old=NaN, new=34
 ID FAMMA041, variable APOE: filled missing - old=NaN, new=33
 ID FAMUNED599, variable APOE: filled missing - old=NaN, new=34
-ID FAMMA032, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA042, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA044, variable APOE: filled missing - old=NaN, new=34
@@ -118,7 +118,7 @@ ID FAMCTB006, variable APOE: filled missing - old=NaN, new=34
 ID FAMCTB019, variable APOE: filled missing - old=NaN, new=33
 ID FAMGC014, variable APOE: filled missing - old=NaN, new=34
 ID FAMGC013, variable APOE: filled missing - old=NaN, new=33
-ID FAMCTB008, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB026, variable APOE: filled missing - old=NaN, new=34
 ID FAMCTB004, variable APOE: filled missing - old=NaN, new=34
@@ -173,7 +173,7 @@ ID FAMCTB089, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB092, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB039, variable APOE: filled missing - old=NaN, new=34
 ID FAMCTB061, variable APOE: filled missing - old=NaN, new=33
-ID FAMCTB010, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable APOE: filled missing - old=NaN, new=34
 ID FAMGC021, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB063, variable APOE: filled missing - old=NaN, new=33
@@ -196,7 +196,7 @@ ID FAMCTB055, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB064, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB056, variable APOE: filled missing - old=NaN, new=34
 ID FAMCTB031, variable APOE: filled missing - old=NaN, new=34
-ID FAMNC014, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB054, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB098, variable APOE: filled missing - old=NaN, new=33
@@ -205,12 +205,12 @@ ID FAMCTB069, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB074, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB070, variable APOE: filled missing - old=NaN, new=23
 ID FAMCTB080, variable APOE: filled missing - old=NaN, new=33
-ID FAMMA075, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable APOE: filled missing - old=NaN, new=33
 ID FAMNC012, variable APOE: filled missing - old=NaN, new=33
-ID FAMCTB084, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable APOE: filled missing - old=NaN, new=22
-ID FAMMA078, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB078, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB083, variable APOE: filled missing - old=NaN, new=33
@@ -218,7 +218,7 @@ ID FAMGC019, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB062, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB018, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB050, variable APOE: filled missing - old=NaN, new=34
-ID FAMCOMPLUTENSE020, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable APOE: filled missing - old=NaN, new=44
 ID FAMCTB036, variable APOE: filled missing - old=NaN, new=23
 ID FAMCTB085, variable APOE: filled missing - old=NaN, new=34
@@ -227,7 +227,7 @@ ID FAMCTB075, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB081, variable APOE: filled missing - old=NaN, new=34
 ID FAMCTB024, variable APOE: filled missing - old=NaN, new=24
 ID FAMCTB097, variable APOE: filled missing - old=NaN, new=33
-ID FAMCOMPLUTENSE023, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE021, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB096, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA080, variable APOE: filled missing - old=NaN, new=33
@@ -236,40 +236,41 @@ ID FAMCTB095, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB100, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB094, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB102, variable APOE: filled missing - old=NaN, new=33
-ID FAMCTB103, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB101, variable APOE: filled missing - old=NaN, new=33
-ID FAMCOMPLUTENSE013, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable APOE: filled missing - old=NaN, new=33
-ID FAMCOMPLUTENSE019, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB060, variable APOE: filled missing - old=NaN, new=33
 ID FAMCTB077, variable APOE: filled missing - old=NaN, new=33
-ID FAMCTB079, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable APOE: filled missing - old=NaN, new=34
-ID FAMMA050, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA060, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA061, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA062, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA064, variable APOE: filled missing - old=NaN, new=33
 ID FAMMA065, variable APOE: filled missing - old=NaN, new=33
-ID FAMMA066, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable APOE: filled missing - old=NaN, new=33
-ID FAMMA081, variable APOE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable APOE: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable APOE: filled missing - old=NaN, new=33
 ID FAMNC013, variable APOE: filled missing - old=NaN, new=33
-ID , variable APOE: corrected - old=23, new=2
-ID , variable APOE: corrected - old=2, new=15
-ID , variable APOE: corrected - old=15, new=142
-ID , variable APOE: corrected - old=142, new=67
-ID , variable APOE: corrected - old=67, new=7
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:15
 
 Variable: APOE
 Updated values: true

@@ -1,0 +1,9 @@
+Log created on: 20-Mar-2026 16:41:51
+
+Updated values: true
+
+Comparison: ../data/source_data/BBDD Conjunta 261 familiares.xlsx vs megtusalen_fam_corrected
+Filled values: 12
+Corrected values: 54
+Participants not found: 34
+Participants in megtusalen not in fam: 6

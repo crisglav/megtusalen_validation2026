@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: ERBB4
 Updated values: true
 
 ID FAMNC004, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMNC005, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA002, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA004, variable ERBB4: filled missing - old=NaN, new=AG
@@ -65,8 +65,8 @@ ID FAMMA023, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMGC009, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMUNED639, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMUNED525, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMNC010, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMNC006, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMNC008, variable ERBB4: filled missing - old=NaN, new=AG
@@ -81,7 +81,7 @@ ID FAMMA039, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMMA030, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA041, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMUNED599, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMMA032, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA042, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMMA044, variable ERBB4: filled missing - old=NaN, new=AG
@@ -118,7 +118,7 @@ ID FAMCTB006, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB019, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMGC014, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMGC013, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB008, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB026, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB004, variable ERBB4: filled missing - old=NaN, new=GG
@@ -136,7 +136,7 @@ ID FAMCTB009, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMMA077, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMGC017, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB044, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB045, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB045, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMUNED443, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMUNED605, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB027, variable ERBB4: filled missing - old=NaN, new=GG
@@ -146,11 +146,11 @@ ID FAMMA079, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB038, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB043, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB042, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCTB015, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB015, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB059, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB049, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB014, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB001, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB014, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB003, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB057, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB002, variable ERBB4: filled missing - old=NaN, new=GG
@@ -166,21 +166,21 @@ ID FAMCTB048, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB029, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB034, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB032, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB033, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB033, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB037, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB089, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB092, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB039, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB061, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB010, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMGC021, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB063, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB025, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB016, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMUNED561, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB058, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB067, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB068, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB073, variable ERBB4: filled missing - old=NaN, new=AG
@@ -191,12 +191,12 @@ ID FAMCTB072, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB087, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMGC018, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB082, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB052, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB052, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB055, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB064, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB056, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB031, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMNC014, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB054, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB098, variable ERBB4: filled missing - old=NaN, new=AG
@@ -205,72 +205,72 @@ ID FAMCTB069, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB074, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB070, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB080, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMMA075, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMNC012, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB084, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMMA078, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB078, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB083, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMGC019, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB062, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB018, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB050, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB050, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB036, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMCTB085, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCOMPLUTENSE022, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB075, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMCTB081, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB024, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE021, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB096, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB024, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA080, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB030, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB030, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB095, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB100, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB100, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB094, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCTB102, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCOMPLUTENSE019, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB060, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB077, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB079, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMMA050, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA060, variable ERBB4: filled missing - old=NaN, new=GG
 ID FAMMA061, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMMA062, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMMA064, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMMA065, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMMA066, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMMA081, variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable ERBB4: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable ERBB4: filled missing - old=NaN, new=AG
 ID FAMNC013, variable ERBB4: filled missing - old=NaN, new=AG
-ID , variable ERBB4: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable ERBB4: filled missing - old=NaN, new=20
-ID , variable ERBB4: corrected - old=20, new=102
-ID , variable ERBB4: corrected - old=102, new=94
-ID , variable ERBB4: skipped (fam_neuro missing, megtusalen=94)
-ID , variable ERBB4: skipped (fam_neuro missing, megtusalen=94)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:49
 
 Variable: ERBB4
 Updated values: true

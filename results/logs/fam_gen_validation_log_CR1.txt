@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: CR1
 Updated values: true
 
 ID FAMNC004, variable CR1: filled missing - old=NaN, new=CT
-ID FAMNC005, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable CR1: filled missing - old=NaN, new=CT
 ID FAMMA002, variable CR1: filled missing - old=NaN, new=CT
 ID FAMMA004, variable CR1: filled missing - old=NaN, new=CC
@@ -65,8 +65,8 @@ ID FAMMA023, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC009, variable CR1: filled missing - old=NaN, new=CC
 ID FAMUNED639, variable CR1: filled missing - old=NaN, new=CT
 ID FAMUNED525, variable CR1: filled missing - old=NaN, new=CC
-ID FAMNC010, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable CR1: filled missing - old=NaN, new=CC
 ID FAMNC006, variable CR1: filled missing - old=NaN, new=CC
 ID FAMNC008, variable CR1: filled missing - old=NaN, new=CT
@@ -81,7 +81,7 @@ ID FAMMA039, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA030, variable CR1: filled missing - old=NaN, new=CT
 ID FAMMA041, variable CR1: filled missing - old=NaN, new=CT
 ID FAMUNED599, variable CR1: filled missing - old=NaN, new=CC
-ID FAMMA032, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA042, variable CR1: filled missing - old=NaN, new=CT
 ID FAMMA044, variable CR1: filled missing - old=NaN, new=CC
@@ -118,7 +118,7 @@ ID FAMCTB006, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB019, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC014, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC013, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB008, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB026, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB004, variable CR1: filled missing - old=NaN, new=CC
@@ -136,7 +136,7 @@ ID FAMCTB009, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA077, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC017, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB044, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB045, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB045, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMUNED443, variable CR1: filled missing - old=NaN, new=CC
 ID FAMUNED605, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB027, variable CR1: filled missing - old=NaN, new=CT
@@ -146,11 +146,11 @@ ID FAMMA079, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB038, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB043, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB042, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB015, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB015, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB059, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB049, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB014, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB001, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB014, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB003, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB057, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB002, variable CR1: filled missing - old=NaN, new=CT
@@ -166,21 +166,21 @@ ID FAMCTB048, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB029, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB034, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB032, variable CR1: filled missing - old=NaN, new=TT
-ID FAMCTB033, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB033, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB037, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB089, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB092, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB039, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB061, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB010, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable CR1: filled missing - old=NaN, new=CT
 ID FAMGC021, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB063, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB025, variable CR1: filled missing - old=NaN, new=TT
 ID FAMCTB016, variable CR1: filled missing - old=NaN, new=CC
 ID FAMUNED561, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB058, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB067, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB068, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB073, variable CR1: filled missing - old=NaN, new=TT
@@ -191,12 +191,12 @@ ID FAMCTB072, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB087, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC018, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB082, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB052, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB052, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB055, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB064, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB056, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB031, variable CR1: filled missing - old=NaN, new=CC
-ID FAMNC014, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB054, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB098, variable CR1: filled missing - old=NaN, new=CC
@@ -205,72 +205,72 @@ ID FAMCTB069, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB074, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB070, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB080, variable CR1: filled missing - old=NaN, new=CC
-ID FAMMA075, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable CR1: filled missing - old=NaN, new=TT
 ID FAMNC012, variable CR1: filled missing - old=NaN, new=CT
-ID FAMCTB084, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable CR1: filled missing - old=NaN, new=CT
-ID FAMMA078, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB078, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB083, variable CR1: filled missing - old=NaN, new=CC
 ID FAMGC019, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB062, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB018, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB050, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB050, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB036, variable CR1: filled missing - old=NaN, new=TT
 ID FAMCTB085, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCOMPLUTENSE022, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB075, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB081, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB024, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE021, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB096, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB024, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA080, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB030, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB030, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB095, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB100, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB100, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB094, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB102, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable CR1: filled missing - old=NaN, new=TT
-ID FAMCOMPLUTENSE019, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB060, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB077, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB079, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable CR1: filled missing - old=NaN, new=CC
-ID FAMMA050, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA060, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA061, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA062, variable CR1: filled missing - old=NaN, new=CT
 ID FAMMA064, variable CR1: filled missing - old=NaN, new=CC
 ID FAMMA065, variable CR1: filled missing - old=NaN, new=CC
-ID FAMMA066, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable CR1: filled missing - old=NaN, new=CC
-ID FAMMA081, variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable CR1: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable CR1: filled missing - old=NaN, new=CC
 ID FAMNC013, variable CR1: filled missing - old=NaN, new=CC
-ID , variable CR1: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable CR1: filled missing - old=NaN, new=148
-ID , variable CR1: corrected - old=148, new=59
-ID , variable CR1: corrected - old=59, new=9
-ID , variable CR1: skipped (fam_neuro missing, megtusalen=9)
-ID , variable CR1: skipped (fam_neuro missing, megtusalen=9)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:48
 
 Variable: CR1
 Updated values: true

@@ -6,6 +6,7 @@ function megtusalen = umec_neuropsico_validation(megtusalen,umec_neuro_excel, up
 % umec_excel = '../data/source_data/UMEC_DAVID.csv';
 % megtusalen_excel = '../results/participants_megtusalen_umec_corrected.xlsx';
 % update = true;
+out_file = '../results/participants_megtusalen_umec_corrected.xlsx';
 
 umec_neuro = readtable(umec_neuro_excel,'VariableNamingRule','preserve');
 % megtusalen = readtable(megtusalen_excel,'FileType','spreadsheet','VariableNamingRule','preserve');
@@ -30,7 +31,8 @@ id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'umec' , {'CodigoCentroP
 ids = umec_neuro.(id_vars(1).umec);
 n = length(ids);
 
-n_updated = 0;
+n_filled = 0;
+n_corrected = 0;
 n_not_found = 0;
 
 % Loop over variables
@@ -144,7 +146,7 @@ for ivar = 1:length(vars)
             else
                 megtusalen.(varname_megtusalen){meg_row} = umec_val;
             end
-            n_updated = n_updated + 1;
+            n_filled = n_filled + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
@@ -157,7 +159,7 @@ for ivar = 1:length(vars)
             else
                 megtusalen.(varname_megtusalen){meg_row} = umec_val;
             end
-            n_updated = n_updated + 1;
+            n_corrected = n_corrected + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
@@ -176,7 +178,9 @@ for ivar = 1:length(vars)
 
 end
 
-fid = fopen(log_file, 'a');
+% Create summary log file
+log_file = fullfile('..', 'results', 'logs', 'umec_neuro_validation_log_summary.txt');
+fid = fopen(log_file, 'w');
 
 % Check participants in megtusalen not in umec
 all_meg_ids = string(megtusalen.(id_vars(1).megtusalen));
@@ -194,13 +198,17 @@ for j = 1:length(meg_ids)
         n_not_in_umec = n_not_in_umec + 1;
     end
 end
-sprintf('Participants in megtusalen not in umec: %d\n', n_not_in_umec)
+sprintf('Participants in megtusalen not in umec: %d\n', n_not_in_umec);
 
 % Add summary comparisons to the log file
+fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
+fprintf(fid, 'Updated values: %s\n\n', string(update));
+
 fprintf(fid,'Comparison: %s vs megtusalen_umec_corrected\n', umec_neuro_excel);
-fprintf(fid,'Updated values: %d\n', n_updated);
+fprintf(fid,'Filled values: %d\n', n_filled);
+fprintf(fid,'Corrected values: %d\n', n_corrected);
 fprintf(fid,'Participants not found: %d\n', n_not_found);
-fprintf(fid,'Participants in megtusalen not in umec: %d\n', n_not_in_umec);
+fprintf(fid,'Participants in megtusalen not in umec: %d\n\n\n', n_not_in_umec);
 
 fclose(fid);
 
@@ -209,7 +217,8 @@ if update
     writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
-    fprintf('Updated values: %d\n', n_updated);
+    fprintf('Filled values: %d\n', n_filled);
+    fprintf('Corrected values: %d\n', n_corrected);
     fprintf('Participants not found: %d\n', n_not_found);
     fprintf('Corrected file saved to: %s\n', out_file);
 end

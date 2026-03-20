@@ -1,3 +1,5 @@
+clear all
+close all
 
 % Input file
 megtusalen_excel = '../data/participants_megtusalen.xlsx';
@@ -42,3 +44,5 @@ megtusalen_corrected = umec_update_recording_id_orig(megtusalen, update);
 umec_neuro_excel = '../data/source_data/UMEC_DAVID.csv';
 
 megtusalen_corrected = umec_neuropsico_validation(megtusalen_corrected,umec_neuro_excel, update);
+
+%% NEMOS

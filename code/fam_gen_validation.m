@@ -21,7 +21,7 @@ fam_gen = readtable(fam_gen_excel ,'Sheet','Genética');
 
 vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
 
-% Match vars name with fam_neuro cols:
+% Match vars name with fam_gen cols:
 vars_fam = cell(1,length(vars_megtusalen));
 
 for i = 1:length(vars_megtusalen)
@@ -29,7 +29,7 @@ for i = 1:length(vars_megtusalen)
     if ~isempty(col_match)
         vars_fam{i} = fam_gen.Properties.VariableNames{col_match(1)};
     else
-        warning('Variable %s not found in fam_neuro', vars_megtusalen{i});
+        warning('Variable %s not found in fam_gen', vars_megtusalen{i});
         vars_fam{i} = ''; % o NaN, según prefieras
     end
 end
@@ -40,10 +40,8 @@ id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'CodigoProyecto
 ids = fam_gen.(id_vars(1).fam);
 n = length(ids);
 
-% IDs megtusalen
-ids_meg = string(megtusalen.(id_vars(1).megtusalen));
-
-n_updated = 0;
+n_filled = 0;
+n_corrected = 0;
 n_not_found = 0;
 
 % Loop over variables
@@ -66,6 +64,13 @@ for ivar = 1:length(vars)
 
         % ID familiares
         id_fam = string(fam_gen.(id_vars(1).fam){i});
+
+        if strlength(id_fam) == 0
+            warning('Could not find FAM-%03d in fam_gen', i)
+            fprintf(fid, 'FAM-%03d: participant not found in fam_gen\n', i);
+            n_not_found = n_not_found + 1;
+            continue
+        end
 
         meg_row = find(strcmp(megtusalen.(id_vars(1).megtusalen), id_fam), 1);
 
@@ -153,7 +158,7 @@ for ivar = 1:length(vars)
                 error('Tipo de columna no soportado: %s', class(megtusalen.(varname_megtusalen)));
             end
 
-            n_updated = n_updated + 1;
+            n_filled = n_filled + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
@@ -170,7 +175,7 @@ for ivar = 1:length(vars)
 
             end
 
-            n_updated = n_updated + 1;
+            n_corrected = n_corrected + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
@@ -181,7 +186,7 @@ for ivar = 1:length(vars)
         elseif fam_missing
 
             fprintf(fid, ...
-                'ID %s, variable %s: skipped (fam_neuro missing, megtusalen=%s)\n', ...
+                'ID %s, variable %s: skipped (fam_gen missing, megtusalen=%s)\n', ...
                 id_fam, varname_megtusalen, meg_str);
         end
 
@@ -191,57 +196,51 @@ for ivar = 1:length(vars)
 
 end
 
-%%
-%
-% % Check participants in megtusalen not in fam
-% all_meg_ids = string(megtusalen.(id_vars(1).megtusalen));
-% is_fam = startsWith(all_meg_ids, 'FAM');
-% meg_ids = all_meg_ids(is_fam);
-%
-% fam_ids = string(fam_gen.(id_vars(1).fam));
-%
-% n_not_in_fam = 0;
-%
-% for j = 1:length(meg_ids)
-%     meg_id = meg_ids(j);
-%
-%     if ~any(strcmp(fam_ids, meg_id))
-%         log_lines{end+1} = sprintf( 'ID %s: present in megtusalen but NOT in fam_neuro\n', meg_id);
-%         n_not_in_fam = n_not_in_fam + 1;
-%     end
-% end
-%
-% fprintf('Validation finished. Log saved to %s\n', log_file);
-%
-% % Add summary comparisons to the log file
-% summary_lines = {
-%     sprintf('Comparison: %s vs %s', fam_gen_excel, megtusalen_excel)
-%     sprintf('Variable to compare: %s', varname_megtusalen)
-%     sprintf('Date: %s', datestr (datetime('now', 'Format', 'dd mmm yyyy  HH:mm:ss')))
-%     sprintf('Updated values: %d', n_updated)
-%     sprintf('Participants not found: %d', n_not_found)
-%     sprintf('Participants in megtusalen not in fam: %d', n_not_in_fam)
-%     '----------------------------------------'  % separador
-%     };
-% fid = fopen(log_file, 'w');  % abre para escribir (sobrescribe)
-% for k = 1:length(summary_lines)
-%     fprintf(fid, '%s\n', summary_lines{k});
-% end
-% for k = 1:length(log_lines)
-%     fprintf(fid, '%s\n', log_lines{k});
-% end
-% fclose(fid);
-%
-% % writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');      % for -tsv
+% Create summary log file
+log_file = fullfile('..', 'results', 'logs', 'fam_gen_validation_log_summary.txt');
+fid = fopen(log_file, 'w');
+
+% Check participants in megtusalen not in fam
+all_meg_ids = string(megtusalen.(id_vars(1).megtusalen));
+is_fam = startsWith(all_meg_ids, 'FAM');
+meg_ids = all_meg_ids(is_fam);
+fam_ids = string(fam_gen.(id_vars(1).fam));
+
+n_not_in_fam = 0;
+
+for j = 1:length(meg_ids)
+    meg_id = meg_ids(j);
+
+    if ~any(strcmp(fam_ids, meg_id))
+        fprintf('ID %s: present in megtusalen but NOT in fam_gen\n', meg_id);
+        n_not_in_fam = n_not_in_fam + 1;
+    end
+end
+sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
+
+% Add summary comparisons to the log file
+fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
+fprintf(fid, 'Updated values: %s\n\n', string(update));
+
+fprintf(fid,'Comparison: %s vs megtusalen_fam_corrected\n', fam_gen_excel);
+fprintf(fid,'Filled values: %d\n', n_filled);
+fprintf(fid,'Corrected values: %d\n', n_corrected);
+fprintf(fid,'Participants not found: %d\n', n_not_found);
+fprintf(fid,'Participants in megtusalen not in fam: %d\n\n\n', n_not_in_fam);
+
+fclose(fid);
+fprintf('Validation finished.\n');
+
 if update
-    writetable(megtusalen, out_file);
+    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
-    %     fprintf('Updated values: %d\n', n_updated);
-    %     fprintf('Participants not found: %d\n', n_not_found);
-    %     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-    %     fprintf('Corrected file saved to: %s\n', out_file);
-    %     fprintf('Log saved to: %s\n', log_file);
+    fprintf('Filled values: %d\n', n_filled);
+    fprintf('Corrected values: %d\n', n_corrected);
+    fprintf('Participants not found: %d\n', n_not_found);
+    fprintf('Corrected file saved to: %s\n', out_file);
 end
+
+fprintf('Validation finished.\n');
 
 end

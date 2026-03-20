@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: CHRNA7
 Updated values: true
 
 ID FAMNC004, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMNC005, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMMA002, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA004, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -65,8 +65,8 @@ ID FAMMA023, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC009, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMUNED639, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMUNED525, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMNC010, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMNC006, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMNC008, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -81,7 +81,7 @@ ID FAMMA039, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA030, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA041, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMUNED599, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA032, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA042, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA044, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -118,7 +118,7 @@ ID FAMCTB006, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB019, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC014, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC013, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB008, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB026, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB004, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -136,7 +136,7 @@ ID FAMCTB009, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA077, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMGC017, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB044, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB045, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB045, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMUNED443, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMUNED605, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB027, variable CHRNA7: filled missing - old=NaN, new=CT
@@ -146,11 +146,11 @@ ID FAMMA079, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB038, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB043, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB042, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB015, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB015, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB059, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB049, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB014, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB001, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB014, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB003, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB057, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMCTB002, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -166,21 +166,21 @@ ID FAMCTB048, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB029, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMCTB034, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB032, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB033, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB033, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB037, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB089, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB092, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB039, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMCTB061, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB010, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC021, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB063, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB025, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB016, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMUNED561, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB058, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB067, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB068, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB073, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -191,12 +191,12 @@ ID FAMCTB072, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB087, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC018, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB082, variable CHRNA7: filled missing - old=NaN, new=CT
-ID FAMCTB052, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB052, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB055, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB064, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB056, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB031, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMNC014, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB054, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB098, variable CHRNA7: filled missing - old=NaN, new=CC
@@ -205,72 +205,72 @@ ID FAMCTB069, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB074, variable CHRNA7: filled missing - old=NaN, new=CT
 ID FAMCTB070, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB080, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA075, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMNC012, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB084, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA078, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB078, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB083, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMGC019, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB062, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB018, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB050, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB050, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB036, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB085, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCOMPLUTENSE022, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB075, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB081, variable CHRNA7: filled missing - old=NaN, new=TT
-ID FAMCTB024, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE021, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB096, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB024, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA080, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB030, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB030, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB095, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB100, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB100, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB094, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB102, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable CHRNA7: filled missing - old=NaN, new=CT
-ID FAMCOMPLUTENSE019, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB060, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB077, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB079, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA050, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA060, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA061, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA062, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA064, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMMA065, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA066, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMMA081, variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable CHRNA7: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMNC013, variable CHRNA7: filled missing - old=NaN, new=CC
-ID , variable CHRNA7: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable CHRNA7: filled missing - old=NaN, new=191
-ID , variable CHRNA7: corrected - old=191, new=23
-ID , variable CHRNA7: corrected - old=23, new=2
-ID , variable CHRNA7: skipped (fam_neuro missing, megtusalen=2)
-ID , variable CHRNA7: skipped (fam_neuro missing, megtusalen=2)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:46
 
 Variable: CHRNA7
 Updated values: true

@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: COMT
 Updated values: true
 
 ID FAMNC004, variable COMT: filled missing - old=NaN, new=GA
-ID FAMNC005, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA002, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA004, variable COMT: filled missing - old=NaN, new=AA
@@ -65,8 +65,8 @@ ID FAMMA023, variable COMT: filled missing - old=NaN, new=AA
 ID FAMGC009, variable COMT: filled missing - old=NaN, new=GG
 ID FAMUNED639, variable COMT: filled missing - old=NaN, new=AA
 ID FAMUNED525, variable COMT: filled missing - old=NaN, new=GG
-ID FAMNC010, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable COMT: filled missing - old=NaN, new=GA
 ID FAMNC006, variable COMT: filled missing - old=NaN, new=AA
 ID FAMNC008, variable COMT: filled missing - old=NaN, new=GA
@@ -81,7 +81,7 @@ ID FAMMA039, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA030, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA041, variable COMT: filled missing - old=NaN, new=GA
 ID FAMUNED599, variable COMT: filled missing - old=NaN, new=AA
-ID FAMMA032, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable COMT: filled missing - old=NaN, new=GG
 ID FAMMA042, variable COMT: filled missing - old=NaN, new=GG
 ID FAMMA044, variable COMT: filled missing - old=NaN, new=AA
@@ -118,7 +118,7 @@ ID FAMCTB006, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB019, variable COMT: filled missing - old=NaN, new=GA
 ID FAMGC014, variable COMT: filled missing - old=NaN, new=GG
 ID FAMGC013, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB008, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB026, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB004, variable COMT: filled missing - old=NaN, new=GG
@@ -136,7 +136,7 @@ ID FAMCTB009, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA077, variable COMT: filled missing - old=NaN, new=GA
 ID FAMGC017, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB044, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB045, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB045, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMUNED443, variable COMT: filled missing - old=NaN, new=GA
 ID FAMUNED605, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB027, variable COMT: filled missing - old=NaN, new=GG
@@ -146,11 +146,11 @@ ID FAMMA079, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB038, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB043, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB042, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB015, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB015, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB059, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB049, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB014, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB001, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB014, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB003, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB057, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB002, variable COMT: filled missing - old=NaN, new=AA
@@ -166,21 +166,21 @@ ID FAMCTB048, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB029, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB034, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB032, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB033, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB033, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB037, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB089, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB092, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB039, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB061, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB010, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable COMT: filled missing - old=NaN, new=GA
 ID FAMGC021, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB063, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB025, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB016, variable COMT: filled missing - old=NaN, new=GA
 ID FAMUNED561, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB058, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB067, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB068, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB073, variable COMT: filled missing - old=NaN, new=GG
@@ -191,12 +191,12 @@ ID FAMCTB072, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB087, variable COMT: filled missing - old=NaN, new=GA
 ID FAMGC018, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB082, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB052, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB052, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB055, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB064, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB056, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB031, variable COMT: filled missing - old=NaN, new=AA
-ID FAMNC014, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB054, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB098, variable COMT: filled missing - old=NaN, new=GA
@@ -205,72 +205,72 @@ ID FAMCTB069, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB074, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB070, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB080, variable COMT: filled missing - old=NaN, new=GA
-ID FAMMA075, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable COMT: filled missing - old=NaN, new=GA
 ID FAMNC012, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB084, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable COMT: filled missing - old=NaN, new=GA
-ID FAMMA078, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB078, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB083, variable COMT: filled missing - old=NaN, new=GA
 ID FAMGC019, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB062, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB018, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB050, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB050, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB036, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB085, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCOMPLUTENSE022, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB075, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB081, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB024, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE021, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB096, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB024, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA080, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB030, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB030, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB095, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB100, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB100, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB094, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB102, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCOMPLUTENSE019, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB060, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB077, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB079, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable COMT: filled missing - old=NaN, new=GA
-ID FAMMA050, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable COMT: filled missing - old=NaN, new=GG
 ID FAMMA060, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA061, variable COMT: filled missing - old=NaN, new=AA
 ID FAMMA062, variable COMT: filled missing - old=NaN, new=GG
 ID FAMMA064, variable COMT: filled missing - old=NaN, new=GA
 ID FAMMA065, variable COMT: filled missing - old=NaN, new=GA
-ID FAMMA066, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable COMT: filled missing - old=NaN, new=GA
-ID FAMMA081, variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable COMT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable COMT: filled missing - old=NaN, new=GA
 ID FAMNC013, variable COMT: filled missing - old=NaN, new=AA
-ID , variable COMT: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable COMT: filled missing - old=NaN, new=46
-ID , variable COMT: corrected - old=46, new=0
-ID , variable COMT: corrected - old=0, new=60
-ID , variable COMT: skipped (fam_neuro missing, megtusalen=60)
-ID , variable COMT: skipped (fam_neuro missing, megtusalen=60)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:46
 
 Variable: COMT
 Updated values: true

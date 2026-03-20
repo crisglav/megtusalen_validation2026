@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: BDNF
 Updated values: true
 
 ID FAMNC004, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMNC005, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA002, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA004, variable BDNF: filled missing - old=NaN, new=AG
@@ -65,8 +65,8 @@ ID FAMMA023, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMGC009, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMUNED639, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMUNED525, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMNC010, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMNC006, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMNC008, variable BDNF: filled missing - old=NaN, new=GG
@@ -81,7 +81,7 @@ ID FAMMA039, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA030, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA041, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMUNED599, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA032, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA042, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA044, variable BDNF: filled missing - old=NaN, new=GG
@@ -118,7 +118,7 @@ ID FAMCTB006, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB019, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMGC014, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMGC013, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCTB008, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB026, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB004, variable BDNF: filled missing - old=NaN, new=GG
@@ -173,7 +173,7 @@ ID FAMCTB089, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB092, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB039, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB061, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCTB010, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMGC021, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB063, variable BDNF: filled missing - old=NaN, new=GG
@@ -196,7 +196,7 @@ ID FAMCTB055, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB064, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB056, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB031, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMNC014, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB054, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB098, variable BDNF: filled missing - old=NaN, new=GG
@@ -205,12 +205,12 @@ ID FAMCTB069, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB074, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB070, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB080, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA075, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMNC012, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCTB084, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA078, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB078, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB083, variable BDNF: filled missing - old=NaN, new=GG
@@ -218,7 +218,7 @@ ID FAMGC019, variable BDNF: filled missing - old=NaN, new=AA
 ID FAMCTB062, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB018, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB050, variable BDNF: filled missing - old=NaN, new=AG
-ID FAMCOMPLUTENSE020, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB036, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB085, variable BDNF: filled missing - old=NaN, new=GG
@@ -236,41 +236,41 @@ ID FAMCTB095, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB100, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMCTB094, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMCTB102, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCTB103, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB101, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCOMPLUTENSE013, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMCOMPLUTENSE019, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB060, variable BDNF: filled missing - old=NaN, new=AA
 ID FAMCTB077, variable BDNF: filled missing - old=NaN, new=AA
-ID FAMCTB079, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA050, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA060, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA061, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMMA062, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMMA064, variable BDNF: filled missing - old=NaN, new=AG
 ID FAMMA065, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA066, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable BDNF: filled missing - old=NaN, new=GG
-ID FAMMA081, variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable BDNF: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable BDNF: filled missing - old=NaN, new=GG
 ID FAMNC013, variable BDNF: filled missing - old=NaN, new=GG
-ID , variable BDNF: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable BDNF: filled missing - old=NaN, new=13
-ID , variable BDNF: corrected - old=13, new=59
-ID , variable BDNF: corrected - old=59, new=164
-ID , variable BDNF: skipped (fam_neuro missing, megtusalen=164)
-ID , variable BDNF: skipped (fam_neuro missing, megtusalen=164)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:15
 
 Variable: BDNF
 Updated values: true

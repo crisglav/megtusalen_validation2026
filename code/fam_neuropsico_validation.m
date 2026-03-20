@@ -42,7 +42,8 @@ id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'fam' , {'CodigoProyecto
 ids = fam_neuro.(id_vars(1).fam);
 n = length(ids);
 
-n_updated = 0;
+n_filled = 0;
+n_corrected = 0;
 n_not_found = 0;
 
 % Loop over variables
@@ -154,7 +155,7 @@ for ivar = 1:length(vars)
             else
                 megtusalen.(varname_megtusalen){meg_row} = fam_val;
             end
-            n_updated = n_updated + 1;
+            n_filled = n_filled + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
@@ -167,7 +168,7 @@ for ivar = 1:length(vars)
             else
                 megtusalen.(varname_megtusalen){meg_row} = fam_val;
             end
-            n_updated = n_updated + 1;
+            n_corrected = n_corrected + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
@@ -186,28 +187,15 @@ for ivar = 1:length(vars)
 
 end
 
-fprintf('Validation finished.\n');
-
-if update
-    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
-
-    fprintf('Correction finished.\n');
-    fprintf('Updated values: %d\n', n_updated);
-    fprintf('Participants not found: %d\n', n_not_found);
-    fprintf('Corrected file saved to: %s\n', out_file);
-    fprintf('Log saved to: %s\n', log_file);
-end
-
-fprintf('Validation finished.\n');
-
-%%
+% Create summary log file
+log_file = fullfile('..', 'results', 'logs', 'fam_neuro_validation_log_summary.txt');
+fid = fopen(log_file, 'w');
 
 % Check participants in megtusalen not in fam
-all_meg_ids = string(megtusalen.recording_id_orig);
+all_meg_ids = string(megtusalen.(id_vars(1).megtusalen));
 is_fam = startsWith(all_meg_ids, 'FAM');
 meg_ids = all_meg_ids(is_fam);
-
-fam_ids = string(fam_neuro.CodigoProyecto);
+fam_ids = string(fam_neuro.(id_vars(1).fam));
 
 n_not_in_fam = 0;
 
@@ -219,35 +207,32 @@ for j = 1:length(meg_ids)
         n_not_in_fam = n_not_in_fam + 1;
     end
 end
-sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
+sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
 
 % Add summary comparisons to the log file
-summary_lines = {
-    sprintf('Comparison: %s vs %s', fam_gen_excel, megtusalen_excel)
-    sprintf('Variable to compare: %s', varname_megtusalen)
-    sprintf('Date: %s', datestr (datetime('now', 'Format', 'dd mmm yyyy  HH:mm:ss')))
-    sprintf('Updated values: %d', n_updated)
-    sprintf('Participants not found: %d', n_not_found)
-    sprintf('Participants in megtusalen not in fam: %d', n_not_in_fam)
-    '----------------------------------------'  % separador
-    };
-fid = fopen(log_file, 'w');  % abre para escribir (sobrescribe)
-for k = 1:length(summary_lines)
-    fprintf(fid, '%s\n', summary_lines{k});
-end
-for k = 1:length(log_lines)
-    fprintf(fid, '%s\n', log_lines{k});
-end
+fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
+fprintf(fid, 'Updated values: %s\n\n', string(update));
+
+fprintf(fid,'Comparison: %s vs megtusalen_fam_corrected\n', fam_neuro_excel);
+fprintf(fid,'Filled values: %d\n', n_filled);
+fprintf(fid,'Corrected values: %d\n', n_corrected);
+fprintf(fid,'Participants not found: %d\n', n_not_found);
+fprintf(fid,'Participants in megtusalen not in fam: %d\n\n\n', n_not_in_fam);
+
 fclose(fid);
+fprintf('Validation finished.\n');
 
-% writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');      % for -tsv
-writetable(megtusalen, megtusalen_file);
+if update
+    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
-fprintf('Correction finished.\n');
-fprintf('Updated values: %d\n', n_updated);
-fprintf('Participants not found: %d\n', n_not_found);
-fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-fprintf('Corrected file saved to: %s\n', megtusalen_excel);
-fprintf('Log saved to: %s\n', log_file);
+    fprintf('Correction finished.\n');
+    fprintf('Filled values: %d\n', n_filled);
+    fprintf('Corrected values: %d\n', n_corrected);
+    fprintf('Participants not found: %d\n', n_not_found);
+    fprintf('Corrected file saved to: %s\n', out_file);
+end
+
+fprintf('Validation finished.\n');
+
 
 end

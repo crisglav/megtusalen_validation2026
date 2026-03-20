@@ -1,10 +1,10 @@
-Log created on: 20-Mar-2026 13:16:11
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: ACT
 Updated values: true
 
 ID FAMNC004, variable ACT: filled missing - old=NaN, new=TA
-ID FAMNC005, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC005, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC001, variable ACT: filled missing - old=NaN, new=TT
 ID FAMMA002, variable ACT: filled missing - old=NaN, new=AA
 ID FAMMA004, variable ACT: filled missing - old=NaN, new=AA
@@ -65,8 +65,8 @@ ID FAMMA023, variable ACT: filled missing - old=NaN, new=TA
 ID FAMGC009, variable ACT: filled missing - old=NaN, new=TA
 ID FAMUNED639, variable ACT: filled missing - old=NaN, new=AA
 ID FAMUNED525, variable ACT: filled missing - old=NaN, new=TA
-ID FAMNC010, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMNC009, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC010, variable ACT: filled missing - old=NaN, new=TA
 ID FAMNC006, variable ACT: filled missing - old=NaN, new=AA
 ID FAMNC008, variable ACT: filled missing - old=NaN, new=TA
@@ -81,7 +81,7 @@ ID FAMMA039, variable ACT: filled missing - old=NaN, new=AA
 ID FAMMA030, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA041, variable ACT: filled missing - old=NaN, new=TA
 ID FAMUNED599, variable ACT: filled missing - old=NaN, new=TA
-ID FAMMA032, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA034, variable ACT: filled missing - old=NaN, new=TT
 ID FAMMA042, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA044, variable ACT: filled missing - old=NaN, new=TA
@@ -118,7 +118,7 @@ ID FAMCTB006, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB019, variable ACT: filled missing - old=NaN, new=TA
 ID FAMGC014, variable ACT: filled missing - old=NaN, new=TA
 ID FAMGC013, variable ACT: filled missing - old=NaN, new=AA
-ID FAMCTB008, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB008, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC011, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB026, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB004, variable ACT: filled missing - old=NaN, new=AA
@@ -136,7 +136,7 @@ ID FAMCTB009, variable ACT: filled missing - old=NaN, new=AA
 ID FAMMA077, variable ACT: filled missing - old=NaN, new=TT
 ID FAMGC017, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB044, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB045, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB045, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMUNED443, variable ACT: filled missing - old=NaN, new=TA
 ID FAMUNED605, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB027, variable ACT: filled missing - old=NaN, new=AA
@@ -146,11 +146,11 @@ ID FAMMA079, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB038, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB043, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB042, variable ACT: filled missing - old=NaN, new=TT
-ID FAMCTB015, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB015, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB059, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB049, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB014, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB001, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB014, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB001, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB003, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB057, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB002, variable ACT: filled missing - old=NaN, new=AA
@@ -166,21 +166,21 @@ ID FAMCTB048, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB029, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB034, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB032, variable ACT: filled missing - old=NaN, new=AA
-ID FAMCTB033, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB033, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB051, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB037, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB089, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB092, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB039, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB061, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB010, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB010, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC020, variable ACT: filled missing - old=NaN, new=TA
 ID FAMGC021, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB063, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB025, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB016, variable ACT: filled missing - old=NaN, new=TT
 ID FAMUNED561, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB058, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB067, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB068, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB073, variable ACT: filled missing - old=NaN, new=AA
@@ -191,12 +191,12 @@ ID FAMCTB072, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB087, variable ACT: filled missing - old=NaN, new=TT
 ID FAMGC018, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB082, variable ACT: filled missing - old=NaN, new=TT
-ID FAMCTB052, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB052, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB055, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB064, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB056, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB031, variable ACT: filled missing - old=NaN, new=TT
-ID FAMNC014, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC014, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB053, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB054, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB098, variable ACT: filled missing - old=NaN, new=TA
@@ -205,72 +205,72 @@ ID FAMCTB069, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB074, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCTB070, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB080, variable ACT: filled missing - old=NaN, new=TA
-ID FAMMA075, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB093, variable ACT: filled missing - old=NaN, new=TA
 ID FAMNC012, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB084, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB047, variable ACT: filled missing - old=NaN, new=TA
-ID FAMMA078, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA078, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB066, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB078, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB083, variable ACT: filled missing - old=NaN, new=TT
 ID FAMGC019, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB062, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB018, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB050, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB050, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB086, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB036, variable ACT: filled missing - old=NaN, new=AA
 ID FAMCTB085, variable ACT: filled missing - old=NaN, new=AA
-ID FAMCOMPLUTENSE022, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB075, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCTB081, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB024, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE021, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB096, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB024, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB097, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB096, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA080, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB030, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB030, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB095, variable ACT: filled missing - old=NaN, new=AA
-ID FAMCTB100, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB100, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB094, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB102, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB103, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB101, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE015, variable ACT: filled missing - old=NaN, new=TT
-ID FAMCOMPLUTENSE019, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB060, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB060, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMCTB077, variable ACT: filled missing - old=NaN, new=TA
-ID FAMCTB079, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB079, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB088, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB090, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMCTB091, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMGC012, variable ACT: filled missing - old=NaN, new=TA
-ID FAMMA050, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA051, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA059, variable ACT: filled missing - old=NaN, new=AA
 ID FAMMA060, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA061, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA062, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA064, variable ACT: filled missing - old=NaN, new=TA
 ID FAMMA065, variable ACT: filled missing - old=NaN, new=AA
-ID FAMMA066, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA067, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
+ID FAMMA068, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMMA069, variable ACT: filled missing - old=NaN, new=TA
-ID FAMMA081, variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA081, variable ACT: skipped (fam_gen missing, megtusalen=NaN)
 ID FAMNC002, variable ACT: filled missing - old=NaN, new=TA
 ID FAMNC013, variable ACT: filled missing - old=NaN, new=AA
-ID , variable ACT: skipped (fam_neuro missing, megtusalen=NaN)
-ID , variable ACT: filled missing - old=NaN, new=41
-ID , variable ACT: corrected - old=41, new=100
-ID , variable ACT: corrected - old=100, new=75
-ID , variable ACT: skipped (fam_neuro missing, megtusalen=75)
-ID , variable ACT: skipped (fam_neuro missing, megtusalen=75)
-Log created on: 20-Mar-2026 13:16:11
+FAM-262: participant not found in fam_gen
+FAM-263: participant not found in fam_gen
+FAM-264: participant not found in fam_gen
+FAM-265: participant not found in fam_gen
+FAM-266: participant not found in fam_gen
+FAM-267: participant not found in fam_gen
+Log created on: 20-Mar-2026 16:41:09
 
 Variable: ACT
 Updated values: true

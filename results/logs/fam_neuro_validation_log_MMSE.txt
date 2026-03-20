@@ -173,3 +173,108 @@ ID FAMMA066, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 20-Mar-2026 16:23:26
+
+Variable: MMSE
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable MMSE: filled missing - old=NaN, new=29
+ID FAMCTB077, variable MMSE: filled missing - old=NaN, new=23
+ID FAMCTB079, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA051, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 20-Mar-2026 16:28:31
+
+Variable: MMSE
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable MMSE: filled missing - old=NaN, new=29
+ID FAMCTB077, variable MMSE: filled missing - old=NaN, new=23
+ID FAMCTB079, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA051, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 20-Mar-2026 16:41:51
+
+Variable: MMSE
+Updated values: true
+
+ID FAMCOMPLUTENSE011, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC010, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE018, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA032, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA075, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB084, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE020, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB085, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB097, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB102, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE019, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable MMSE: filled missing - old=NaN, new=29
+ID FAMCTB077, variable MMSE: filled missing - old=NaN, new=23
+ID FAMCTB079, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA050, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA051, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA066, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC013, variable MMSE: skipped (fam_neuro missing, megtusalen=NaN)
