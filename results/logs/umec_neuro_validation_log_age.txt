@@ -1,10 +1,4 @@
-Log created on: 18-Mar-2026 15:22:10
-
-Variable: age
-Updated values: false
-
-ID UMECMA093, variable age: skipped (umec_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 15:23:39
+Log created on: 20-Mar-2026 15:41:43
 
 Variable: age
 Updated values: true
