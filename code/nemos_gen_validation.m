@@ -8,7 +8,7 @@ close all
 
 %% Initital creation of participants_megtusalen_corrected.tsv
 % megtusalen_excel = '../data/participants_megtusalen.xlsx';
-% out_file = '../results2/participants_megtusalen_nemos_corrected.xlsx';
+% out_file = '../results/participants_megtusalen_nemos_corrected.xlsx';
 % megtusalen = readtable(megtusalen_excel);
 % writetable(megtusalen, out_file);
 
@@ -21,38 +21,60 @@ update = true;
 nemos_neuro = readtable(nemos_excel ,'Sheet','Datos');
 megtusalen = readtable(megtusalen_excel);
 
+vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
 
-vars_megtusalen =  {'age','sex','group', 'converter', 'conversion_time', 'edu_years', 'edu_level_nemos', 'occupation_nemos' ...
-    'BADS_rules_test', 'BNT_spon', 'BNT_phon', 'clock_drawing', 'DTS_forward','DTS_backward', ...
-    'FAQ', 'GDS_15', 'imitation_gestures', ...
-    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them',...
-    'MMSE','PTF_F','PTF_A','PTF_S', 'PTF', ...
-   'SFT_animals', 'SFT_fruits',  ...
-    'TMT_A_hits', 'TMT_A_errors', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_errors', 'TMT_B_time', ...
-   }; 
+% Match vars name with nemos_neuro cols: 
+vars_nemos = cell(1,length(vars_megtusalen));
 
-vars_nemos =    {'Edad','Sexo','Diagnostico', 'Conversores', 'TiempoConversion_enMeses_', 'EduYears', 'NivelDeEstudios', 'Ocupacion'...
-    'CambioDeReglas', 'BNT', 'BNT_ClaveFon_', 'RELOJ_Orden', 'D_GITOS_Directos', 'DIGITOS_Inversos', ...
-    'FAQ', 'GDS', 'Imitaci_nDePosturas', ...
-    'TEXTOS_Unid_Inmediatas', 'TEXTOS_Unid_Demoradas', 'TEXTOS_Tem_Rec_Inmed_', 'TEXTOS_Tem_Rec_Demor_', ...
-    'MMSE', 'F', 'A', 'S', 'FASPromedioFonologico', ...
-    'Animales', 'Frutas',  ...
-    'TMT_A_Aciertos', 'TMT_A_Errores', 'TMT_A_Tiempo', 'TMT_B_Aciertos', 'TMT_B_Errores', 'TMT_B_Tiempo', ...
-  };
+for i = 1:length(vars_megtusalen)
+    col_match = find(contains(nemos_neuro.Properties.VariableNames, vars_megtusalen{i}));
+    if ~isempty(col_match)
+        vars_nemos{i} = nemos_neuro.Properties.VariableNames{col_match(1)};
+    else
+        warning('Variable %s not found in nemos_neuro', vars_megtusalen{i});
+        vars_nemos{i} = ''; % o NaN, según prefieras
+    end
+end
 
-% vars_megtusalen = {'edu_years', 'edu_level', 'occupation'};
-% vars_megtusalen = {'conversion_time'};
-
-% vars_nemos = {'EduYears', 'NivelDeEstudios', 'Ocupacion'};
-% vars_nemos = {'TiempoConversion_enMeses_'};
 
 % Unify ID Codes
 nemos_neuro.IDcorrected = sprintfc('NEMOS-%03d', nemos_neuro.IDMEG);
 nemos_neuro = movevars(nemos_neuro, 'IDcorrected', 'Before', 1);
 
 %Unify NaN values --> change 1000 por NaN
-vars = varfun(@isnumeric, nemos_neuro, 'OutputFormat', 'uniform');
-nemos_neuro{:, vars}(nemos_neuro{:, vars} == 1000) = NaN;
+% vars = varfun(@isnumeric, nemos_neuro, 'OutputFormat', 'uniform');
+% nemos_neuro{:, vars}(nemos_neuro{:, vars} == 1000) = NaN;
+% Variables numéricas
+vars_num = varfun(@isnumeric, nemos_neuro, 'OutputFormat', 'uniform');
+nemos_neuro{:, vars_num}(nemos_neuro{:, vars_num} == 1000) = NaN;
+
+% Variables string / cellstr / char
+vars_str = varfun(@(x) isstring(x) || iscellstr(x) || ischar(x), ...
+                  nemos_neuro, 'OutputFormat', 'uniform');
+
+for i = find(vars_str)
+    col = nemos_neuro{:, i};
+    
+    if isstring(col)
+        % Mantiene tipo string
+        col(col == "1000") = missing;
+        
+    elseif iscellstr(col)
+        % Mantiene cell array de char
+        idx = strcmp(col, '1000');
+        col(idx) = {''};   % o {'NaN'} si prefieres explícito
+        
+    elseif ischar(col)
+        % Convertimos temporalmente a cellstr para trabajar
+        tmp = cellstr(col);
+        tmp(strcmp(tmp, '1000')) = {''};
+        col = char(tmp);   % volvemos a char
+        
+    end
+    
+    nemos_neuro{:, i} = col;
+end
+
 
 ids = nemos_neuro.IDcorrected;
 n = length(ids);
