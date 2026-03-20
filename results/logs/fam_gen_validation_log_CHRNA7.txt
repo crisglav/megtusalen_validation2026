@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CHRNA7
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable CHRNA7: corrected - old=191, new=23
 ID , variable CHRNA7: corrected - old=23, new=2
 ID , variable CHRNA7: skipped (fam_neuro missing, megtusalen=2)
 ID , variable CHRNA7: skipped (fam_neuro missing, megtusalen=2)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CHRNA7
 Updated values: true
@@ -297,39 +297,3 @@ ID FAMCTB051, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB052, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB102, variable CHRNA7: filled missing - old=NaN, new=CC
 ID FAMCTB084, variable CHRNA7: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: CHRNA7
-Updated values: true
-
-ID FAMCTB024, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB030, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB101, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB050, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB060, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable CHRNA7: filled missing - old=NaN, new=CT
-ID FAMCTB096, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB058, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB001, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB014, variable CHRNA7: filled missing - old=NaN, new=CT
-ID FAMCTB033, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB045, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB051, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB052, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB102, variable CHRNA7: filled missing - old=NaN, new=CC
-ID FAMCTB084, variable CHRNA7: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: CHRNA7
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

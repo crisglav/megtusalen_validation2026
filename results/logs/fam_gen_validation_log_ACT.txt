@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: ACT
 Updated values: true
@@ -270,87 +270,31 @@ ID , variable ACT: corrected - old=41, new=100
 ID , variable ACT: corrected - old=100, new=75
 ID , variable ACT: skipped (fam_neuro missing, megtusalen=75)
 ID , variable ACT: skipped (fam_neuro missing, megtusalen=75)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: ACT
 Updated values: true
 
-ID FAMCTB024, variable ACT: filled missing - old=NaN, new=Thr/Ala
+ID FAMCTB024, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB030, variable ACT: filled missing - old=NaN, new=Thr/Thr
+ID FAMCTB100, variable ACT: filled missing - old=NaN, new=TA
+ID FAMCTB030, variable ACT: filled missing - old=NaN, new=TT
 ID FAMCOMPLU22: participant not found in megtusalen
 ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB101, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB050, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB036, variable ACT: corrected - old=AA, new=Thr/Thr
-ID FAMCTB060, variable ACT: filled missing - old=NaN, new=Thr/Ala
+ID FAMCTB015, variable ACT: filled missing - old=NaN, new=AA
+ID FAMCTB101, variable ACT: filled missing - old=NaN, new=TT
+ID FAMCTB050, variable ACT: filled missing - old=NaN, new=TT
+ID FAMCTB036, variable ACT: corrected - old=AA, new=TT
+ID FAMCTB060, variable ACT: filled missing - old=NaN, new=TA
 ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB096, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB058, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB001, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB014, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB033, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB045, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB051, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB052, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB102, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB084, variable ACT: filled missing - old=NaN, new=Ala/Ala
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: ACT
-Updated values: true
-
-ID FAMCTB024, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB030, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB101, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB050, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB036, variable ACT: corrected - old=AA, new=Thr/Thr
-ID FAMCTB060, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB096, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB058, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB001, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB014, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB033, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB045, variable ACT: filled missing - old=NaN, new=Thr/Thr
-ID FAMCTB051, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB052, variable ACT: filled missing - old=NaN, new=Ala/Ala
-ID FAMCTB102, variable ACT: filled missing - old=NaN, new=Thr/Ala
-ID FAMCTB084, variable ACT: filled missing - old=NaN, new=Ala/Ala
-Log created on: 19-Mar-2026 16:33:57
-
-Variable: ACT
-Updated values: true
-
-ID FAMCTB024, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCTB030, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable ACT: corrected - old=Ala/Ala, new=AA
-ID FAMCTB101, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB050, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB036, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB060, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCTB096, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCTB058, variable ACT: corrected - old=Ala/Ala, new=AA
-ID FAMCTB001, variable ACT: corrected - old=Ala/Ala, new=AA
-ID FAMCTB014, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB033, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB045, variable ACT: corrected - old=Thr/Thr, new=TT
-ID FAMCTB051, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCTB052, variable ACT: corrected - old=Ala/Ala, new=AA
-ID FAMCTB102, variable ACT: corrected - old=Thr/Ala, new=TA
-ID FAMCTB084, variable ACT: corrected - old=Ala/Ala, new=AA
+ID FAMCTB097, variable ACT: filled missing - old=NaN, new=TA
+ID FAMCTB096, variable ACT: filled missing - old=NaN, new=TA
+ID FAMCTB058, variable ACT: filled missing - old=NaN, new=AA
+ID FAMCTB001, variable ACT: filled missing - old=NaN, new=AA
+ID FAMCTB014, variable ACT: filled missing - old=NaN, new=TT
+ID FAMCTB033, variable ACT: filled missing - old=NaN, new=TT
+ID FAMCTB045, variable ACT: filled missing - old=NaN, new=TT
+ID FAMCTB051, variable ACT: filled missing - old=NaN, new=TA
+ID FAMCTB052, variable ACT: filled missing - old=NaN, new=AA
+ID FAMCTB102, variable ACT: filled missing - old=NaN, new=TA
+ID FAMCTB084, variable ACT: filled missing - old=NaN, new=AA

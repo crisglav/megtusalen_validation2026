@@ -1,11 +1,14 @@
 % Correct recording_id_orig typos
-megtusalen_in = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen.xlsx';
 
-megtusalen_file = 'C:\Users\Cristina\repos\megtusalen_validation2026\results\participants_megtusalen_umec_corrected.xlsx';
+function megtusalen = umec_update_recording_id_orig(megtusalen, update)
 
-megtusalen = readtable(megtusalen_in,'Filetype','spreadsheet','VariableNamingRule','preserve');
+% megtusalen_in = 'C:\Users\Cristina\repos\megtusalen_validation2026\data\participants_megtusalen.xlsx';
 
-ids = megtusalen.recording_id_orig;
+out_file = '../results/participants_megtusalen_umec_corrected.xlsx';
+
+% megtusalen = readtable(megtusalen_in,'Filetype','spreadsheet','VariableNamingRule','preserve');
+
+% ids = megtusalen.recording_id_orig;
 
 meg_row = find(strcmp(megtusalen.participant_id, 'UMEC-023'));
 megtusalen.recording_id_orig{meg_row} = 'umeccd029';
@@ -31,4 +34,7 @@ megtusalen.recording_id_orig{meg_row} = 'umeccd108';
 meg_row = find(strcmp(megtusalen.participant_id, 'UMEC-215'));
 megtusalen.recording_id_orig{meg_row} = 'umeccd108';
 
-writetable(megtusalen, megtusalen_file,"FileType","spreadsheet");
+if update
+    writetable(megtusalen, out_file,"FileType","spreadsheet");
+end
+end

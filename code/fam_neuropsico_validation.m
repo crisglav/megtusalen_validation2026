@@ -1,36 +1,40 @@
 %% Script to compare megtudalen db with familiares original db
 
-clc
-clear
-close all
+% clc
+% clear
+% close all
+
+
+function megtusalen = fam_neuropsico_validation(megtusalen,fam_neuro_excel, update)
 
 %% Script
-fam_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
-megtusalen_excel = '../results/participants_megtusalen_fam_corrected.xlsx';
-update = true;
+% fam_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
+% megtusalen_excel = '../results/participants_megtusalen_fam_corrected.xlsx';
+% update = true;
+out_file = '../results/participants_megtusalen_fam_corrected.xlsx';
 
-fam_neuro = readtable(fam_excel ,'Sheet','Neuropsicología','VariableNamingRule','preserve');
-fam_neuro_diag = readtable(fam_excel ,'Sheet','Diagnóstico','VariableNamingRule','preserve');
+fam_neuro = readtable(fam_neuro_excel ,'Sheet','Neuropsicología','VariableNamingRule','preserve');
+fam_neuro_diag = readtable(fam_neuro_excel ,'Sheet','Diagnóstico','VariableNamingRule','preserve');
 
-megtusalen = readtable(megtusalen_excel,'FileType','spreadsheet','VariableNamingRule','preserve');
+% megtusalen = readtable(megtusalen_excel,'FileType','spreadsheet','VariableNamingRule','preserve');
 
 % Add columns from other sources to fam_neuro
 fam_neuro.Diagnostico = fam_neuro_diag.Diagnostico;
 
 vars = struct( ...
     'megtusalen', ...
-    {'age','sex','group', 'family_history', 'edu_years','edu_level','occupation', ...
+    {'age','sex','group', 'family_history', 'edu_years','edu_level_fam','occupation_fam', ...
     'BADS_rules_test', 'cog_res','DTS_forward','DTS_backward', ...
     'GDS_15', ...
-    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','MOCA','PTF_F','PTF_A','PTF_S', ...
-    'ROCFB_copy', 'ROCFB_memory', 'SFT_animals', 'TMT_A_hits', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_time', ...
+    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','PTF_F','PTF_A','PTF_S', ...
+    'ROCFB_copy', 'ROCFB_memory', 'SFT_animals', 'TMT_A_hits', 'TMT_A_errors', 'TMT_A_time', 'TMT_B_hits', 'TMT_B_errors', 'TMT_B_time', ...
     'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'}, ...
     'fam', ...
     {'Edad','Sexo','Diagnostico','antec_familia_demenc','numañosescol','Estudios', 'rc_ocupac_labor', ...
     'CReglas_perfil', 'Rc_total','D_directos_total','D_inversos_total', ...
     'GDS', ...
-    'ML_total_unid_inm','ML_total_unid_dem','ML_total_temas_inm','ML_total_temas_dem','Pre_MMSE','MOCA','F','A','S', ...
-    'Rey_Acopia', 'Rey_Amemoria', 'animales', 'TMTa_a', 'TMTa_t', 'TMTb_a', 'TMTb_t', ...
+    'ML_total_unid_inm','ML_total_unid_dem','ML_total_temas_inm','ML_total_temas_dem','Pre_MMSE','F','A','S', ...
+    'Rey_Acopia', 'Rey_Amemoria', 'animales', 'TMTa_a', 'TMTa_e','TMTa_t', 'TMTb_a', 'TMTb_e', 'TMTb_t', ...
     'LP_ap_inmediato', 'LP_4intento', 'LP_recuerdoT', 'LP_recuerdo_d', 'LP_reconoc'} ...
     );
 
@@ -119,31 +123,6 @@ for ivar = 1:length(vars)
             end
         end
 
-        % Convert edu_level
-        if strcmp(varname_megtusalen,'edu_level')
-            switch fam_val
-                case 3
-                    fam_val = 2;
-                case 4
-                    fam_val = 3;
-                case 5
-                    fam_val = 4;
-                otherwise
-                    fam_val = nan;
-            end
-        end
-
-
-        % Convert occupation
-        if strcmp(varname_megtusalen,'occupation')
-            switch fam_val
-                case 0
-                    fam_val = 1;
-                case 1
-                    fam_val = 2;
-            end
-        end
-
         % Define missing flags clearly
         fam_missing = isempty(fam_val) || ...
             (isnumeric(fam_val) && isnan(fam_val)) || ...
@@ -210,12 +189,12 @@ end
 fprintf('Validation finished.\n');
 
 if update
-    writetable(megtusalen, megtusalen_excel, 'FileType', 'spreadsheet');
+    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
     fprintf('Updated values: %d\n', n_updated);
     fprintf('Participants not found: %d\n', n_not_found);
-    fprintf('Corrected file saved to: %s\n', megtusalen_excel);
+    fprintf('Corrected file saved to: %s\n', out_file);
     fprintf('Log saved to: %s\n', log_file);
 end
 
@@ -223,24 +202,24 @@ fprintf('Validation finished.\n');
 
 %%
 
-% Check participants in megtusalen not in fam
-all_meg_ids = string(megtusalen.recording_id_orig);
-is_fam = startsWith(all_meg_ids, 'FAM');
-meg_ids = all_meg_ids(is_fam);
-
-fam_ids = string(fam_neuro.CodigoProyecto);
-
-n_not_in_fam = 0;
-
-for j = 1:length(meg_ids)
-    meg_id = meg_ids(j);
-
-    if ~any(strcmp(fam_ids, meg_id))
-        fprintf('ID %s: present in megtusalen but NOT in fam_neuro\n', meg_id);
-        n_not_in_fam = n_not_in_fam + 1;
-    end
-end
-sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
+% % Check participants in megtusalen not in fam
+% all_meg_ids = string(megtusalen.recording_id_orig);
+% is_fam = startsWith(all_meg_ids, 'FAM');
+% meg_ids = all_meg_ids(is_fam);
+%
+% fam_ids = string(fam_neuro.CodigoProyecto);
+%
+% n_not_in_fam = 0;
+%
+% for j = 1:length(meg_ids)
+%     meg_id = meg_ids(j);
+%
+%     if ~any(strcmp(fam_ids, meg_id))
+%         fprintf('ID %s: present in megtusalen but NOT in fam_neuro\n', meg_id);
+%         n_not_in_fam = n_not_in_fam + 1;
+%     end
+% end
+% sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
 
 % % Add summary comparisons to the log file
 % summary_lines = {
@@ -260,10 +239,10 @@ sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
 %     fprintf(fid, '%s\n', log_lines{k});
 % end
 % fclose(fid);
-% 
+%
 % % writetable(megtusalen, out_file, 'FileType', 'text', 'Delimiter', '\t');      % for -tsv
 % writetable(megtusalen, megtusalen_file);
-% 
+%
 % fprintf('Correction finished.\n');
 % fprintf('Updated values: %d\n', n_updated);
 % fprintf('Participants not found: %d\n', n_not_found);
@@ -271,3 +250,4 @@ sprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam)
 % fprintf('Corrected file saved to: %s\n', megtusalen_excel);
 % fprintf('Log saved to: %s\n', log_file);
 
+end

@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: ERBB4
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable ERBB4: corrected - old=20, new=102
 ID , variable ERBB4: corrected - old=102, new=94
 ID , variable ERBB4: skipped (fam_neuro missing, megtusalen=94)
 ID , variable ERBB4: skipped (fam_neuro missing, megtusalen=94)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: ERBB4
 Updated values: true
@@ -298,40 +298,3 @@ ID FAMCTB051, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB052, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB102, variable ERBB4: filled missing - old=NaN, new=AA
 ID FAMCTB084, variable ERBB4: filled missing - old=NaN, new=GG
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: ERBB4
-Updated values: true
-
-ID FAMCTB024, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB030, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB101, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB050, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB036, variable ERBB4: corrected - old=AG, new=GG
-ID FAMCTB060, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB096, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB058, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB001, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB014, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB033, variable ERBB4: filled missing - old=NaN, new=GG
-ID FAMCTB045, variable ERBB4: filled missing - old=NaN, new=AG
-ID FAMCTB051, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCTB052, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCTB102, variable ERBB4: filled missing - old=NaN, new=AA
-ID FAMCTB084, variable ERBB4: filled missing - old=NaN, new=GG
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: ERBB4
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

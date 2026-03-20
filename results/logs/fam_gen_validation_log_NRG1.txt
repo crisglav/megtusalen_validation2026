@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: NRG1
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable NRG1: corrected - old=77, new=110
 ID , variable NRG1: corrected - old=110, new=28
 ID , variable NRG1: skipped (fam_neuro missing, megtusalen=28)
 ID , variable NRG1: skipped (fam_neuro missing, megtusalen=28)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: NRG1
 Updated values: true
@@ -297,39 +297,3 @@ ID FAMCTB051, variable NRG1: filled missing - old=NaN, new=CC
 ID FAMCTB052, variable NRG1: filled missing - old=NaN, new=CT
 ID FAMCTB102, variable NRG1: filled missing - old=NaN, new=CT
 ID FAMCTB084, variable NRG1: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: NRG1
-Updated values: true
-
-ID FAMCTB024, variable NRG1: filled missing - old=NaN, new=TT
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB030, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB101, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB050, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB060, variable NRG1: filled missing - old=NaN, new=CT
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB096, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB058, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB001, variable NRG1: filled missing - old=NaN, new=CT
-ID FAMCTB014, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB033, variable NRG1: filled missing - old=NaN, new=TT
-ID FAMCTB045, variable NRG1: filled missing - old=NaN, new=CT
-ID FAMCTB051, variable NRG1: filled missing - old=NaN, new=CC
-ID FAMCTB052, variable NRG1: filled missing - old=NaN, new=CT
-ID FAMCTB102, variable NRG1: filled missing - old=NaN, new=CT
-ID FAMCTB084, variable NRG1: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: NRG1
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

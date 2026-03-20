@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CLU
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable CLU: corrected - old=84, new=103
 ID , variable CLU: corrected - old=103, new=29
 ID , variable CLU: skipped (fam_neuro missing, megtusalen=29)
 ID , variable CLU: skipped (fam_neuro missing, megtusalen=29)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CLU
 Updated values: true
@@ -297,39 +297,3 @@ ID FAMCTB051, variable CLU: filled missing - old=NaN, new=CT
 ID FAMCTB052, variable CLU: filled missing - old=NaN, new=CT
 ID FAMCTB102, variable CLU: filled missing - old=NaN, new=CT
 ID FAMCTB084, variable CLU: filled missing - old=NaN, new=CT
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: CLU
-Updated values: true
-
-ID FAMCTB024, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB030, variable CLU: filled missing - old=NaN, new=TT
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable CLU: filled missing - old=NaN, new=CC
-ID FAMCTB101, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB050, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB060, variable CLU: filled missing - old=NaN, new=TT
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB096, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB058, variable CLU: filled missing - old=NaN, new=TT
-ID FAMCTB001, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB014, variable CLU: filled missing - old=NaN, new=CC
-ID FAMCTB033, variable CLU: filled missing - old=NaN, new=CC
-ID FAMCTB045, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB051, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB052, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB102, variable CLU: filled missing - old=NaN, new=CT
-ID FAMCTB084, variable CLU: filled missing - old=NaN, new=CT
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: CLU
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

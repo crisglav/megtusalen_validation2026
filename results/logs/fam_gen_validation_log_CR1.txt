@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CR1
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable CR1: corrected - old=148, new=59
 ID , variable CR1: corrected - old=59, new=9
 ID , variable CR1: skipped (fam_neuro missing, megtusalen=9)
 ID , variable CR1: skipped (fam_neuro missing, megtusalen=9)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: CR1
 Updated values: true
@@ -298,40 +298,3 @@ ID FAMCTB051, variable CR1: filled missing - old=NaN, new=CT
 ID FAMCTB052, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB102, variable CR1: filled missing - old=NaN, new=CC
 ID FAMCTB084, variable CR1: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: CR1
-Updated values: true
-
-ID FAMCTB024, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB030, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB101, variable CR1: filled missing - old=NaN, new=CT
-ID FAMCTB050, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB036, variable CR1: corrected - old=TT, new=CC
-ID FAMCTB060, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB096, variable CR1: filled missing - old=NaN, new=CT
-ID FAMCTB058, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB001, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB014, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB033, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB045, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB051, variable CR1: filled missing - old=NaN, new=CT
-ID FAMCTB052, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB102, variable CR1: filled missing - old=NaN, new=CC
-ID FAMCTB084, variable CR1: filled missing - old=NaN, new=CC
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: CR1
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

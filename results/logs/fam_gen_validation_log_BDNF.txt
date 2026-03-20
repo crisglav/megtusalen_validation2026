@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: BDNF
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable BDNF: corrected - old=13, new=59
 ID , variable BDNF: corrected - old=59, new=164
 ID , variable BDNF: skipped (fam_neuro missing, megtusalen=164)
 ID , variable BDNF: skipped (fam_neuro missing, megtusalen=164)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: BDNF
 Updated values: true
@@ -281,23 +281,3 @@ ID FAMCOMPLU21: participant not found in megtusalen
 ID FAMCTB050, variable BDNF: corrected - old=AG, new=GG
 ID FAMCOMPLU20: participant not found in megtusalen
 ID FAMCTB084, variable BDNF: filled missing - old=NaN, new=GA
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: BDNF
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB050, variable BDNF: corrected - old=AG, new=GG
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB084, variable BDNF: filled missing - old=NaN, new=GA
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: BDNF
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

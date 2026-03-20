@@ -5,17 +5,19 @@
 %            reordeno a mano cols de genética BBDD Conjunta 261 familiares para que aparezcan igual que en megtusalen.
 
 
-clc
-clear
-close all
+% clc
+% clear
+% close all
 
-fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
-megtusalen_excel = '../data/participants_megtusalen.xlsx';
-out_file = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
-update = true;
+function megtusalen = fam_gen_validation(megtusalen,fam_gen_excel, update)
 
+% fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
+% megtusalen_excel = '../data/participants_megtusalen.xlsx';
+out_file = '../results/participants_megtusalen_fam_corrected.xlsx';
+% update = true;
+% 
 fam_gen = readtable(fam_gen_excel ,'Sheet','Genética');
-megtusalen = readtable(megtusalen_excel);
+% megtusalen = readtable(megtusalen_excel);
 
 vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
 
@@ -53,7 +55,7 @@ for ivar = 1:length(vars)
 
     % Open log file per variable
     log_file = fullfile('..', 'results', 'logs', ['fam_gen_validation_log_' varname_megtusalen '.txt']);
-    fid = fopen(log_file, 'a');
+    fid = fopen(log_file, 'w');
 
     fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
     fprintf(fid, 'Variable: %s\n', varname_megtusalen);
@@ -174,7 +176,7 @@ for ivar = 1:length(vars)
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
                 id_fam, varname_megtusalen, meg_str, fam_str);
 
-          
+
             % Case 3: fam is missing → do nothing
         elseif fam_missing
 
@@ -235,9 +237,11 @@ if update
     writetable(megtusalen, out_file);
 
     fprintf('Correction finished.\n');
-%     fprintf('Updated values: %d\n', n_updated);
-%     fprintf('Participants not found: %d\n', n_not_found);
-%     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-%     fprintf('Corrected file saved to: %s\n', out_file);
-%     fprintf('Log saved to: %s\n', log_file);
+    %     fprintf('Updated values: %d\n', n_updated);
+    %     fprintf('Participants not found: %d\n', n_not_found);
+    %     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
+    %     fprintf('Corrected file saved to: %s\n', out_file);
+    %     fprintf('Log saved to: %s\n', log_file);
+end
+
 end

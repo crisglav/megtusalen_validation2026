@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: PICALM
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable PICALM: corrected - old=22, new=99
 ID , variable PICALM: corrected - old=99, new=95
 ID , variable PICALM: skipped (fam_neuro missing, megtusalen=95)
 ID , variable PICALM: skipped (fam_neuro missing, megtusalen=95)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: PICALM
 Updated values: true
@@ -297,39 +297,3 @@ ID FAMCTB051, variable PICALM: filled missing - old=NaN, new=AG
 ID FAMCTB052, variable PICALM: filled missing - old=NaN, new=GG
 ID FAMCTB102, variable PICALM: filled missing - old=NaN, new=GG
 ID FAMCTB084, variable PICALM: filled missing - old=NaN, new=AG
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: PICALM
-Updated values: true
-
-ID FAMCTB024, variable PICALM: filled missing - old=NaN, new=AG
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB030, variable PICALM: filled missing - old=NaN, new=NAN
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB101, variable PICALM: filled missing - old=NaN, new=AG
-ID FAMCTB050, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB060, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB096, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB058, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB001, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB014, variable PICALM: filled missing - old=NaN, new=AG
-ID FAMCTB033, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB045, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB051, variable PICALM: filled missing - old=NaN, new=AG
-ID FAMCTB052, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB102, variable PICALM: filled missing - old=NaN, new=GG
-ID FAMCTB084, variable PICALM: filled missing - old=NaN, new=AG
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: PICALM
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

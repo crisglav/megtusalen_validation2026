@@ -5,23 +5,25 @@
 %            reordeno a mano cols de genética BBDD Conjunta 261 familiares para que aparezcan igual que en megtusalen.
 
 
-clc
-clear
-close all
+% clc
+% clear
+% close all
 
-fam_gen_excel = '../data/source_data/familiares Resultados pendientes julio 2019.xlsx';
-megtusalen_excel = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
-out_file = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
-update = true;
+function megtusalen = fam_gen_validation_update_missing(megtusalen,fam_gen_excel, update)
+
+% fam_gen_excel = '../data/source_data/familiares Resultados pendientes julio 2019.xlsx';
+% megtusalen_excel = '../results/participants_megtusalen_fam_corrected_gen.xlsx';
+out_file = '../results/participants_megtusalen_fam_corrected.xlsx';
+% update = true;
 
 fam_gen = readtable(fam_gen_excel);
-megtusalen = readtable(megtusalen_excel);
+% megtusalen = readtable(megtusalen_excel);
 
 vars_megtusalen = {'ACT','APOE','BACE1','BDNF','CHRNA7','CLU','COMT','CR1','ERBB4','NRG1','PICALM'};
 
 vars_fam = {'AACT_rs4934','APOE_Haplotipo','BACE1_rs638405','BDNF_rs6265', ...
-     'CHRNA7_P','CLU_rs11136000','COMT_rs4680','CR1_rs3818361', ...
-     'ERBB4_rs839523','NRG1_rs6994992','PICALM_rs3851179'};
+    'CHRNA7_P','CLU_rs11136000','COMT_rs4680','CR1_rs3818361', ...
+    'ERBB4_rs839523','NRG1_rs6994992','PICALM_rs3851179'};
 
 vars = struct('megtusalen',vars_megtusalen,'fam',vars_fam);
 
@@ -225,9 +227,10 @@ if update
     writetable(megtusalen, out_file);
 
     fprintf('Correction finished.\n');
-%     fprintf('Updated values: %d\n', n_updated);
-%     fprintf('Participants not found: %d\n', n_not_found);
-%     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
-%     fprintf('Corrected file saved to: %s\n', out_file);
-%     fprintf('Log saved to: %s\n', log_file);
+    %     fprintf('Updated values: %d\n', n_updated);
+    %     fprintf('Participants not found: %d\n', n_not_found);
+    %     fprintf('Participants in megtusalen not in fam: %d\n', n_not_in_fam);
+    %     fprintf('Corrected file saved to: %s\n', out_file);
+    %     fprintf('Log saved to: %s\n', log_file);
+end
 end

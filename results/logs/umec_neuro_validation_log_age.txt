@@ -10,3 +10,9 @@ Variable: age
 Updated values: true
 
 ID UMECMA093, variable age: skipped (umec_neuro missing, megtusalen=NaN)
+Log created on: 20-Mar-2026 13:34:30
+
+Variable: age
+Updated values: true
+
+ID UMECMA093, variable age: skipped (umec_neuro missing, megtusalen=NaN)

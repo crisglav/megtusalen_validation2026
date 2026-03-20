@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: APOE
 Updated values: true
@@ -269,7 +269,7 @@ ID , variable APOE: corrected - old=2, new=15
 ID , variable APOE: corrected - old=15, new=142
 ID , variable APOE: corrected - old=142, new=67
 ID , variable APOE: corrected - old=67, new=7
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: APOE
 Updated values: true
@@ -279,22 +279,3 @@ ID FAMCOMPLU22: participant not found in megtusalen
 ID FAMCOMPLU21: participant not found in megtusalen
 ID FAMCOMPLU20: participant not found in megtusalen
 ID FAMCTB084, variable APOE: filled missing - old=NaN, new=33
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: APOE
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB084, variable APOE: filled missing - old=NaN, new=33
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: APOE
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen

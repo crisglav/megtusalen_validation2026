@@ -1,4 +1,4 @@
-Log created on: 19-Mar-2026 16:28:12
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: COMT
 Updated values: true
@@ -270,7 +270,7 @@ ID , variable COMT: corrected - old=46, new=0
 ID , variable COMT: corrected - old=0, new=60
 ID , variable COMT: skipped (fam_neuro missing, megtusalen=60)
 ID , variable COMT: skipped (fam_neuro missing, megtusalen=60)
-Log created on: 19-Mar-2026 16:32:05
+Log created on: 20-Mar-2026 13:16:11
 
 Variable: COMT
 Updated values: true
@@ -298,40 +298,3 @@ ID FAMCTB051, variable COMT: filled missing - old=NaN, new=GA
 ID FAMCTB052, variable COMT: filled missing - old=NaN, new=AA
 ID FAMCTB102, variable COMT: filled missing - old=NaN, new=GG
 ID FAMCTB084, variable COMT: filled missing - old=NaN, new=GA
-Log created on: 19-Mar-2026 16:32:12
-
-Variable: COMT
-Updated values: true
-
-ID FAMCTB024, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCTB100, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB030, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCTB015, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB101, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB050, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB036, variable COMT: corrected - old=AA, new=GA
-ID FAMCTB060, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCOMPLU20: participant not found in megtusalen
-ID FAMCTB097, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB096, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB058, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB001, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB014, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB033, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB045, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB051, variable COMT: filled missing - old=NaN, new=GA
-ID FAMCTB052, variable COMT: filled missing - old=NaN, new=AA
-ID FAMCTB102, variable COMT: filled missing - old=NaN, new=GG
-ID FAMCTB084, variable COMT: filled missing - old=NaN, new=GA
-Log created on: 19-Mar-2026 16:33:58
-
-Variable: COMT
-Updated values: true
-
-ID FAMCOMPLU23: participant not found in megtusalen
-ID FAMCOMPLU22: participant not found in megtusalen
-ID FAMCOMPLU21: participant not found in megtusalen
-ID FAMCOMPLU20: participant not found in megtusalen
