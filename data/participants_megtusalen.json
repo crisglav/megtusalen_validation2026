@@ -60,8 +60,13 @@
         }
     },
      "conversion_time": {
-        "LongName": "Time to conversion to Alzheimer's Disease or other dementia",
-        "Description": "Time to conversion to Alzheimer's Disease or other dementia.",
+        "LongName": "Time to conversion from MCI to Alzheimer's Disease or other dementia",
+        "Description": "Time to conversion from MCI to Alzheimer's Disease or other dementia.",
+        "Units": "months"
+    },
+     "evolution_time": {
+        "LongName": "Time to conversion from SCD to MCI",
+        "Description": "Time to conversion from SCD to MCI.",
         "Units": "months"
     },
     "family_history":{
@@ -169,8 +174,16 @@
         ],
         "ReferencesAndLinks": "Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Lippincott Williams & Wilkins."
     },
-    "BNT_sem": {
+    "BNT_phon": {
         "LongName": "Boston Naming Test, correct responses with a phonological clue",
+        "Instructions": "Subjects identify 60 line-drawn objects of increasing complexity, with 20 seconds per object. If the participant can't name the object a phonological clue is given. The variable indicates number of correct responses in which a phonological clue was given.",
+        "Range": [
+            0,60
+        ],
+        "ReferencesAndLinks": "Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Lippincott Williams & Wilkins."
+    },
+    "BNT_sem": {
+        "LongName": "Boston Naming Test, correct responses with a semantic clue",
         "Instructions": "Subjects identify 60 line-drawn objects of increasing complexity, with 20 seconds per object. If the participant can't name the object a semantic clue is given. If the participant can't name the object after the semantic clue, a phonological clue is given. The variable indicates number of correct responses in which a semantic clue was given.",
         "Range": [
             0,60
@@ -354,6 +367,12 @@
         "Range": [0, 24],
         "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
     },
+    "TMT_A_errors": {
+        "LongName": "Trail Making Test (Part A), number of errors",
+        "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the number of incorrect lines drawn.",
+        "Range": [0, 24],
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
     "TMT_A_time": {
         "LongName": "Trail Making Test (Part A), time to complete",
         "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the time required to complete the task.",
@@ -364,6 +383,12 @@
     "TMT_B_hits": {
         "LongName": "Trail Making Test (Part B), number of hits",
         "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the correct number of lines drawn.",
+        "Range": [0,24],
+        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
+    },
+     "TMT_B_errors": {
+        "LongName": "Trail Making Test (Part B), number of errors",
+        "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the incorrect number of lines drawn.",
         "Range": [0,24],
         "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
     },
@@ -404,14 +429,8 @@
         "Range": [0,24],
         "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
     },
-    "7MT":{
-        "LongName": "Seven Minutes Test, total score",
-        "Instructions": "Participants performed a battery of 5 neuropsychological tests to assess orientation, memory, verbal fluency.",
-        "Range": "non-bounded",
-        "ReferencesAndLinks": ""
-    },
     "APOE": {
-        "LongName": "APOE genotype (rs429358/rs7412 haplotype)",
+        "LongName": "APOE4 genotype (rs429358/rs7412 haplotype)",
         "Description": "Genotype for the APOE gene, determined by the combination of rs429358 and rs7412 SNPs. Reported as allele pairs corresponding to the e2, e3, and e4 isoforms (e.g., 23 = e2/e3, 34 = e3/e4)."
     },
     "ACT": {
@@ -453,6 +472,30 @@
     "PICALM": {
         "LongName": "PICALM rs3851179 genotype",
         "Description": "Genotype for the PICALM rs3851179 SNP, reported as allele pairs: AA, AG, or GG."
+    },
+    "has_meg": {
+        "LongName": "Has MEG recording",
+        "Description": "Variable that indicates wether the participant has a MEG recording.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+     "has_mri": {
+        "LongName": "Has MRI recording",
+        "Description": "Variable that indicates wether the participant has a MRI recording.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+     "mriok": {
+        "LongName": "Is MRI normal",
+        "Description": "Variable that indicates wether the MRI of the participant is normal.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
     },
      "recording_id_orig": {
         "LongName": "Recording ID",
