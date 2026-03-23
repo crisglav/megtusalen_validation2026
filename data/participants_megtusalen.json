@@ -54,17 +54,17 @@
         "LongName": "Alzheimer's Disease Converter",
         "Description": "Indicates whether an MCI participant converted to AD or other type of dementia or remained stable.",
         "Levels": {
-            "0": "No converter", 
-            "1": "Converter from MCI to AD"; 
-            "2": "Converter from MCI to other dementia", 
+            "0": "No converter",
+            "1": "Converter from MCI to AD",
+            "2": "Converter from MCI to other dementia"
         }
     },
-     "conversion_time": {
+    "conversion_time": {
         "LongName": "Time to conversion from MCI to Alzheimer's Disease or other dementia",
         "Description": "Time to conversion from MCI to Alzheimer's Disease or other dementia.",
         "Units": "months"
     },
-     "evolution_time": {
+    "evolution_time": {
         "LongName": "Time to conversion from SCD to MCI",
         "Description": "Time to conversion from SCD to MCI.",
         "Units": "months"
@@ -150,14 +150,6 @@
             "4": "Executive / Researcher"
         }
     },
-    "cognitive_stimulation": {
-        "LongName": "Cognitive stimulation",
-        "Description": "Variable that indicates wether the participant has done cognitive stimulation on their own",
-        "Levels": {
-            "1": "yes", 
-            "2": "no", 
-        }
-    }, 
     "BADS_rules_test": {
         "LongName": "Behavioural Assessment of the Dysexecutive Syndrome, Rule Shift Cards Test",
         "Instructions": "Participants respond “Yes” or “No” to a sequence of red and black cards, first according to card color and then according to whether the card matches the color of the previous card, requiring them to shift rules during the task. The score reflectes the performance, being 4 perfect performance and 0 unable to follow the rule.",
@@ -190,7 +182,7 @@
         ],
         "ReferencesAndLinks": "Kaplan, E., Goodglass, H., & Weintraub, S. (2001). Boston Naming Test. Lippincott Williams & Wilkins."
     },
-      "clock_drawing": {
+    "clock_drawing": {
         "LongName": "Clock Drawing Test",
         "Instructions": "The participant is asked to draw a clock, place all the numbers correctly, and set the hands to show the time 11:10. The score reflects the accuracy of the circle, the presence and correct placement of numbers, and the correct positioning of the clock hands.",
         "Range": [0,7],
@@ -249,7 +241,7 @@
             0,8
         ]
     },
-   "LM_imm_units": {
+    "LM_imm_units": {
         "LongName": "Logical Memory (immediate units), Wechsler Memory Scale-III-R (Spanish version).",
         "Instructions": "Subjects listen to 2 short texts and are instructed to pay attention for later recall. The second text is repeated. For the score, a checklist of 25 specific ideas is used. Subjects get 1 point for each remembered idea. The total score is 25 points per text (here 75, as the second text is repeated).",
         "Range": [
@@ -319,7 +311,7 @@
         "Range": [0,22],
         "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
     },
-    "ROCFB_simp_memory":{
+    "ROCFB_simp_mem":{
         "LongName": "Rey-Osterrieth Complex Figure B (simplified figure), copy figure from memory score",
         "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the recall.",
         "Range": [0,22],
@@ -386,7 +378,7 @@
         "Range": [0,24],
         "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
     },
-     "TMT_B_errors": {
+    "TMT_B_errors": {
         "LongName": "Trail Making Test (Part B), number of errors",
         "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the incorrect number of lines drawn.",
         "Range": [0,24],
@@ -404,8 +396,8 @@
         "Instructions": "The examiner reads a list of 12 unrelated words aloud and the participant recalls as many words as possible immediately after presentation. This list will be repeated 4 times. Each time the participant has to repeat as many words as possible. This variable records the number of correctly recalled words in the first learning trial.",
         "Range": [0,12],
         "ReferencesAndLinks": "Morris, J. C., Mohs, R. C., Rogers, H., Fillenbaum, G., & Heyman, A. (1989). Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) clinical and neuropsychological assessment of Alzheimer’s disease. Psychopharmacology Bulletin, 24(4), 641–652."
-        },
-     "word_list_trial4":{
+    },
+    "word_list_trial4":{
         "LongName": "Word List Learning Trial 4",
         "Instructions": "The examiner reads the same list of 12 words for a fourth time and the participant recalls as many words as possible. This variable records the number of correctly recalled words in the fourth learning trial.",
         "Range": [0,12],
@@ -481,7 +473,7 @@
             "1": "Yes"
         }
     },
-     "has_mri": {
+    "has_mri": {
         "LongName": "Has MRI recording",
         "Description": "Variable that indicates wether the participant has a MRI recording.",
         "Levels": {
@@ -489,7 +481,7 @@
             "1": "Yes"
         }
     },
-     "mriok": {
+    "mriok": {
         "LongName": "Is MRI normal",
         "Description": "Variable that indicates wether the MRI of the participant is normal.",
         "Levels": {
@@ -497,8 +489,8 @@
             "1": "Yes"
         }
     },
-     "recording_id_orig": {
+    "recording_id_orig": {
         "LongName": "Recording ID",
         "Description": "Recording identificator. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
-     }
+    }
 }
