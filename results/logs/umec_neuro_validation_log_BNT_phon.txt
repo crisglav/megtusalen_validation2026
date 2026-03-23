@@ -1,24 +1,235 @@
-Log created on: 20-Mar-2026 16:41:52
+Log created on: 23-Mar-2026 17:19:38
 
 Variable: BNT_phon
 Updated values: true
 
+ID umeccd010, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd003, variable BNT_phon: filled missing - old=NaN, new=0
+ID umeccd002, variable BNT_phon: filled missing - old=NaN, new=0
+ID umeccd004, variable BNT_phon: filled missing - old=NaN, new=12
+ID umeccd009, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd007, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd008, variable BNT_phon: filled missing - old=NaN, new=0
+ID umeccd016, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd017, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd006, variable BNT_phon: filled missing - old=NaN, new=9
+ID umeccd013, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd015, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd011, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd019, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd020, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd005, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd018, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd022, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd021, variable BNT_phon: filled missing - old=NaN, new=4
 ID umeccd024, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd023, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA009, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd029, variable BNT_phon: filled missing - old=NaN, new=11
+ID umeccd028, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA002, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA001, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd026, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA010, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA011, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA004, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA017, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA005, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA003, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA013, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA016, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd032, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd034, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd030, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECMA006, variable BNT_phon: filled missing - old=NaN, new=3
 ID umeccd027, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd035, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECMA008, variable BNT_phon: filled missing - old=NaN, new=0
+ID umeccd033, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA007, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd031, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd012, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd036, variable BNT_phon: filled missing - old=NaN, new=9
+ID umeccd037, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd039, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd040, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd038, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd041, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECNC003, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC005, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECNC004, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC006, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECNC009, variable BNT_phon: filled missing - old=NaN, new=7
 ID UMECNC002, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
 ID UMECNC001, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC010, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC011, variable BNT_phon: filled missing - old=NaN, new=10
+ID UMECNC012, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA018, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC007, variable BNT_phon: filled missing - old=NaN, new=10
+ID umeccd044, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA020, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd042, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd043, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA019, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd045, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECNC014, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECNC013, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA021, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA022, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA023, variable BNT_phon: filled missing - old=NaN, new=6
+ID UMECMA024, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECMA031, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECMA015, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA025, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA026, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA027, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA033, variable BNT_phon: filled missing - old=NaN, new=6
+ID UMECMA028, variable BNT_phon: filled missing - old=NaN, new=10
+ID UMECMA032, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd051, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECMA029, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA030, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd050, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd047, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd049, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd046, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd054, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd052, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd048, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd057, variable BNT_phon: filled missing - old=NaN, new=10
+ID UMECNC017, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd053, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA034, variable BNT_phon: filled missing - old=NaN, new=6
+ID UMECMA035, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECNC016, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC015, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd058, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd059, variable BNT_phon: filled missing - old=NaN, new=12
+ID umeccd055, variable BNT_phon: filled missing - old=NaN, new=10
+ID umeccd001, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd014, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd075, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA014, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECNC008, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA012, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd025, variable BNT_phon: filled missing - old=NaN, new=12
+ID umeccd056, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd060, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd061, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd062, variable BNT_phon: filled missing - old=NaN, new=6
 ID umeccd067, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd063, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd066, variable BNT_phon: filled missing - old=NaN, new=13
+ID umeccd068, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd070, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd071, variable BNT_phon: filled missing - old=NaN, new=1
+ID umeccd072, variable BNT_phon: filled missing - old=NaN, new=9
+ID umeccd073, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA038, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA040, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd083, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECMA045, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA044, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA036, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd077, variable BNT_phon: filled missing - old=NaN, new=8
 ID umeccd076, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd084, variable BNT_phon: filled missing - old=NaN, new=3
 ID umeccd081, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd082, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA041, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA047, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA053, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA042, variable BNT_phon: filled missing - old=NaN, new=1
 ID umeccd080, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA048, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd074, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd078, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd079, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECMA037, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA050, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA049, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECMA051, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA043, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA054, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECNC019, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECNC020, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECNC018, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA039, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA046, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA052, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd086, variable BNT_phon: filled missing - old=NaN, new=8
+ID umeccd087, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd089, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd088, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA055, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA058, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA056, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA057, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd085, variable BNT_phon: filled missing - old=NaN, new=7
 ID umeccd064, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd065, variable BNT_phon: filled missing - old=NaN, new=13
 ID umeccd069, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd092, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA059, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA061, variable BNT_phon: filled missing - old=NaN, new=0
 ID umeccd093, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd098, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA064, variable BNT_phon: filled missing - old=NaN, new=13
+ID UMECMA065, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA060, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA062, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA063, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd095, variable BNT_phon: filled missing - old=NaN, new=8
+ID umeccd096, variable BNT_phon: filled missing - old=NaN, new=8
+ID umeccd097, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECMA067, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA068, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECNC021, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd100, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd099, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECMA070, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd102, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd094, variable BNT_phon: filled missing - old=NaN, new=9
+ID UMECMA066, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA069, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECNC022, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA084, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECMA073, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA076, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA077, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA071, variable BNT_phon: filled missing - old=NaN, new=3
+ID UMECMA078, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA082, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA083, variable BNT_phon: filled missing - old=NaN, new=2
 ID umeccd101, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA079, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd091, variable BNT_phon: filled missing - old=NaN, new=6
+ID UMECMA072, variable BNT_phon: filled missing - old=NaN, new=3
 ID umeccd090, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA081, variable BNT_phon: filled missing - old=NaN, new=4
 ID umeccd104, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd103, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd105, variable BNT_phon: filled missing - old=NaN, new=7
+ID umeccd107, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd106, variable BNT_phon: filled missing - old=NaN, new=2
+ID umeccd109, variable BNT_phon: filled missing - old=NaN, new=7
+ID UMECMA085, variable BNT_phon: filled missing - old=NaN, new=13
+ID UMECMA074, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA075, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd108, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA080, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd112, variable BNT_phon: filled missing - old=NaN, new=10
+ID umeccd114, variable BNT_phon: filled missing - old=NaN, new=4
+ID umeccd110, variable BNT_phon: filled missing - old=NaN, new=6
+ID umeccd111, variable BNT_phon: filled missing - old=NaN, new=4
+ID UMECMA086, variable BNT_phon: filled missing - old=NaN, new=5
+ID umeccd113, variable BNT_phon: filled missing - old=NaN, new=3
+ID umeccd115, variable BNT_phon: filled missing - old=NaN, new=0
+ID UMECMA088, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA089, variable BNT_phon: filled missing - old=NaN, new=2
+ID UMECMA087, variable BNT_phon: filled missing - old=NaN, new=1
+ID UMECMA090, variable BNT_phon: filled missing - old=NaN, new=8
+ID UMECMA091, variable BNT_phon: filled missing - old=NaN, new=5
+ID UMECMA092, variable BNT_phon: filled missing - old=NaN, new=8
 ID UMECMA093, variable BNT_phon: skipped (umec_neuro missing, megtusalen=NaN)

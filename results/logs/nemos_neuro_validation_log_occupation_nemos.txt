@@ -1,31 +1,245 @@
-Log created on: 23-Mar-2026 13:21:37
+Log created on: 23-Mar-2026 17:20:13
 
 Variable: occupation_nemos
-Updated values: false
+Updated values: true
 
+ID NEMOS-001, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-002, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-003, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-004, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-005, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-006, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-007, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-008, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-009, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-010, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-011, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-012, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-013, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-014, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-015, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-016, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-017, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-018, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-019, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-020, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-021, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-022, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-023, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-024, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-025, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-026, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-027, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-028, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-029, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-030, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-031, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-032, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-033, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-034, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-035, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-036, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-037, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-038, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-039, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-040, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-041, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-042, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-043, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-044, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-045, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-046, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-047, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-048, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-049, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-050, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-051, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-052, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-053, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-054, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-055, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-056, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-057, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-058, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-059, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-060, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-061, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-062, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-063, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-064, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-065, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-066, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-067, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-068, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-069, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-070, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-071, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-072, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-073, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-074, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-075, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-076, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-077, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-078, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-079, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-080, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-081, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-082, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-083, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-084, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-085, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-086, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-087, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-088, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-089, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-090, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-091, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-092, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-093, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-094, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-095, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-096, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-097, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-098, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-099, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-100, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-101, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-102, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-103, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-104, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-105, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-106, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-107, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-108, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-109, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-110, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-111, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-112, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-113, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-114, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-115, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-116, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-117, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-118, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-119, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-120, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-121, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-122, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-123, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-124, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-125, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-126, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-127, variable occupation_nemos: filled missing - old=NaN, new=2
 ID NEMOS-128, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-129, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-130, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-131, variable occupation_nemos: filled missing - old=NaN, new=4
 ID NEMOS-132, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-133, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-134, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-135, variable occupation_nemos: filled missing - old=NaN, new=2
 ID NEMOS-136, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-137, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-138, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-139, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-140, variable occupation_nemos: filled missing - old=NaN, new=5
 ID NEMOS-141, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-142, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-143, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-144, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-145, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-146, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-147, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-148, variable occupation_nemos: filled missing - old=NaN, new=5
+ID NEMOS-149, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-150, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-151, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-152, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-153, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-154, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-155, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-156, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-157, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-158, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-159, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-160, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-161, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-162, variable occupation_nemos: filled missing - old=NaN, new=6
+ID NEMOS-163, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-164, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-165, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-166, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-167, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-168, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-169, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-170, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-171, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-172, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-173, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-174, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-175, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-176, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-177, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-178, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-179, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-180, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-181, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-182, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-183, variable occupation_nemos: filled missing - old=NaN, new=3
 ID NEMOS-184, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-185, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-186, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-187, variable occupation_nemos: filled missing - old=NaN, new=4
 ID NEMOS-188, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-189, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-190, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-191, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-192, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-193, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-194, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-195, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-196, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-197, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-198, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-199, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-200, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-201, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-202, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-203, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-204, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-205, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-206, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-207, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-208, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-209, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable occupation_nemos: filled missing - old=NaN, new=2
+ID NEMOS-211, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-212, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-213, variable occupation_nemos: filled missing - old=NaN, new=3
 ID NEMOS-214, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-215, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-216, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-217, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-218, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-219, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-220, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-221, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-222, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-223, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-224, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-225, variable occupation_nemos: filled missing - old=NaN, new=4
+ID NEMOS-226, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-227, variable occupation_nemos: filled missing - old=NaN, new=4
 ID NEMOS-228, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-229, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-230, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-231, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-232, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-233, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-234, variable occupation_nemos: filled missing - old=NaN, new=3
+ID NEMOS-235, variable occupation_nemos: filled missing - old=NaN, new=1
+ID NEMOS-236, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-237, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-238, variable occupation_nemos: filled missing - old=NaN, new=1
 ID NEMOS-239, variable occupation_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable occupation_nemos: filled missing - old=NaN, new=4

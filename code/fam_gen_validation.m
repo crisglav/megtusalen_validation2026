@@ -4,11 +4,6 @@
 %            col: AACT_rs4934 --> cambio Thr por T y Ala por A. ( no hay G ni C)
 %            reordeno a mano cols de genética BBDD Conjunta 261 familiares para que aparezcan igual que en megtusalen.
 
-
-% clc
-% clear
-% close all
-
 function megtusalen = fam_gen_validation(megtusalen,fam_gen_excel, update)
 
 % fam_gen_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
@@ -16,7 +11,7 @@ function megtusalen = fam_gen_validation(megtusalen,fam_gen_excel, update)
 out_file = '../results/participants_megtusalen_fam_corrected.xlsx';
 % update = true;
 % 
-fam_gen = readtable(fam_gen_excel ,'Sheet','Genética');
+fam_gen = readtable(fam_gen_excel ,'Sheet','Genética','VariableNamingRule','preserve');
 % megtusalen = readtable(megtusalen_excel);
 
 vars_megtusalen = {'APOE','ERBB4','BDNF','NRG1','CR1','COMT','CLU','ACT','BACE1','CHRNA7','PICALM'};
@@ -154,8 +149,6 @@ for ivar = 1:length(vars)
                 megtusalen.(varname_megtusalen){meg_row} = fam_val; % cell → usar {}
             elseif iscategorical(megtusalen.(varname_megtusalen)) || isstring(megtusalen.(varname_megtusalen)) || isnumeric(megtusalen.(varname_megtusalen))
                 megtusalen.(varname_megtusalen)(meg_row) = fam_val;% otros → usar ()
-            else
-                error('Tipo de columna no soportado: %s', class(megtusalen.(varname_megtusalen)));
             end
 
             n_filled = n_filled + 1;

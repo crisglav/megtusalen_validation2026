@@ -1,24 +1,235 @@
-Log created on: 20-Mar-2026 16:41:52
+Log created on: 23-Mar-2026 17:19:38
 
 Variable: BNT_spon
 Updated values: true
 
+ID umeccd010, variable BNT_spon: filled missing - old=NaN, new=54
+ID umeccd003, variable BNT_spon: filled missing - old=NaN, new=60
+ID umeccd002, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd004, variable BNT_spon: filled missing - old=NaN, new=38
+ID umeccd009, variable BNT_spon: filled missing - old=NaN, new=50
+ID umeccd007, variable BNT_spon: filled missing - old=NaN, new=47
+ID umeccd008, variable BNT_spon: filled missing - old=NaN, new=60
+ID umeccd016, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd017, variable BNT_spon: filled missing - old=NaN, new=58
+ID umeccd006, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd013, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd015, variable BNT_spon: filled missing - old=NaN, new=9
+ID umeccd011, variable BNT_spon: filled missing - old=NaN, new=55
+ID umeccd019, variable BNT_spon: filled missing - old=NaN, new=45
+ID umeccd020, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd005, variable BNT_spon: filled missing - old=NaN, new=13
+ID umeccd018, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd022, variable BNT_spon: filled missing - old=NaN, new=40
+ID umeccd021, variable BNT_spon: filled missing - old=NaN, new=52
 ID umeccd024, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd023, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA009, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd029, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd028, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA002, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA001, variable BNT_spon: filled missing - old=NaN, new=59
+ID umeccd026, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA010, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA011, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA004, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA017, variable BNT_spon: filled missing - old=NaN, new=60
+ID UMECMA005, variable BNT_spon: filled missing - old=NaN, new=59
+ID UMECMA003, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA013, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA016, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd032, variable BNT_spon: filled missing - old=NaN, new=47
+ID umeccd034, variable BNT_spon: filled missing - old=NaN, new=32
+ID umeccd030, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA006, variable BNT_spon: filled missing - old=NaN, new=57
 ID umeccd027, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd035, variable BNT_spon: filled missing - old=NaN, new=41
+ID UMECMA008, variable BNT_spon: filled missing - old=NaN, new=59
+ID umeccd033, variable BNT_spon: filled missing - old=NaN, new=59
+ID UMECMA007, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd031, variable BNT_spon: filled missing - old=NaN, new=51
+ID umeccd012, variable BNT_spon: filled missing - old=NaN, new=57
+ID umeccd036, variable BNT_spon: filled missing - old=NaN, new=37
+ID umeccd037, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd039, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd040, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd038, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd041, variable BNT_spon: filled missing - old=NaN, new=49
+ID UMECNC003, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECNC005, variable BNT_spon: filled missing - old=NaN, new=50
+ID UMECNC004, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECNC006, variable BNT_spon: filled missing - old=NaN, new=39
+ID UMECNC009, variable BNT_spon: filled missing - old=NaN, new=42
 ID UMECNC002, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
 ID UMECNC001, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECNC010, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECNC011, variable BNT_spon: filled missing - old=NaN, new=39
+ID UMECNC012, variable BNT_spon: filled missing - old=NaN, new=47
+ID UMECMA018, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECNC007, variable BNT_spon: filled missing - old=NaN, new=37
+ID umeccd044, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA020, variable BNT_spon: filled missing - old=NaN, new=48
+ID umeccd042, variable BNT_spon: filled missing - old=NaN, new=42
+ID umeccd043, variable BNT_spon: filled missing - old=NaN, new=13
+ID UMECMA019, variable BNT_spon: filled missing - old=NaN, new=54
+ID umeccd045, variable BNT_spon: filled missing - old=NaN, new=59
+ID UMECNC014, variable BNT_spon: filled missing - old=NaN, new=40
+ID UMECNC013, variable BNT_spon: filled missing - old=NaN, new=35
+ID UMECMA021, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA022, variable BNT_spon: filled missing - old=NaN, new=45
+ID UMECMA023, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA024, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA031, variable BNT_spon: filled missing - old=NaN, new=45
+ID UMECMA015, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECMA025, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA026, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA027, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA033, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA028, variable BNT_spon: filled missing - old=NaN, new=46
+ID UMECMA032, variable BNT_spon: filled missing - old=NaN, new=54
+ID umeccd051, variable BNT_spon: filled missing - old=NaN, new=42
+ID UMECMA029, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA030, variable BNT_spon: filled missing - old=NaN, new=54
+ID umeccd050, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd047, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd049, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd046, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd054, variable BNT_spon: filled missing - old=NaN, new=48
+ID umeccd052, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd048, variable BNT_spon: filled missing - old=NaN, new=10
+ID umeccd057, variable BNT_spon: filled missing - old=NaN, new=44
+ID UMECNC017, variable BNT_spon: filled missing - old=NaN, new=36
+ID umeccd053, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA034, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECMA035, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECNC016, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECNC015, variable BNT_spon: filled missing - old=NaN, new=47
+ID umeccd058, variable BNT_spon: filled missing - old=NaN, new=43
+ID umeccd059, variable BNT_spon: filled missing - old=NaN, new=45
+ID umeccd055, variable BNT_spon: filled missing - old=NaN, new=34
+ID umeccd001, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd014, variable BNT_spon: filled missing - old=NaN, new=46
+ID umeccd075, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA014, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECNC008, variable BNT_spon: filled missing - old=NaN, new=36
+ID UMECMA012, variable BNT_spon: filled missing - old=NaN, new=57
+ID umeccd025, variable BNT_spon: filled missing - old=NaN, new=38
+ID umeccd056, variable BNT_spon: filled missing - old=NaN, new=51
+ID umeccd060, variable BNT_spon: filled missing - old=NaN, new=34
+ID umeccd061, variable BNT_spon: filled missing - old=NaN, new=38
+ID umeccd062, variable BNT_spon: filled missing - old=NaN, new=54
 ID umeccd067, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd063, variable BNT_spon: filled missing - old=NaN, new=58
+ID umeccd066, variable BNT_spon: filled missing - old=NaN, new=40
+ID umeccd068, variable BNT_spon: filled missing - old=NaN, new=35
+ID umeccd070, variable BNT_spon: filled missing - old=NaN, new=40
+ID umeccd071, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd072, variable BNT_spon: filled missing - old=NaN, new=40
+ID umeccd073, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA038, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA040, variable BNT_spon: filled missing - old=NaN, new=57
+ID umeccd083, variable BNT_spon: filled missing - old=NaN, new=40
+ID UMECMA045, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA044, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA036, variable BNT_spon: filled missing - old=NaN, new=55
+ID umeccd077, variable BNT_spon: filled missing - old=NaN, new=48
 ID umeccd076, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd084, variable BNT_spon: filled missing - old=NaN, new=50
 ID umeccd081, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd082, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA041, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA047, variable BNT_spon: filled missing - old=NaN, new=49
+ID UMECMA053, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECMA042, variable BNT_spon: filled missing - old=NaN, new=59
 ID umeccd080, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA048, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd074, variable BNT_spon: filled missing - old=NaN, new=51
+ID umeccd078, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd079, variable BNT_spon: filled missing - old=NaN, new=31
+ID UMECMA037, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA050, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA049, variable BNT_spon: filled missing - old=NaN, new=48
+ID UMECMA051, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECMA043, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA054, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECNC019, variable BNT_spon: filled missing - old=NaN, new=50
+ID UMECNC020, variable BNT_spon: filled missing - old=NaN, new=43
+ID UMECNC018, variable BNT_spon: filled missing - old=NaN, new=35
+ID UMECMA039, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA046, variable BNT_spon: filled missing - old=NaN, new=60
+ID UMECMA052, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd086, variable BNT_spon: filled missing - old=NaN, new=40
+ID umeccd087, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd089, variable BNT_spon: filled missing - old=NaN, new=41
+ID umeccd088, variable BNT_spon: filled missing - old=NaN, new=59
+ID UMECMA055, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECMA058, variable BNT_spon: filled missing - old=NaN, new=52
+ID UMECMA056, variable BNT_spon: filled missing - old=NaN, new=34
+ID UMECMA057, variable BNT_spon: filled missing - old=NaN, new=55
+ID umeccd085, variable BNT_spon: filled missing - old=NaN, new=45
 ID umeccd064, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd065, variable BNT_spon: filled missing - old=NaN, new=43
 ID umeccd069, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd092, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA059, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA061, variable BNT_spon: filled missing - old=NaN, new=57
 ID umeccd093, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd098, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA064, variable BNT_spon: filled missing - old=NaN, new=41
+ID UMECMA065, variable BNT_spon: filled missing - old=NaN, new=48
+ID UMECMA060, variable BNT_spon: filled missing - old=NaN, new=47
+ID UMECMA062, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECMA063, variable BNT_spon: filled missing - old=NaN, new=50
+ID umeccd095, variable BNT_spon: filled missing - old=NaN, new=46
+ID umeccd096, variable BNT_spon: filled missing - old=NaN, new=31
+ID umeccd097, variable BNT_spon: filled missing - old=NaN, new=48
+ID UMECMA067, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA068, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECNC021, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd100, variable BNT_spon: filled missing - old=NaN, new=55
+ID umeccd099, variable BNT_spon: filled missing - old=NaN, new=48
+ID UMECMA070, variable BNT_spon: filled missing - old=NaN, new=48
+ID umeccd102, variable BNT_spon: filled missing - old=NaN, new=48
+ID umeccd094, variable BNT_spon: filled missing - old=NaN, new=47
+ID UMECMA066, variable BNT_spon: filled missing - old=NaN, new=46
+ID UMECMA069, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECNC022, variable BNT_spon: filled missing - old=NaN, new=45
+ID UMECMA084, variable BNT_spon: filled missing - old=NaN, new=44
+ID UMECMA073, variable BNT_spon: filled missing - old=NaN, new=49
+ID UMECMA076, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA077, variable BNT_spon: filled missing - old=NaN, new=55
+ID UMECMA071, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA078, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA082, variable BNT_spon: filled missing - old=NaN, new=53
+ID UMECMA083, variable BNT_spon: filled missing - old=NaN, new=57
 ID umeccd101, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA079, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd091, variable BNT_spon: filled missing - old=NaN, new=47
+ID UMECMA072, variable BNT_spon: filled missing - old=NaN, new=54
 ID umeccd090, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID UMECMA081, variable BNT_spon: filled missing - old=NaN, new=39
 ID umeccd104, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
 ID umeccd103, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)
+ID umeccd105, variable BNT_spon: filled missing - old=NaN, new=47
+ID umeccd107, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd106, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd109, variable BNT_spon: filled missing - old=NaN, new=49
+ID UMECMA085, variable BNT_spon: filled missing - old=NaN, new=42
+ID UMECMA074, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA075, variable BNT_spon: filled missing - old=NaN, new=54
+ID umeccd108, variable BNT_spon: filled missing - old=NaN, new=56
+ID UMECMA080, variable BNT_spon: filled missing - old=NaN, new=56
+ID umeccd112, variable BNT_spon: filled missing - old=NaN, new=38
+ID umeccd114, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd110, variable BNT_spon: filled missing - old=NaN, new=49
+ID umeccd111, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECMA086, variable BNT_spon: filled missing - old=NaN, new=52
+ID umeccd113, variable BNT_spon: filled missing - old=NaN, new=53
+ID umeccd115, variable BNT_spon: filled missing - old=NaN, new=59
+ID UMECMA088, variable BNT_spon: filled missing - old=NaN, new=51
+ID UMECMA089, variable BNT_spon: filled missing - old=NaN, new=57
+ID UMECMA087, variable BNT_spon: filled missing - old=NaN, new=58
+ID UMECMA090, variable BNT_spon: filled missing - old=NaN, new=49
+ID UMECMA091, variable BNT_spon: filled missing - old=NaN, new=54
+ID UMECMA092, variable BNT_spon: filled missing - old=NaN, new=31
 ID UMECMA093, variable BNT_spon: skipped (umec_neuro missing, megtusalen=NaN)

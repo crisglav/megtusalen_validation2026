@@ -1,54 +1,4 @@
-Log created on: 18-Mar-2026 16:19:32
-
-Variable: TMT_B_time
-Updated values: false
-
-ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
-ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:36:25
+Log created on: 23-Mar-2026 16:55:49
 
 Variable: TMT_B_time
 Updated values: true
@@ -98,7 +48,7 @@ ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:42:36
+Log created on: 23-Mar-2026 16:56:24
 
 Variable: TMT_B_time
 Updated values: true
@@ -148,253 +98,801 @@ ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:42:50
+Log created on: 23-Mar-2026 17:16:18
 
 Variable: TMT_B_time
 Updated values: true
 
+ID FAMNC004, variable TMT_B_time: filled missing - old=NaN, new=161
+ID FAMNC005, variable TMT_B_time: filled missing - old=NaN, new=360
+ID FAMNC001, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA002, variable TMT_B_time: filled missing - old=NaN, new=99
+ID FAMMA004, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA001, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA005, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMMA007, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMMA003, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA008, variable TMT_B_time: filled missing - old=NaN, new=42
+ID FAMMA006, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCOMPLUTENSE005, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCOMPLUTENSE001, variable TMT_B_time: filled missing - old=NaN, new=26
+ID FAMMA012, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMCOMPLUTENSE007, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCOMPLUTENSE002, variable TMT_B_time: filled missing - old=NaN, new=18
+ID FAMMA011, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA013, variable TMT_B_time: filled missing - old=NaN, new=221
+ID FAMCOMPLUTENSE006, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMCOMPLUTENSE008, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCOMPLUTENSE003, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCOMPLUTENSE009, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMGC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMNC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA014, variable TMT_B_time: filled missing - old=NaN, new=92
+ID FAMMA010, variable TMT_B_time: filled missing - old=NaN, new=80
 ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMGC005, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA016, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMGC006, variable TMT_B_time: filled missing - old=NaN, new=100
+ID FAMGC002, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCOMPLUTENSE012, variable TMT_B_time: filled missing - old=NaN, new=83
+ID FAMMA019, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMGC008, variable TMT_B_time: filled missing - old=NaN, new=88
 ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA015, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCD002, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD001, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA024, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMMA021, variable TMT_B_time: filled missing - old=NaN, new=83
 ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA026, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA022, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA020, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMMA025, variable TMT_B_time: filled missing - old=NaN, new=94
+ID FAMMA009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA023, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMGC009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMNC006, variable TMT_B_time: filled missing - old=NaN, new=144
+ID FAMNC008, variable TMT_B_time: filled missing - old=NaN, new=420
+ID FAMNC007, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA027, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable TMT_B_time: filled missing - old=NaN, new=86
+ID FAMMA029, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA028, variable TMT_B_time: filled missing - old=NaN, new=27
+ID FAMMA038, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMMA039, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMMA030, variable TMT_B_time: filled missing - old=NaN, new=284
+ID FAMMA041, variable TMT_B_time: filled missing - old=NaN, new=162
 ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
+ID FAMMA034, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA042, variable TMT_B_time: filled missing - old=NaN, new=320
+ID FAMMA044, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMMA043, variable TMT_B_time: filled missing - old=NaN, new=115
+ID FAMMA045, variable TMT_B_time: filled missing - old=NaN, new=68
+ID FAMMA035, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA036, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMMA033, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA031, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA049, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA046, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA055, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMMA063, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMMA054, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMMA053, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMMA047, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMMA048, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMGC015, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA057, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA056, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC011, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA058, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA037, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMMA052, variable TMT_B_time: filled missing - old=NaN, new=400
+ID FAMMA072, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMMA073, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA071, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD003, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMGC016, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMMA070, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA076, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB021, variable TMT_B_time: filled missing - old=NaN, new=96
+ID FAMCTB006, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMCTB019, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMGC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMGC013, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCTB008, variable TMT_B_time: filled missing - old=NaN, new=23
+ID FAMNC011, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB026, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMCTB004, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB005, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMCTB022, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB023, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB007, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA074, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCD004, variable TMT_B_time: filled missing - old=NaN, new=114
+ID FAMCTB020, variable TMT_B_time: filled missing - old=NaN, new=116
+ID FAMCTB035, variable TMT_B_time: filled missing - old=NaN, new=208
+ID FAMCTB028, variable TMT_B_time: filled missing - old=NaN, new=71
+ID FAMCTB017, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB009, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMMA077, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMGC017, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCTB044, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB045, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB027, variable TMT_B_time: filled missing - old=NaN, new=49
 ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA079, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB038, variable TMT_B_time: filled missing - old=NaN, new=113
+ID FAMCTB043, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB042, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMCTB015, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMCTB049, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB014, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB001, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB003, variable TMT_B_time: filled missing - old=NaN, new=132
+ID FAMCTB057, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB002, variable TMT_B_time: filled missing - old=NaN, new=97
+ID FAMMA040, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB011, variable TMT_B_time: filled missing - old=NaN, new=78
+ID FAMCTB040, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB046, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMNC015, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB013, variable TMT_B_time: filled missing - old=NaN, new=164
+ID FAMCTB012, variable TMT_B_time: filled missing - old=NaN, new=87
+ID FAMCTB041, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCTB048, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB029, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB034, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCTB032, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB033, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB051, variable TMT_B_time: filled missing - old=NaN, new=39
+ID FAMCTB037, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB089, variable TMT_B_time: filled missing - old=NaN, new=175
+ID FAMCTB092, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMCTB039, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB061, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMCTB010, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC020, variable TMT_B_time: filled missing - old=NaN, new=129
+ID FAMGC021, variable TMT_B_time: filled missing - old=NaN, new=81
+ID FAMCTB063, variable TMT_B_time: filled missing - old=NaN, new=91
+ID FAMCTB025, variable TMT_B_time: filled missing - old=NaN, new=123
+ID FAMCTB016, variable TMT_B_time: filled missing - old=NaN, new=151
 ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB067, variable TMT_B_time: filled missing - old=NaN, new=57
+ID FAMCTB068, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB073, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB065, variable TMT_B_time: filled missing - old=NaN, new=45
+ID FAMCTB076, variable TMT_B_time: filled missing - old=NaN, new=384
+ID FAMCTB071, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB072, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMCTB087, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMGC018, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB082, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB052, variable TMT_B_time: filled missing - old=NaN, new=162
+ID FAMCTB055, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB064, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMCTB056, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMCTB031, variable TMT_B_time: filled missing - old=NaN, new=40
+ID FAMNC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMCTB053, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB054, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMCTB098, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB099, variable TMT_B_time: filled missing - old=NaN, new=77
+ID FAMCTB069, variable TMT_B_time: filled missing - old=NaN, new=151
+ID FAMCTB074, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB070, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB080, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMNC012, variable TMT_B_time: filled missing - old=NaN, new=101
 ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMMA078, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB066, variable TMT_B_time: filled missing - old=NaN, new=69
+ID FAMCTB078, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMCTB083, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMGC019, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB062, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB018, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB050, variable TMT_B_time: filled missing - old=NaN, new=64
 ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB036, variable TMT_B_time: filled missing - old=NaN, new=48
 ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable TMT_B_time: filled missing - old=NaN, new=124
+ID FAMCTB075, variable TMT_B_time: filled missing - old=NaN, new=119
+ID FAMCTB081, variable TMT_B_time: filled missing - old=NaN, new=340
+ID FAMCTB024, variable TMT_B_time: filled missing - old=NaN, new=45
 ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable TMT_B_time: filled missing - old=NaN, new=48
+ID FAMCOMPLUTENSE021, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMCTB096, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA080, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB030, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB095, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMCTB100, variable TMT_B_time: filled missing - old=NaN, new=122
+ID FAMCTB094, variable TMT_B_time: filled missing - old=NaN, new=97
 ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable TMT_B_time: filled missing - old=NaN, new=72
 ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB077, variable TMT_B_time: filled missing - old=NaN, new=253
 ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable TMT_B_time: filled missing - old=NaN, new=195
 ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMMA060, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMMA061, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA062, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMMA064, variable TMT_B_time: filled missing - old=NaN, new=56
+ID FAMMA065, variable TMT_B_time: filled missing - old=NaN, new=95
 ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMMA081, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMNC002, variable TMT_B_time: filled missing - old=NaN, new=85
 ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 13:16:17
+Log created on: 23-Mar-2026 17:16:43
 
 Variable: TMT_B_time
 Updated values: true
 
+ID FAMNC004, variable TMT_B_time: filled missing - old=NaN, new=161
+ID FAMNC005, variable TMT_B_time: filled missing - old=NaN, new=360
+ID FAMNC001, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA002, variable TMT_B_time: filled missing - old=NaN, new=99
+ID FAMMA004, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA001, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA005, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMMA007, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMMA003, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA008, variable TMT_B_time: filled missing - old=NaN, new=42
+ID FAMMA006, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCOMPLUTENSE005, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCOMPLUTENSE001, variable TMT_B_time: filled missing - old=NaN, new=26
+ID FAMMA012, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMCOMPLUTENSE007, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCOMPLUTENSE002, variable TMT_B_time: filled missing - old=NaN, new=18
+ID FAMMA011, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA013, variable TMT_B_time: filled missing - old=NaN, new=221
+ID FAMCOMPLUTENSE006, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMCOMPLUTENSE008, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCOMPLUTENSE003, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCOMPLUTENSE009, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMGC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMNC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA014, variable TMT_B_time: filled missing - old=NaN, new=92
+ID FAMMA010, variable TMT_B_time: filled missing - old=NaN, new=80
 ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMGC005, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA016, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMGC006, variable TMT_B_time: filled missing - old=NaN, new=100
+ID FAMGC002, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCOMPLUTENSE012, variable TMT_B_time: filled missing - old=NaN, new=83
+ID FAMMA019, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMGC008, variable TMT_B_time: filled missing - old=NaN, new=88
 ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA015, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCD002, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD001, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA024, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMMA021, variable TMT_B_time: filled missing - old=NaN, new=83
 ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA026, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA022, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA020, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMMA025, variable TMT_B_time: filled missing - old=NaN, new=94
+ID FAMMA009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA023, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMGC009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMNC006, variable TMT_B_time: filled missing - old=NaN, new=144
+ID FAMNC008, variable TMT_B_time: filled missing - old=NaN, new=420
+ID FAMNC007, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA027, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable TMT_B_time: filled missing - old=NaN, new=86
+ID FAMMA029, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA028, variable TMT_B_time: filled missing - old=NaN, new=27
+ID FAMMA038, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMMA039, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMMA030, variable TMT_B_time: filled missing - old=NaN, new=284
+ID FAMMA041, variable TMT_B_time: filled missing - old=NaN, new=162
 ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
+ID FAMMA034, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA042, variable TMT_B_time: filled missing - old=NaN, new=320
+ID FAMMA044, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMMA043, variable TMT_B_time: filled missing - old=NaN, new=115
+ID FAMMA045, variable TMT_B_time: filled missing - old=NaN, new=68
+ID FAMMA035, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA036, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMMA033, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA031, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA049, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA046, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA055, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMMA063, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMMA054, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMMA053, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMMA047, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMMA048, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMGC015, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA057, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA056, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC011, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA058, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA037, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMMA052, variable TMT_B_time: filled missing - old=NaN, new=400
+ID FAMMA072, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMMA073, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA071, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD003, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMGC016, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMMA070, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA076, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB021, variable TMT_B_time: filled missing - old=NaN, new=96
+ID FAMCTB006, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMCTB019, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMGC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMGC013, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCTB008, variable TMT_B_time: filled missing - old=NaN, new=23
+ID FAMNC011, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB026, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMCTB004, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB005, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMCTB022, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB023, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB007, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA074, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCD004, variable TMT_B_time: filled missing - old=NaN, new=114
+ID FAMCTB020, variable TMT_B_time: filled missing - old=NaN, new=116
+ID FAMCTB035, variable TMT_B_time: filled missing - old=NaN, new=208
+ID FAMCTB028, variable TMT_B_time: filled missing - old=NaN, new=71
+ID FAMCTB017, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB009, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMMA077, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMGC017, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCTB044, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB045, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB027, variable TMT_B_time: filled missing - old=NaN, new=49
 ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA079, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB038, variable TMT_B_time: filled missing - old=NaN, new=113
+ID FAMCTB043, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB042, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMCTB015, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMCTB049, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB014, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB001, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB003, variable TMT_B_time: filled missing - old=NaN, new=132
+ID FAMCTB057, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB002, variable TMT_B_time: filled missing - old=NaN, new=97
+ID FAMMA040, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB011, variable TMT_B_time: filled missing - old=NaN, new=78
+ID FAMCTB040, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB046, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMNC015, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB013, variable TMT_B_time: filled missing - old=NaN, new=164
+ID FAMCTB012, variable TMT_B_time: filled missing - old=NaN, new=87
+ID FAMCTB041, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCTB048, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB029, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB034, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCTB032, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB033, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB051, variable TMT_B_time: filled missing - old=NaN, new=39
+ID FAMCTB037, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB089, variable TMT_B_time: filled missing - old=NaN, new=175
+ID FAMCTB092, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMCTB039, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB061, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMCTB010, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC020, variable TMT_B_time: filled missing - old=NaN, new=129
+ID FAMGC021, variable TMT_B_time: filled missing - old=NaN, new=81
+ID FAMCTB063, variable TMT_B_time: filled missing - old=NaN, new=91
+ID FAMCTB025, variable TMT_B_time: filled missing - old=NaN, new=123
+ID FAMCTB016, variable TMT_B_time: filled missing - old=NaN, new=151
 ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB067, variable TMT_B_time: filled missing - old=NaN, new=57
+ID FAMCTB068, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB073, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB065, variable TMT_B_time: filled missing - old=NaN, new=45
+ID FAMCTB076, variable TMT_B_time: filled missing - old=NaN, new=384
+ID FAMCTB071, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB072, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMCTB087, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMGC018, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB082, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB052, variable TMT_B_time: filled missing - old=NaN, new=162
+ID FAMCTB055, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB064, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMCTB056, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMCTB031, variable TMT_B_time: filled missing - old=NaN, new=40
+ID FAMNC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMCTB053, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB054, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMCTB098, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB099, variable TMT_B_time: filled missing - old=NaN, new=77
+ID FAMCTB069, variable TMT_B_time: filled missing - old=NaN, new=151
+ID FAMCTB074, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB070, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB080, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMNC012, variable TMT_B_time: filled missing - old=NaN, new=101
 ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMMA078, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB066, variable TMT_B_time: filled missing - old=NaN, new=69
+ID FAMCTB078, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMCTB083, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMGC019, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB062, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB018, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB050, variable TMT_B_time: filled missing - old=NaN, new=64
 ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB036, variable TMT_B_time: filled missing - old=NaN, new=48
 ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable TMT_B_time: filled missing - old=NaN, new=124
+ID FAMCTB075, variable TMT_B_time: filled missing - old=NaN, new=119
+ID FAMCTB081, variable TMT_B_time: filled missing - old=NaN, new=340
+ID FAMCTB024, variable TMT_B_time: filled missing - old=NaN, new=45
 ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable TMT_B_time: filled missing - old=NaN, new=48
+ID FAMCOMPLUTENSE021, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMCTB096, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA080, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB030, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB095, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMCTB100, variable TMT_B_time: filled missing - old=NaN, new=122
+ID FAMCTB094, variable TMT_B_time: filled missing - old=NaN, new=97
 ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable TMT_B_time: filled missing - old=NaN, new=72
 ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB077, variable TMT_B_time: filled missing - old=NaN, new=253
 ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable TMT_B_time: filled missing - old=NaN, new=195
 ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMMA060, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMMA061, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA062, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMMA064, variable TMT_B_time: filled missing - old=NaN, new=56
+ID FAMMA065, variable TMT_B_time: filled missing - old=NaN, new=95
 ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMMA081, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMNC002, variable TMT_B_time: filled missing - old=NaN, new=85
 ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:23:26
+Log created on: 23-Mar-2026 17:19:10
 
 Variable: TMT_B_time
 Updated values: true
 
+ID FAMNC004, variable TMT_B_time: filled missing - old=NaN, new=161
+ID FAMNC005, variable TMT_B_time: filled missing - old=NaN, new=360
+ID FAMNC001, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA002, variable TMT_B_time: filled missing - old=NaN, new=99
+ID FAMMA004, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA001, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA005, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMMA007, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMMA003, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA008, variable TMT_B_time: filled missing - old=NaN, new=42
+ID FAMMA006, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCOMPLUTENSE005, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCOMPLUTENSE001, variable TMT_B_time: filled missing - old=NaN, new=26
+ID FAMMA012, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMCOMPLUTENSE007, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCOMPLUTENSE002, variable TMT_B_time: filled missing - old=NaN, new=18
+ID FAMMA011, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA013, variable TMT_B_time: filled missing - old=NaN, new=221
+ID FAMCOMPLUTENSE006, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMCOMPLUTENSE008, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCOMPLUTENSE003, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCOMPLUTENSE009, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMGC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMNC003, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA014, variable TMT_B_time: filled missing - old=NaN, new=92
+ID FAMMA010, variable TMT_B_time: filled missing - old=NaN, new=80
 ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMGC005, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA016, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMGC006, variable TMT_B_time: filled missing - old=NaN, new=100
+ID FAMGC002, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCOMPLUTENSE012, variable TMT_B_time: filled missing - old=NaN, new=83
+ID FAMMA019, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMGC008, variable TMT_B_time: filled missing - old=NaN, new=88
 ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMMA015, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCD002, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD001, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA024, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMMA021, variable TMT_B_time: filled missing - old=NaN, new=83
 ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA026, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA022, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA020, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMMA025, variable TMT_B_time: filled missing - old=NaN, new=94
+ID FAMMA009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA023, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMGC009, variable TMT_B_time: filled missing - old=NaN, new=54
 ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMNC006, variable TMT_B_time: filled missing - old=NaN, new=144
+ID FAMNC008, variable TMT_B_time: filled missing - old=NaN, new=420
+ID FAMNC007, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA027, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable TMT_B_time: filled missing - old=NaN, new=86
+ID FAMMA029, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA028, variable TMT_B_time: filled missing - old=NaN, new=27
+ID FAMMA038, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMMA039, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMMA030, variable TMT_B_time: filled missing - old=NaN, new=284
+ID FAMMA041, variable TMT_B_time: filled missing - old=NaN, new=162
 ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
+ID FAMMA034, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA042, variable TMT_B_time: filled missing - old=NaN, new=320
+ID FAMMA044, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMMA043, variable TMT_B_time: filled missing - old=NaN, new=115
+ID FAMMA045, variable TMT_B_time: filled missing - old=NaN, new=68
+ID FAMMA035, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMMA036, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMMA033, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA031, variable TMT_B_time: filled missing - old=NaN, new=64
+ID FAMMA049, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMMA046, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMMA055, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMMA063, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMMA054, variable TMT_B_time: filled missing - old=NaN, new=106
+ID FAMMA053, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMMA047, variable TMT_B_time: filled missing - old=NaN, new=88
+ID FAMMA048, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMGC015, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA057, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMMA056, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC011, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMMA058, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA037, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMMA052, variable TMT_B_time: filled missing - old=NaN, new=400
+ID FAMMA072, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMMA073, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMMA071, variable TMT_B_time: filled missing - old=NaN, new=36
+ID FAMCD003, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMGC016, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMMA070, variable TMT_B_time: filled missing - old=NaN, new=120
+ID FAMMA076, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB021, variable TMT_B_time: filled missing - old=NaN, new=96
+ID FAMCTB006, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMCTB019, variable TMT_B_time: filled missing - old=NaN, new=74
+ID FAMGC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMGC013, variable TMT_B_time: filled missing - old=NaN, new=105
+ID FAMCTB008, variable TMT_B_time: filled missing - old=NaN, new=23
+ID FAMNC011, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB026, variable TMT_B_time: filled missing - old=NaN, new=146
+ID FAMCTB004, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB005, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMCTB022, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB023, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB007, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMMA074, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCD004, variable TMT_B_time: filled missing - old=NaN, new=114
+ID FAMCTB020, variable TMT_B_time: filled missing - old=NaN, new=116
+ID FAMCTB035, variable TMT_B_time: filled missing - old=NaN, new=208
+ID FAMCTB028, variable TMT_B_time: filled missing - old=NaN, new=71
+ID FAMCTB017, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB009, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMMA077, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMGC017, variable TMT_B_time: filled missing - old=NaN, new=51
+ID FAMCTB044, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB045, variable TMT_B_time: filled missing - old=NaN, new=47
 ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB027, variable TMT_B_time: filled missing - old=NaN, new=49
 ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA079, variable TMT_B_time: filled missing - old=NaN, new=46
+ID FAMCTB038, variable TMT_B_time: filled missing - old=NaN, new=113
+ID FAMCTB043, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB042, variable TMT_B_time: filled missing - old=NaN, new=55
+ID FAMCTB015, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMCTB049, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB014, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB001, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB003, variable TMT_B_time: filled missing - old=NaN, new=132
+ID FAMCTB057, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB002, variable TMT_B_time: filled missing - old=NaN, new=97
+ID FAMMA040, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB011, variable TMT_B_time: filled missing - old=NaN, new=78
+ID FAMCTB040, variable TMT_B_time: filled missing - old=NaN, new=72
+ID FAMCTB046, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMNC015, variable TMT_B_time: filled missing - old=NaN, new=61
+ID FAMCTB013, variable TMT_B_time: filled missing - old=NaN, new=164
+ID FAMCTB012, variable TMT_B_time: filled missing - old=NaN, new=87
+ID FAMCTB041, variable TMT_B_time: filled missing - old=NaN, new=75
+ID FAMCTB048, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB029, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB034, variable TMT_B_time: filled missing - old=NaN, new=60
+ID FAMCTB032, variable TMT_B_time: filled missing - old=NaN, new=117
+ID FAMCTB033, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB051, variable TMT_B_time: filled missing - old=NaN, new=39
+ID FAMCTB037, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB089, variable TMT_B_time: filled missing - old=NaN, new=175
+ID FAMCTB092, variable TMT_B_time: filled missing - old=NaN, new=80
+ID FAMCTB039, variable TMT_B_time: filled missing - old=NaN, new=82
+ID FAMCTB061, variable TMT_B_time: filled missing - old=NaN, new=178
+ID FAMCTB010, variable TMT_B_time: filled missing - old=NaN, new=110
+ID FAMGC020, variable TMT_B_time: filled missing - old=NaN, new=129
+ID FAMGC021, variable TMT_B_time: filled missing - old=NaN, new=81
+ID FAMCTB063, variable TMT_B_time: filled missing - old=NaN, new=91
+ID FAMCTB025, variable TMT_B_time: filled missing - old=NaN, new=123
+ID FAMCTB016, variable TMT_B_time: filled missing - old=NaN, new=151
 ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB058, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB067, variable TMT_B_time: filled missing - old=NaN, new=57
+ID FAMCTB068, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB073, variable TMT_B_time: filled missing - old=NaN, new=93
+ID FAMCTB065, variable TMT_B_time: filled missing - old=NaN, new=45
+ID FAMCTB076, variable TMT_B_time: filled missing - old=NaN, new=384
+ID FAMCTB071, variable TMT_B_time: filled missing - old=NaN, new=50
+ID FAMCTB072, variable TMT_B_time: filled missing - old=NaN, new=111
+ID FAMCTB087, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMGC018, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB082, variable TMT_B_time: filled missing - old=NaN, new=73
+ID FAMCTB052, variable TMT_B_time: filled missing - old=NaN, new=162
+ID FAMCTB055, variable TMT_B_time: filled missing - old=NaN, new=79
+ID FAMCTB064, variable TMT_B_time: filled missing - old=NaN, new=63
+ID FAMCTB056, variable TMT_B_time: filled missing - old=NaN, new=59
+ID FAMCTB031, variable TMT_B_time: filled missing - old=NaN, new=40
+ID FAMNC014, variable TMT_B_time: filled missing - old=NaN, new=85
+ID FAMCTB053, variable TMT_B_time: filled missing - old=NaN, new=37
+ID FAMCTB054, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMCTB098, variable TMT_B_time: filled missing - old=NaN, new=90
+ID FAMCTB099, variable TMT_B_time: filled missing - old=NaN, new=77
+ID FAMCTB069, variable TMT_B_time: filled missing - old=NaN, new=151
+ID FAMCTB074, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB070, variable TMT_B_time: filled missing - old=NaN, new=84
+ID FAMCTB080, variable TMT_B_time: filled missing - old=NaN, new=62
 ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMNC012, variable TMT_B_time: filled missing - old=NaN, new=101
 ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable TMT_B_time: filled missing - old=NaN, new=139
+ID FAMMA078, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMCTB066, variable TMT_B_time: filled missing - old=NaN, new=69
+ID FAMCTB078, variable TMT_B_time: filled missing - old=NaN, new=66
+ID FAMCTB083, variable TMT_B_time: filled missing - old=NaN, new=58
+ID FAMGC019, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB062, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB018, variable TMT_B_time: filled missing - old=NaN, new=54
+ID FAMCTB050, variable TMT_B_time: filled missing - old=NaN, new=64
 ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB036, variable TMT_B_time: filled missing - old=NaN, new=48
 ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable TMT_B_time: filled missing - old=NaN, new=124
+ID FAMCTB075, variable TMT_B_time: filled missing - old=NaN, new=119
+ID FAMCTB081, variable TMT_B_time: filled missing - old=NaN, new=340
+ID FAMCTB024, variable TMT_B_time: filled missing - old=NaN, new=45
 ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable TMT_B_time: filled missing - old=NaN, new=48
+ID FAMCOMPLUTENSE021, variable TMT_B_time: filled missing - old=NaN, new=44
+ID FAMCTB096, variable TMT_B_time: filled missing - old=NaN, new=118
+ID FAMMA080, variable TMT_B_time: filled missing - old=NaN, new=52
+ID FAMCTB030, variable TMT_B_time: filled missing - old=NaN, new=67
+ID FAMCTB095, variable TMT_B_time: filled missing - old=NaN, new=62
+ID FAMCTB100, variable TMT_B_time: filled missing - old=NaN, new=122
+ID FAMCTB094, variable TMT_B_time: filled missing - old=NaN, new=97
 ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable TMT_B_time: filled missing - old=NaN, new=72
 ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable TMT_B_time: filled missing - old=NaN, new=70
+ID FAMCTB077, variable TMT_B_time: filled missing - old=NaN, new=253
 ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable TMT_B_time: filled missing - old=NaN, new=195
 ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable TMT_B_time: filled missing - old=NaN, new=95
+ID FAMMA060, variable TMT_B_time: filled missing - old=NaN, new=65
+ID FAMMA061, variable TMT_B_time: filled missing - old=NaN, new=89
+ID FAMMA062, variable TMT_B_time: filled missing - old=NaN, new=98
+ID FAMMA064, variable TMT_B_time: filled missing - old=NaN, new=56
+ID FAMMA065, variable TMT_B_time: filled missing - old=NaN, new=95
 ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:28:31
-
-Variable: TMT_B_time
-Updated values: true
-
-ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
-ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:41:51
-
-Variable: TMT_B_time
-Updated values: true
-
-ID FAMCOMPLUTENSE011, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE016, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMGC007, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED577, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED696, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED697, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED699, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED698, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED579, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED639, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED525, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED599, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB008, variable TMT_B_time: corrected - old=46, new=23
-ID FAMUNED443, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED605, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED624, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED633, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMUNED561, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA050, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA051, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable TMT_B_time: filled missing - old=NaN, new=107
+ID FAMMA081, variable TMT_B_time: filled missing - old=NaN, new=135
+ID FAMNC002, variable TMT_B_time: filled missing - old=NaN, new=85
 ID FAMNC013, variable TMT_B_time: skipped (fam_neuro missing, megtusalen=NaN)

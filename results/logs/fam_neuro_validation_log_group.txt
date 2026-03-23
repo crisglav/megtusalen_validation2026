@@ -1,74 +1,4 @@
-Log created on: 18-Mar-2026 16:19:31
-
-Variable: group
-Updated values: false
-
-ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
-ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
-Log created on: 18-Mar-2026 16:36:25
-
-Variable: group
-Updated values: true
-
-ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
-ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
-Log created on: 18-Mar-2026 16:42:36
-
-Variable: group
-Updated values: true
-
-ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
-ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
-Log created on: 18-Mar-2026 16:42:50
-
-Variable: group
-Updated values: true
-
-ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
-ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
-Log created on: 20-Mar-2026 13:16:17
-
-Variable: group
-Updated values: true
-
-ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
-ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=1)
-ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=1)
-Log created on: 20-Mar-2026 16:23:26
+Log created on: 23-Mar-2026 16:55:49
 
 Variable: group
 Updated values: true
@@ -82,7 +12,7 @@ ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:28:31
+Log created on: 23-Mar-2026 16:56:24
 
 Variable: group
 Updated values: true
@@ -96,17 +26,1333 @@ ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:41:51
+Log created on: 23-Mar-2026 17:05:10
 
 Variable: group
 Updated values: true
 
+ID FAMNC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA004, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA008, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE005, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA012, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE008, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE003, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA014, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE011, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA017, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA016, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE016, variable group: filled missing - old=NaN, new=FH+
 ID FAMMA018: participant not found in megtusalen
-ID FAMUNED525, variable group: corrected - old=FH+, new=FH-
-ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=FH+)
+ID FAMCOMPLUTENSE004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE017, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA024, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA021, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED577, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED696, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED697, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA026, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA022, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA020, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA025, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED699, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED698, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED579, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA023, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED639, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED525, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA027, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE018, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA029, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA028, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA038, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA039, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA030, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA041, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED599, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA032, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA034, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA042, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA044, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA043, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA045, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA035, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA036, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA033, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA031, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA049, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA046, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA055, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA063, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA054, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA053, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA048, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA057, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA056, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA058, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA037, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA052, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA072, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA073, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCD003, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA070, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA076, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB019, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB008, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC011, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB026, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB005, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB022, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB023, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB007, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA074, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB035, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB028, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB017, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB009, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA077, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC017, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB044, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB045, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED443, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED605, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB027, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED624, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED633, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA079, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB038, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB043, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB042, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB015, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB059, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB049, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB014, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB001, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB003, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB057, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB011, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB046, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB013, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB041, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB048, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB029, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB034, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB032, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB033, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB051, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB037, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB089, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB092, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB039, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB061, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB010, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC020, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB063, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB025, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB016, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED561, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB058, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB067, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB068, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB073, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB065, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB072, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB087, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB082, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB052, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB055, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB064, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB056, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB031, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB053, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB054, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB098, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB099, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB069, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB074, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB070, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB080, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA075, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB093, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB084, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA078, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB066, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB078, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB083, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB062, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB050, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB086, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB036, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB085, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE022, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB075, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB081, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB024, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB097, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE023, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE021, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB096, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA080, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB030, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB095, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB100, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB094, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB102, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB103, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB101, variable group: filled missing - old=NaN, new=FH-
 ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB060, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB077, variable group: filled missing - old=NaN, new=FH+
 ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB090, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB091, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA050, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA051, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA059, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA060, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA061, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA062, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA064, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA065, variable group: filled missing - old=NaN, new=FH-
 ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA081, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:06:34
+
+Variable: group
+Updated values: true
+
+ID FAMNC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA004, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA008, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE005, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA012, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE008, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE003, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA014, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE011, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA017, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA016, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE017, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA024, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA021, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED577, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED696, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED697, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA026, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA022, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA020, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA025, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED699, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED698, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED579, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA023, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED639, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED525, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA027, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE018, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA029, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA028, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA038, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA039, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA030, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA041, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED599, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA032, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA034, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA042, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA044, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA043, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA045, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA035, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA036, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA033, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA031, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA049, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA046, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA055, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA063, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA054, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA053, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA048, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA057, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA056, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA058, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA037, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA052, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA072, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA073, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCD003, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA070, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA076, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB019, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB008, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC011, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB026, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB005, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB022, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB023, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB007, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA074, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB035, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB028, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB017, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB009, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA077, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC017, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB044, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB045, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED443, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED605, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB027, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED624, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED633, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA079, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB038, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB043, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB042, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB015, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB059, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB049, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB014, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB001, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB003, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB057, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB011, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB046, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB013, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB041, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB048, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB029, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB034, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB032, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB033, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB051, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB037, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB089, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB092, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB039, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB061, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB010, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC020, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB063, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB025, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB016, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED561, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB058, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB067, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB068, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB073, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB065, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB072, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB087, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB082, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB052, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB055, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB064, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB056, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB031, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB053, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB054, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB098, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB099, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB069, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB074, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB070, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB080, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA075, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB093, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB084, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA078, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB066, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB078, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB083, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB062, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB050, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB086, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB036, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB085, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE022, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB075, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB081, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB024, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB097, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE023, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE021, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB096, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA080, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB030, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB095, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB100, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB094, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB102, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB103, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB101, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB060, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB077, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB090, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB091, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA050, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA051, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA059, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA060, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA061, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA062, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA064, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA065, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA081, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:16:18
+
+Variable: group
+Updated values: true
+
+ID FAMNC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA004, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA008, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE005, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA012, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE008, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE003, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA014, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE011, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA017, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA016, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE017, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA024, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA021, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED577, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED696, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED697, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA026, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA022, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA020, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA025, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED699, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED698, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED579, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA023, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED639, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED525, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA027, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE018, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA029, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA028, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA038, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA039, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA030, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA041, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED599, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA032, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA034, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA042, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA044, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA043, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA045, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA035, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA036, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA033, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA031, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA049, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA046, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA055, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA063, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA054, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA053, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA048, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA057, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA056, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA058, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA037, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA052, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA072, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA073, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCD003, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA070, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA076, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB019, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB008, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC011, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB026, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB005, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB022, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB023, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB007, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA074, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB035, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB028, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB017, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB009, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA077, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC017, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB044, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB045, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED443, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED605, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB027, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED624, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED633, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA079, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB038, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB043, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB042, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB015, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB059, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB049, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB014, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB001, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB003, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB057, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB011, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB046, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB013, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB041, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB048, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB029, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB034, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB032, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB033, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB051, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB037, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB089, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB092, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB039, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB061, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB010, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC020, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB063, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB025, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB016, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED561, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB058, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB067, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB068, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB073, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB065, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB072, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB087, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB082, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB052, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB055, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB064, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB056, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB031, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB053, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB054, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB098, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB099, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB069, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB074, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB070, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB080, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA075, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB093, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB084, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA078, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB066, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB078, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB083, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB062, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB050, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB086, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB036, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB085, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE022, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB075, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB081, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB024, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB097, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE023, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE021, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB096, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA080, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB030, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB095, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB100, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB094, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB102, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB103, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB101, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB060, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB077, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB090, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB091, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA050, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA051, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA059, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA060, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA061, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA062, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA064, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA065, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA081, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:16:43
+
+Variable: group
+Updated values: true
+
+ID FAMNC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA004, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA008, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE005, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA012, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE008, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE003, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA014, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE011, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA017, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA016, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE017, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA024, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA021, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED577, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED696, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED697, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA026, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA022, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA020, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA025, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED699, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED698, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED579, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA023, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED639, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED525, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA027, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE018, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA029, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA028, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA038, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA039, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA030, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA041, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED599, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA032, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA034, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA042, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA044, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA043, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA045, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA035, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA036, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA033, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA031, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA049, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA046, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA055, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA063, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA054, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA053, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA048, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA057, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA056, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA058, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA037, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA052, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA072, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA073, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCD003, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA070, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA076, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB019, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB008, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC011, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB026, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB005, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB022, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB023, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB007, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA074, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB035, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB028, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB017, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB009, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA077, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC017, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB044, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB045, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED443, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED605, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB027, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED624, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED633, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA079, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB038, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB043, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB042, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB015, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB059, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB049, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB014, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB001, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB003, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB057, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB011, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB046, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB013, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB041, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB048, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB029, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB034, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB032, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB033, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB051, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB037, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB089, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB092, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB039, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB061, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB010, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC020, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB063, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB025, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB016, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED561, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB058, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB067, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB068, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB073, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB065, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB072, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB087, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB082, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB052, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB055, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB064, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB056, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB031, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB053, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB054, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB098, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB099, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB069, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB074, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB070, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB080, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA075, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB093, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB084, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA078, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB066, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB078, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB083, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB062, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB050, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB086, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB036, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB085, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE022, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB075, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB081, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB024, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB097, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE023, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE021, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB096, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA080, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB030, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB095, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB100, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB094, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB102, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB103, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB101, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB060, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB077, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB090, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB091, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA050, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA051, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA059, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA060, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA061, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA062, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA064, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA065, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA081, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:19:10
+
+Variable: group
+Updated values: true
+
+ID FAMNC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA004, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA008, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE005, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA012, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE008, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE003, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC003, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA014, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE011, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC005, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA017, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA016, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE010, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE017, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD002, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA024, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA021, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED577, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED696, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED697, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA026, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA022, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA020, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA025, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED699, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED698, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED579, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA023, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED639, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED525, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC009, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC010, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC006, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC008, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC007, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA027, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE018, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC001, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA029, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA028, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA038, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA039, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA030, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA041, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED599, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA032, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA034, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA042, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA044, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA043, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA045, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA035, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA036, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA033, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA031, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA049, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA046, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA055, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA063, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA054, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA053, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA048, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA057, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA056, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC011, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA058, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA037, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA052, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA072, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA073, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCD003, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC016, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA070, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA076, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB006, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB019, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC013, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB008, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC011, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB026, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB005, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB022, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB023, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB007, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA074, variable group: filled missing - old=NaN, new=FH+
+ID FAMCD004, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB035, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB028, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB017, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB009, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA077, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC017, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB044, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB045, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED443, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED605, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB027, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED624, variable group: filled missing - old=NaN, new=FH-
+ID FAMUNED633, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA079, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB038, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB043, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB042, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB015, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB059, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB049, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB014, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB001, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB003, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB057, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB002, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB011, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB040, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB046, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB013, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB041, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB048, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB029, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB034, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB032, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB033, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB051, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB037, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB089, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB092, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB039, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB061, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB010, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC020, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC021, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB063, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB025, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB016, variable group: filled missing - old=NaN, new=FH+
+ID FAMUNED561, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB058, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB067, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB068, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB073, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB065, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB076, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB071, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB072, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB087, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB082, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB052, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB055, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB064, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB056, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB031, variable group: filled missing - old=NaN, new=FH-
+ID FAMNC014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB053, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB054, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB098, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB099, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB069, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB074, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB070, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB080, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA075, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB093, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC012, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB084, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB047, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA078, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB066, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB078, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB083, variable group: filled missing - old=NaN, new=FH+
+ID FAMGC019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB062, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB018, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB050, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE020, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB086, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB036, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB085, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE022, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB075, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB081, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB024, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB097, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE023, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE021, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB096, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA080, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB030, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB095, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB100, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB094, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB102, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB103, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB101, variable group: filled missing - old=NaN, new=FH-
+ID FAMCOMPLUTENSE013, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE015, variable group: filled missing - old=NaN, new=FH+
+ID FAMCOMPLUTENSE019, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB060, variable group: filled missing - old=NaN, new=FH-
+ID FAMCTB077, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB079, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB090, variable group: filled missing - old=NaN, new=FH+
+ID FAMCTB091, variable group: filled missing - old=NaN, new=FH-
+ID FAMGC012, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA050, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA051, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA059, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA060, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA061, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA062, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA064, variable group: filled missing - old=NaN, new=FH+
+ID FAMMA065, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA066, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable group: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable group: filled missing - old=NaN, new=FH-
+ID FAMMA081, variable group: filled missing - old=NaN, new=FH+
+ID FAMNC002, variable group: filled missing - old=NaN, new=FH+
 ID FAMNC013, variable group: skipped (fam_neuro missing, megtusalen=NaN)

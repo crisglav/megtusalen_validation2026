@@ -1,33 +1,245 @@
-Log created on: 23-Mar-2026 13:21:38
+Log created on: 23-Mar-2026 17:20:14
 
 Variable: TMT_A_time
-Updated values: false
+Updated values: true
 
+ID NEMOS-001, variable TMT_A_time: filled missing - old=NaN, new=72
+ID NEMOS-002, variable TMT_A_time: filled missing - old=NaN, new=72
+ID NEMOS-003, variable TMT_A_time: filled missing - old=NaN, new=35
+ID NEMOS-004, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-005, variable TMT_A_time: filled missing - old=NaN, new=114
+ID NEMOS-006, variable TMT_A_time: filled missing - old=NaN, new=78
+ID NEMOS-007, variable TMT_A_time: filled missing - old=NaN, new=73
+ID NEMOS-008, variable TMT_A_time: filled missing - old=NaN, new=57
+ID NEMOS-009, variable TMT_A_time: filled missing - old=NaN, new=57
+ID NEMOS-010, variable TMT_A_time: filled missing - old=NaN, new=121
 ID NEMOS-011, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-012, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-013, variable TMT_A_time: filled missing - old=NaN, new=83
+ID NEMOS-014, variable TMT_A_time: filled missing - old=NaN, new=51
+ID NEMOS-015, variable TMT_A_time: filled missing - old=NaN, new=55
+ID NEMOS-016, variable TMT_A_time: filled missing - old=NaN, new=168
+ID NEMOS-017, variable TMT_A_time: filled missing - old=NaN, new=55
+ID NEMOS-018, variable TMT_A_time: filled missing - old=NaN, new=29
+ID NEMOS-019, variable TMT_A_time: filled missing - old=NaN, new=39
+ID NEMOS-020, variable TMT_A_time: filled missing - old=NaN, new=69
+ID NEMOS-021, variable TMT_A_time: filled missing - old=NaN, new=89
+ID NEMOS-022, variable TMT_A_time: filled missing - old=NaN, new=36
 ID NEMOS-023, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-024, variable TMT_A_time: filled missing - old=NaN, new=50
+ID NEMOS-025, variable TMT_A_time: filled missing - old=NaN, new=27
+ID NEMOS-026, variable TMT_A_time: filled missing - old=NaN, new=140
+ID NEMOS-027, variable TMT_A_time: filled missing - old=NaN, new=97
+ID NEMOS-028, variable TMT_A_time: filled missing - old=NaN, new=71
+ID NEMOS-029, variable TMT_A_time: filled missing - old=NaN, new=53
+ID NEMOS-030, variable TMT_A_time: filled missing - old=NaN, new=105
+ID NEMOS-031, variable TMT_A_time: filled missing - old=NaN, new=60
+ID NEMOS-032, variable TMT_A_time: filled missing - old=NaN, new=44
+ID NEMOS-033, variable TMT_A_time: filled missing - old=NaN, new=52
+ID NEMOS-034, variable TMT_A_time: filled missing - old=NaN, new=65
+ID NEMOS-035, variable TMT_A_time: filled missing - old=NaN, new=28
+ID NEMOS-036, variable TMT_A_time: filled missing - old=NaN, new=54
+ID NEMOS-037, variable TMT_A_time: filled missing - old=NaN, new=39
+ID NEMOS-038, variable TMT_A_time: filled missing - old=NaN, new=62
+ID NEMOS-039, variable TMT_A_time: filled missing - old=NaN, new=91
+ID NEMOS-040, variable TMT_A_time: filled missing - old=NaN, new=170
 ID NEMOS-041, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-042, variable TMT_A_time: filled missing - old=NaN, new=125
 ID NEMOS-043, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-044, variable TMT_A_time: filled missing - old=NaN, new=49
+ID NEMOS-045, variable TMT_A_time: filled missing - old=NaN, new=65
+ID NEMOS-046, variable TMT_A_time: filled missing - old=NaN, new=68
 ID NEMOS-047, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-048, variable TMT_A_time: filled missing - old=NaN, new=119
+ID NEMOS-049, variable TMT_A_time: filled missing - old=NaN, new=44
+ID NEMOS-050, variable TMT_A_time: filled missing - old=NaN, new=66
+ID NEMOS-051, variable TMT_A_time: filled missing - old=NaN, new=34
+ID NEMOS-052, variable TMT_A_time: filled missing - old=NaN, new=23
+ID NEMOS-053, variable TMT_A_time: filled missing - old=NaN, new=78
+ID NEMOS-054, variable TMT_A_time: filled missing - old=NaN, new=84
+ID NEMOS-055, variable TMT_A_time: filled missing - old=NaN, new=91
+ID NEMOS-056, variable TMT_A_time: filled missing - old=NaN, new=43
+ID NEMOS-057, variable TMT_A_time: filled missing - old=NaN, new=70
+ID NEMOS-058, variable TMT_A_time: filled missing - old=NaN, new=59
+ID NEMOS-059, variable TMT_A_time: filled missing - old=NaN, new=34
+ID NEMOS-060, variable TMT_A_time: filled missing - old=NaN, new=48
+ID NEMOS-061, variable TMT_A_time: filled missing - old=NaN, new=45
+ID NEMOS-062, variable TMT_A_time: filled missing - old=NaN, new=80
+ID NEMOS-063, variable TMT_A_time: filled missing - old=NaN, new=152
+ID NEMOS-064, variable TMT_A_time: filled missing - old=NaN, new=84
+ID NEMOS-065, variable TMT_A_time: filled missing - old=NaN, new=38
+ID NEMOS-066, variable TMT_A_time: filled missing - old=NaN, new=108
+ID NEMOS-067, variable TMT_A_time: filled missing - old=NaN, new=46
+ID NEMOS-068, variable TMT_A_time: filled missing - old=NaN, new=69
+ID NEMOS-069, variable TMT_A_time: filled missing - old=NaN, new=105
+ID NEMOS-070, variable TMT_A_time: filled missing - old=NaN, new=70
+ID NEMOS-071, variable TMT_A_time: filled missing - old=NaN, new=59
+ID NEMOS-072, variable TMT_A_time: filled missing - old=NaN, new=55
+ID NEMOS-073, variable TMT_A_time: filled missing - old=NaN, new=44
+ID NEMOS-074, variable TMT_A_time: filled missing - old=NaN, new=62
+ID NEMOS-075, variable TMT_A_time: filled missing - old=NaN, new=33
+ID NEMOS-076, variable TMT_A_time: filled missing - old=NaN, new=54
+ID NEMOS-077, variable TMT_A_time: filled missing - old=NaN, new=75
+ID NEMOS-078, variable TMT_A_time: filled missing - old=NaN, new=106
+ID NEMOS-079, variable TMT_A_time: filled missing - old=NaN, new=91
+ID NEMOS-080, variable TMT_A_time: filled missing - old=NaN, new=67
+ID NEMOS-081, variable TMT_A_time: filled missing - old=NaN, new=76
+ID NEMOS-082, variable TMT_A_time: filled missing - old=NaN, new=79
+ID NEMOS-083, variable TMT_A_time: filled missing - old=NaN, new=99
+ID NEMOS-084, variable TMT_A_time: filled missing - old=NaN, new=123
+ID NEMOS-085, variable TMT_A_time: filled missing - old=NaN, new=53
+ID NEMOS-086, variable TMT_A_time: filled missing - old=NaN, new=36
+ID NEMOS-087, variable TMT_A_time: filled missing - old=NaN, new=40
+ID NEMOS-088, variable TMT_A_time: filled missing - old=NaN, new=70
+ID NEMOS-089, variable TMT_A_time: filled missing - old=NaN, new=65
+ID NEMOS-090, variable TMT_A_time: filled missing - old=NaN, new=48
+ID NEMOS-091, variable TMT_A_time: filled missing - old=NaN, new=113
+ID NEMOS-092, variable TMT_A_time: filled missing - old=NaN, new=101
+ID NEMOS-093, variable TMT_A_time: filled missing - old=NaN, new=103
+ID NEMOS-094, variable TMT_A_time: filled missing - old=NaN, new=104
+ID NEMOS-095, variable TMT_A_time: filled missing - old=NaN, new=122
+ID NEMOS-096, variable TMT_A_time: filled missing - old=NaN, new=75
+ID NEMOS-097, variable TMT_A_time: filled missing - old=NaN, new=125
+ID NEMOS-098, variable TMT_A_time: filled missing - old=NaN, new=61
+ID NEMOS-099, variable TMT_A_time: filled missing - old=NaN, new=36
+ID NEMOS-100, variable TMT_A_time: filled missing - old=NaN, new=30
+ID NEMOS-101, variable TMT_A_time: filled missing - old=NaN, new=41
+ID NEMOS-102, variable TMT_A_time: filled missing - old=NaN, new=31
 ID NEMOS-103, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-104, variable TMT_A_time: filled missing - old=NaN, new=42
+ID NEMOS-105, variable TMT_A_time: filled missing - old=NaN, new=48
+ID NEMOS-106, variable TMT_A_time: filled missing - old=NaN, new=90
 ID NEMOS-107, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-108, variable TMT_A_time: filled missing - old=NaN, new=31
+ID NEMOS-109, variable TMT_A_time: filled missing - old=NaN, new=53
+ID NEMOS-110, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-111, variable TMT_A_time: filled missing - old=NaN, new=115
+ID NEMOS-112, variable TMT_A_time: filled missing - old=NaN, new=80
+ID NEMOS-113, variable TMT_A_time: filled missing - old=NaN, new=38
+ID NEMOS-114, variable TMT_A_time: filled missing - old=NaN, new=52
+ID NEMOS-115, variable TMT_A_time: filled missing - old=NaN, new=42
+ID NEMOS-116, variable TMT_A_time: filled missing - old=NaN, new=52
+ID NEMOS-117, variable TMT_A_time: filled missing - old=NaN, new=82
+ID NEMOS-118, variable TMT_A_time: filled missing - old=NaN, new=35
+ID NEMOS-119, variable TMT_A_time: filled missing - old=NaN, new=47
+ID NEMOS-120, variable TMT_A_time: filled missing - old=NaN, new=38
+ID NEMOS-121, variable TMT_A_time: filled missing - old=NaN, new=39
+ID NEMOS-122, variable TMT_A_time: filled missing - old=NaN, new=47
+ID NEMOS-123, variable TMT_A_time: filled missing - old=NaN, new=33
+ID NEMOS-124, variable TMT_A_time: filled missing - old=NaN, new=79
+ID NEMOS-125, variable TMT_A_time: filled missing - old=NaN, new=68
+ID NEMOS-126, variable TMT_A_time: filled missing - old=NaN, new=60
+ID NEMOS-127, variable TMT_A_time: filled missing - old=NaN, new=32
+ID NEMOS-128, variable TMT_A_time: filled missing - old=NaN, new=114
+ID NEMOS-129, variable TMT_A_time: filled missing - old=NaN, new=178
 ID NEMOS-130, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-131, variable TMT_A_time: filled missing - old=NaN, new=41
 ID NEMOS-132, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-133, variable TMT_A_time: filled missing - old=NaN, new=70
+ID NEMOS-134, variable TMT_A_time: filled missing - old=NaN, new=37
+ID NEMOS-135, variable TMT_A_time: filled missing - old=NaN, new=40
 ID NEMOS-136, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-137, variable TMT_A_time: filled missing - old=NaN, new=56
+ID NEMOS-138, variable TMT_A_time: filled missing - old=NaN, new=85
+ID NEMOS-139, variable TMT_A_time: filled missing - old=NaN, new=63
+ID NEMOS-140, variable TMT_A_time: filled missing - old=NaN, new=116
 ID NEMOS-141, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-142, variable TMT_A_time: filled missing - old=NaN, new=98
+ID NEMOS-143, variable TMT_A_time: filled missing - old=NaN, new=50
+ID NEMOS-144, variable TMT_A_time: filled missing - old=NaN, new=37
+ID NEMOS-145, variable TMT_A_time: filled missing - old=NaN, new=115
+ID NEMOS-146, variable TMT_A_time: filled missing - old=NaN, new=60
+ID NEMOS-147, variable TMT_A_time: filled missing - old=NaN, new=60
+ID NEMOS-148, variable TMT_A_time: filled missing - old=NaN, new=41
+ID NEMOS-149, variable TMT_A_time: filled missing - old=NaN, new=38
+ID NEMOS-150, variable TMT_A_time: filled missing - old=NaN, new=42
+ID NEMOS-151, variable TMT_A_time: filled missing - old=NaN, new=32
+ID NEMOS-152, variable TMT_A_time: filled missing - old=NaN, new=50
+ID NEMOS-153, variable TMT_A_time: filled missing - old=NaN, new=30
+ID NEMOS-154, variable TMT_A_time: filled missing - old=NaN, new=173
+ID NEMOS-155, variable TMT_A_time: filled missing - old=NaN, new=30
 ID NEMOS-156, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-157, variable TMT_A_time: filled missing - old=NaN, new=31
+ID NEMOS-158, variable TMT_A_time: filled missing - old=NaN, new=70
 ID NEMOS-159, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-160, variable TMT_A_time: filled missing - old=NaN, new=90
 ID NEMOS-161, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-162, variable TMT_A_time: filled missing - old=NaN, new=170
 ID NEMOS-163, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-164, variable TMT_A_time: filled missing - old=NaN, new=60
+ID NEMOS-165, variable TMT_A_time: filled missing - old=NaN, new=42
+ID NEMOS-166, variable TMT_A_time: filled missing - old=NaN, new=90
+ID NEMOS-167, variable TMT_A_time: filled missing - old=NaN, new=65
+ID NEMOS-168, variable TMT_A_time: filled missing - old=NaN, new=166
+ID NEMOS-169, variable TMT_A_time: filled missing - old=NaN, new=120
+ID NEMOS-170, variable TMT_A_time: filled missing - old=NaN, new=102
+ID NEMOS-171, variable TMT_A_time: filled missing - old=NaN, new=61
 ID NEMOS-172, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-173, variable TMT_A_time: filled missing - old=NaN, new=81
+ID NEMOS-174, variable TMT_A_time: filled missing - old=NaN, new=111
+ID NEMOS-175, variable TMT_A_time: filled missing - old=NaN, new=43
+ID NEMOS-176, variable TMT_A_time: filled missing - old=NaN, new=120
+ID NEMOS-177, variable TMT_A_time: filled missing - old=NaN, new=51
+ID NEMOS-178, variable TMT_A_time: filled missing - old=NaN, new=57
+ID NEMOS-179, variable TMT_A_time: filled missing - old=NaN, new=52
+ID NEMOS-180, variable TMT_A_time: filled missing - old=NaN, new=90
+ID NEMOS-181, variable TMT_A_time: filled missing - old=NaN, new=93
+ID NEMOS-182, variable TMT_A_time: filled missing - old=NaN, new=85
+ID NEMOS-183, variable TMT_A_time: filled missing - old=NaN, new=50
 ID NEMOS-184, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-185, variable TMT_A_time: filled missing - old=NaN, new=73
 ID NEMOS-186, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-187, variable TMT_A_time: filled missing - old=NaN, new=116
 ID NEMOS-188, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-189, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-190, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-191, variable TMT_A_time: filled missing - old=NaN, new=67
+ID NEMOS-192, variable TMT_A_time: filled missing - old=NaN, new=94
+ID NEMOS-193, variable TMT_A_time: filled missing - old=NaN, new=24
+ID NEMOS-194, variable TMT_A_time: filled missing - old=NaN, new=44
+ID NEMOS-195, variable TMT_A_time: filled missing - old=NaN, new=103
+ID NEMOS-196, variable TMT_A_time: filled missing - old=NaN, new=95
+ID NEMOS-197, variable TMT_A_time: filled missing - old=NaN, new=109
+ID NEMOS-198, variable TMT_A_time: filled missing - old=NaN, new=75
 ID NEMOS-199, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
 ID NEMOS-200, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-201, variable TMT_A_time: filled missing - old=NaN, new=130
+ID NEMOS-202, variable TMT_A_time: filled missing - old=NaN, new=101
+ID NEMOS-203, variable TMT_A_time: filled missing - old=NaN, new=97
+ID NEMOS-204, variable TMT_A_time: filled missing - old=NaN, new=129
+ID NEMOS-205, variable TMT_A_time: filled missing - old=NaN, new=63
+ID NEMOS-206, variable TMT_A_time: filled missing - old=NaN, new=64
+ID NEMOS-207, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-208, variable TMT_A_time: filled missing - old=NaN, new=55
+ID NEMOS-209, variable TMT_A_time: filled missing - old=NaN, new=99
 ID NEMOS-210, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-211, variable TMT_A_time: filled missing - old=NaN, new=77
+ID NEMOS-212, variable TMT_A_time: filled missing - old=NaN, new=56
+ID NEMOS-213, variable TMT_A_time: filled missing - old=NaN, new=59
 ID NEMOS-214, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-215, variable TMT_A_time: filled missing - old=NaN, new=50
+ID NEMOS-216, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-217, variable TMT_A_time: filled missing - old=NaN, new=120
+ID NEMOS-218, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-219, variable TMT_A_time: filled missing - old=NaN, new=119
+ID NEMOS-220, variable TMT_A_time: filled missing - old=NaN, new=300
 ID NEMOS-221, variable TMT_A_time: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-222, variable TMT_A_time: filled missing - old=NaN, new=90
+ID NEMOS-223, variable TMT_A_time: filled missing - old=NaN, new=106
+ID NEMOS-224, variable TMT_A_time: filled missing - old=NaN, new=46
+ID NEMOS-225, variable TMT_A_time: filled missing - old=NaN, new=106
+ID NEMOS-226, variable TMT_A_time: filled missing - old=NaN, new=68
+ID NEMOS-227, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-228, variable TMT_A_time: filled missing - old=NaN, new=72
+ID NEMOS-229, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-230, variable TMT_A_time: filled missing - old=NaN, new=50
+ID NEMOS-231, variable TMT_A_time: filled missing - old=NaN, new=110
+ID NEMOS-232, variable TMT_A_time: filled missing - old=NaN, new=59
+ID NEMOS-233, variable TMT_A_time: filled missing - old=NaN, new=108
+ID NEMOS-234, variable TMT_A_time: filled missing - old=NaN, new=124
+ID NEMOS-235, variable TMT_A_time: filled missing - old=NaN, new=56
+ID NEMOS-236, variable TMT_A_time: filled missing - old=NaN, new=0
+ID NEMOS-237, variable TMT_A_time: filled missing - old=NaN, new=200
+ID NEMOS-238, variable TMT_A_time: filled missing - old=NaN, new=126
+ID NEMOS-239, variable TMT_A_time: filled missing - old=NaN, new=62
 ID NEMOS-240, variable TMT_A_time: filled missing - old=NaN, new=67

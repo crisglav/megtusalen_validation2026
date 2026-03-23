@@ -1,4 +1,4 @@
-Log created on: 20-Mar-2026 16:23:26
+Log created on: 23-Mar-2026 16:55:49
 
 Variable: occupation_fam
 Updated values: true
@@ -31,7 +31,7 @@ ID FAMMA066, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN
 ID FAMMA067, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:28:31
+Log created on: 23-Mar-2026 16:56:24
 
 Variable: occupation_fam
 Updated values: true
@@ -64,36 +64,801 @@ ID FAMMA066, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN
 ID FAMMA067, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:41:51
+Log created on: 23-Mar-2026 17:16:18
 
 Variable: occupation_fam
 Updated values: true
 
+ID FAMNC004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC001, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA001, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA003, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA008, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE007, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE002, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA011, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC003, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA014, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA010, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE011, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA016, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA019, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCOMPLUTENSE016, variable occupation_fam: filled missing - old=NaN, new=1
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC007, variable occupation_fam: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCD001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA024, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED577, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED696, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED697, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA025, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED699, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED698, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED579, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED639, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMUNED525, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMNC010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC007, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA027, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE018, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA029, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA028, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA038, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA039, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA030, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED599, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMMA032, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA042, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA044, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA043, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA036, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA033, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA049, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA046, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA055, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA063, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA054, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA053, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA047, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA048, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMGC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA057, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA056, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA058, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA052, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA073, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA071, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC016, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA070, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA076, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB019, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB008, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC011, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB005, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB023, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB020, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB028, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA077, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB044, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED443, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED605, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB027, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED624, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMUNED633, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA079, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB038, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB043, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB042, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB059, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB049, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB014, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB003, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB057, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB002, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA040, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB040, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB046, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMNC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB013, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB048, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB029, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB032, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB033, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB051, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB089, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB092, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB039, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC021, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB063, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB025, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB016, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED561, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB058, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB067, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB068, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB073, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB065, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB076, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB071, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB087, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB082, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB052, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB055, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB064, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB056, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB053, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB054, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB098, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB099, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB069, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB070, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB080, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMMA075, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC012, variable occupation_fam: filled missing - old=NaN, new=2
 ID FAMCTB084, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA078, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB066, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB078, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB083, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC019, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB050, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE020, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB036, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMCTB085, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB075, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB081, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB024, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMCTB097, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB096, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA080, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB030, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB095, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB100, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB094, variable occupation_fam: filled missing - old=NaN, new=4
 ID FAMCTB102, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable occupation_fam: filled missing - old=NaN, new=2
 ID FAMCOMPLUTENSE019, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB077, variable occupation_fam: filled missing - old=NaN, new=2
 ID FAMCTB079, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMMA050, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA051, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA060, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA064, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA065, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMMA066, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA081, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMNC002, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:16:43
+
+Variable: occupation_fam
+Updated values: true
+
+ID FAMNC004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC001, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA001, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA003, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA008, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE007, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE002, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA011, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC003, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA014, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA010, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE011, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA016, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA019, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCOMPLUTENSE016, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC007, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCD001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA024, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED577, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED696, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED697, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA025, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED699, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED698, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED579, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED639, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMUNED525, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC007, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA027, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE018, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA029, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA028, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA038, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA039, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA030, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED599, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA032, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA042, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA044, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA043, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA036, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA033, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA049, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA046, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA055, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA063, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA054, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA053, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA047, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA048, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMGC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA057, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA056, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA058, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA052, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA073, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA071, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC016, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA070, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA076, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB019, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB008, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC011, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB005, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB023, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB020, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB028, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA077, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB044, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED443, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED605, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB027, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED624, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMUNED633, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA079, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB038, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB043, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB042, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB059, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB049, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB014, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB003, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB057, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB002, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA040, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB040, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB046, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMNC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB013, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB048, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB029, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB032, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB033, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB051, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB089, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB092, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB039, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC021, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB063, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB025, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB016, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED561, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB058, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB067, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB068, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB073, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB065, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB076, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB071, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB087, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB082, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB052, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB055, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB064, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB056, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB053, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB054, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB098, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB099, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB069, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB070, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB080, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA075, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC012, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB084, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA078, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB066, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB078, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB083, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC019, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB050, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE020, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB036, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB085, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB075, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB081, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB024, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB097, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB096, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA080, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB030, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB095, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB100, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB094, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB102, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE019, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB077, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB079, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA050, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA051, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA060, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA064, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA065, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA066, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA081, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMNC002, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+Log created on: 23-Mar-2026 17:19:10
+
+Variable: occupation_fam
+Updated values: true
+
+ID FAMNC004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC001, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA001, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA005, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA003, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA008, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE007, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE002, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA011, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC003, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA014, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA010, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE011, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC005, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA016, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMGC006, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA019, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCOMPLUTENSE016, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC007, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD002, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCD001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA024, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED577, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED696, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED697, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA025, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA009, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED699, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED698, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED579, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED639, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMUNED525, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC010, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMNC009, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC008, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMNC007, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA027, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE018, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA029, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA028, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA038, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA039, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA030, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED599, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA032, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA042, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA044, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA043, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA036, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA033, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA049, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA046, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA055, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA063, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA054, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA053, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA047, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA048, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMGC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA057, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA056, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA058, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA052, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA073, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA071, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD003, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC016, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA070, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA076, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB006, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB019, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMGC013, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB008, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMNC011, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB026, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB004, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB005, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB022, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB023, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB007, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCD004, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB020, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB035, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB028, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB009, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA077, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC017, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB044, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB045, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED443, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMUNED605, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB027, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED624, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMUNED633, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA079, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB038, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB043, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB042, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB015, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB059, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB049, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB014, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB001, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB003, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB057, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB002, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMMA040, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB011, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB040, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB046, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMNC015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB013, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB041, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB048, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB029, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB034, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB032, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB033, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB051, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB037, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB089, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB092, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB039, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB010, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC020, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMGC021, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB063, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB025, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB016, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMUNED561, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB058, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB067, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB068, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB073, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB065, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB076, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB071, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB072, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB087, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB082, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB052, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB055, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB064, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB056, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB031, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC014, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB053, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB054, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB098, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB099, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB069, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB074, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB070, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB080, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA075, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMNC012, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB084, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA078, variable occupation_fam: filled missing - old=NaN, new=1
+ID FAMCTB066, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB078, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB083, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMGC019, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB018, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB050, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE020, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB036, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB085, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE022, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB075, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB081, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB024, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCTB097, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE023, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMCOMPLUTENSE021, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB096, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMMA080, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB030, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB095, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB100, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMCTB094, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB102, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB103, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB101, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE014, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE019, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMCTB077, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMCTB079, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB088, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB090, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB091, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA050, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA051, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA059, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA060, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA061, variable occupation_fam: filled missing - old=NaN, new=4
+ID FAMMA062, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA064, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA065, variable occupation_fam: filled missing - old=NaN, new=3
+ID FAMMA066, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA067, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA068, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable occupation_fam: filled missing - old=NaN, new=2
+ID FAMMA081, variable occupation_fam: filled missing - old=NaN, new=0
+ID FAMNC002, variable occupation_fam: filled missing - old=NaN, new=3
 ID FAMNC013, variable occupation_fam: skipped (fam_neuro missing, megtusalen=NaN)

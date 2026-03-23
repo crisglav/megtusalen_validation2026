@@ -1,54 +1,4 @@
-Log created on: 18-Mar-2026 16:19:32
-
-Variable: GDS_15
-Updated values: false
-
-ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:36:25
+Log created on: 23-Mar-2026 16:55:49
 
 Variable: GDS_15
 Updated values: true
@@ -98,7 +48,7 @@ ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:42:36
+Log created on: 23-Mar-2026 16:56:24
 
 Variable: GDS_15
 Updated values: true
@@ -148,7 +98,7 @@ ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 18-Mar-2026 16:42:50
+Log created on: 23-Mar-2026 17:16:18
 
 Variable: GDS_15
 Updated values: true
@@ -156,49 +106,265 @@ Updated values: true
 ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA004, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA005, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA007, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA008, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA006, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE007, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCOMPLUTENSE002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA013, variable GDS_15: filled missing - old=NaN, new=7
+ID FAMCOMPLUTENSE006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCOMPLUTENSE009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC003, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA014, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA017, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA016, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC002, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE016, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMGC008, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC007, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA024, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA021, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED577, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMUNED696, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED697, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA026, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA022, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA025, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED699, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMUNED698, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED579, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC009, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED639, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED525, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA027, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA029, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA038, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA039, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA030, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED599, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA044, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA043, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA045, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA036, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA033, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA031, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA046, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA055, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA063, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA054, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA048, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC015, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA056, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA058, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA037, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA052, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA072, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA073, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCD003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC016, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA070, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA076, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB019, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC013, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB008, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB026, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB004, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB005, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB022, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB007, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA074, variable GDS_15: filled missing - old=NaN, new=4
 ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA077, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB044, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB045, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED443, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED605, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB027, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED624, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED633, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA079, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB038, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMCTB043, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB015, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB059, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB002, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB011, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB046, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB013, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB048, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB029, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB034, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB032, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB033, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB037, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB089, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB092, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB039, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB061, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB010, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC020, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB063, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB025, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB016, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED561, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB058, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB067, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB068, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB073, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB065, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB076, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB072, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB087, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC018, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB082, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB052, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB055, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB064, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB056, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB031, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB054, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB098, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB099, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB069, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB074, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB070, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB080, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA078, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB066, variable GDS_15: filled missing - old=NaN, new=9
+ID FAMCTB078, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB083, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB018, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB050, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB036, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB075, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB081, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB024, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB096, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA080, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB030, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB095, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB100, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB094, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA050, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA051, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA059, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA060, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA061, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA064, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA065, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA081, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 13:16:17
+Log created on: 23-Mar-2026 17:16:43
 
 Variable: GDS_15
 Updated values: true
@@ -206,49 +372,265 @@ Updated values: true
 ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA004, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA005, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA007, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA008, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA006, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE007, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCOMPLUTENSE002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA013, variable GDS_15: filled missing - old=NaN, new=7
+ID FAMCOMPLUTENSE006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCOMPLUTENSE009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC003, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA014, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA017, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA016, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC002, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE016, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMGC008, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC007, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA024, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA021, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED577, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMUNED696, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED697, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA026, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA022, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA025, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED699, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMUNED698, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED579, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC009, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED639, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED525, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA027, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA029, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA038, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA039, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA030, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED599, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA044, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA043, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA045, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA036, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA033, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA031, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA046, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA055, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA063, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA054, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA048, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC015, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA056, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA058, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA037, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA052, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA072, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA073, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCD003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC016, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA070, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA076, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB019, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC013, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB008, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB026, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB004, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB005, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB022, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB007, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA074, variable GDS_15: filled missing - old=NaN, new=4
 ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA077, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB044, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB045, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED443, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED605, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB027, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED624, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED633, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA079, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB038, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMCTB043, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB015, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB059, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB002, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB011, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB046, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB013, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB048, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB029, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB034, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB032, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB033, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB037, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB089, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB092, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB039, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB061, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB010, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC020, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB063, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB025, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB016, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED561, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB058, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB067, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB068, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB073, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB065, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB076, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB072, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB087, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC018, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB082, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB052, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB055, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB064, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB056, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB031, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB054, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB098, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB099, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB069, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB074, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB070, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB080, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA078, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB066, variable GDS_15: filled missing - old=NaN, new=9
+ID FAMCTB078, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB083, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB018, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB050, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB036, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB075, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB081, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB024, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB096, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA080, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB030, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB095, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB100, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB094, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA050, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA051, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA059, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA060, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA061, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA064, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA065, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA081, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:23:26
+Log created on: 23-Mar-2026 17:19:10
 
 Variable: GDS_15
 Updated values: true
@@ -256,145 +638,261 @@ Updated values: true
 ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA004, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA005, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA007, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA008, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA006, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE007, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCOMPLUTENSE002, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA013, variable GDS_15: filled missing - old=NaN, new=7
+ID FAMCOMPLUTENSE006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE008, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCOMPLUTENSE009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC003, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA014, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC004, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC005, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA017, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA016, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC002, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCOMPLUTENSE012, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCOMPLUTENSE016, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMMA018: participant not found in megtusalen
+ID FAMCOMPLUTENSE004, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMGC008, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC007, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE017, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA024, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA021, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED577, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMUNED696, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED697, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA026, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA022, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA025, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED699, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMUNED698, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED579, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC009, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED639, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED525, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC010, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA027, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC001, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA029, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA038, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA039, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA030, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED599, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA034, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA044, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA043, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA045, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA036, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA033, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA031, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA046, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA055, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA063, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA054, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA048, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC015, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA056, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC011, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA058, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA037, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA052, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA072, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA073, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCD003, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC016, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA070, variable GDS_15: filled missing - old=NaN, new=11
+ID FAMMA076, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB006, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB019, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMGC014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC013, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB008, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB026, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB004, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB005, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB022, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB023, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB007, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA074, variable GDS_15: filled missing - old=NaN, new=4
 ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB020, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB035, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB028, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB009, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA077, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC017, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB044, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB045, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED443, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED605, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB027, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED624, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMUNED633, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA079, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB038, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMCTB043, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB042, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB015, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB059, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB049, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB014, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB001, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB003, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB057, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB002, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMMA040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB011, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB040, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB046, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB013, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB012, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB041, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB048, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB029, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB034, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB032, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB033, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB037, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB089, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB092, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB039, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB061, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB010, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC020, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMGC021, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB063, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB025, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB016, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMUNED561, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB058, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB067, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB068, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB073, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB065, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB076, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMCTB071, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB072, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB087, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC018, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB082, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB052, variable GDS_15: filled missing - old=NaN, new=4
+ID FAMCTB055, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB064, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB056, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB031, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB053, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB054, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB098, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB099, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB069, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB074, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB070, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB080, variable GDS_15: filled missing - old=NaN, new=3
 ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB093, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB047, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA078, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB066, variable GDS_15: filled missing - old=NaN, new=9
+ID FAMCTB078, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMCTB083, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMGC019, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB018, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB050, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB086, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB036, variable GDS_15: filled missing - old=NaN, new=5
 ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB075, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB081, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB024, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE021, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB096, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA080, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB030, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB095, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMCTB100, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMCTB094, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCOMPLUTENSE015, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMCTB060, variable GDS_15: filled missing - old=NaN, new=0
 ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMGC012, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA050, variable GDS_15: filled missing - old=NaN, new=2
+ID FAMMA051, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA059, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA060, variable GDS_15: filled missing - old=NaN, new=3
+ID FAMMA061, variable GDS_15: filled missing - old=NaN, new=5
+ID FAMMA062, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA064, variable GDS_15: filled missing - old=NaN, new=0
+ID FAMMA065, variable GDS_15: filled missing - old=NaN, new=2
 ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:28:31
-
-Variable: GDS_15
-Updated values: true
-
-ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-Log created on: 20-Mar-2026 16:41:51
-
-Variable: GDS_15
-Updated values: true
-
-ID FAMNC004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC005, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC003, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA018: participant not found in megtusalen
-ID FAMCOMPLUTENSE010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD001, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC010, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC009, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC006, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC008, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC007, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE018, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA032, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC011, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCD004, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC015, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB051, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA075, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMNC012, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB084, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE020, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB085, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE022, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB097, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE023, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB102, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB103, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB101, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE014, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCOMPLUTENSE019, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB077, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB079, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB088, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB090, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMCTB091, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA066, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA067, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
-ID FAMMA068, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
+ID FAMMA069, variable GDS_15: filled missing - old=NaN, new=1
+ID FAMMA081, variable GDS_15: filled missing - old=NaN, new=1
 ID FAMNC002, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
 ID FAMNC013, variable GDS_15: skipped (fam_neuro missing, megtusalen=NaN)
