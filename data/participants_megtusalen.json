@@ -353,12 +353,6 @@
         "Range": "non-bounded",
         "ReferencesAndLinks": "Goodglass, H. & Kaplan, E. (1983). The Assessment of Aphasia and Related Disorders. Lea & Febiger."
     },
-    "TMT_A_hits": {
-        "LongName": "Trail Making Test (Part A), number of hits",
-        "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the number of correct lines drawn.",
-        "Range": [0, 24],
-        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
-    },
     "TMT_A_errors": {
         "LongName": "Trail Making Test (Part A), number of errors",
         "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the number of incorrect lines drawn.",
@@ -370,12 +364,6 @@
         "Instructions": "Subjects connect circled numbers (1-25) in ascending order as quickly as possible. The score is the time required to complete the task.",
         "Range": "non-bounded",
         "Units": "seconds",
-        "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
-    },
-    "TMT_B_hits": {
-        "LongName": "Trail Making Test (Part B), number of hits",
-        "Instructions": "Subjects alternately connect circled numbers (1-13) and letters (A-L) in ascending order as quickly as possible. The score is the correct number of lines drawn.",
-        "Range": [0,24],
         "ReferencesAndLinks": "Reitan, R. M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276."
     },
     "TMT_B_errors": {
