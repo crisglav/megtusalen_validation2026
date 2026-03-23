@@ -1,0 +1,30 @@
+Log created on: 23-Mar-2026 13:21:37
+
+Variable: BNT_spon
+Updated values: false
+
+ID NEMOS-011, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-040, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-062, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-202, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable BNT_spon: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable BNT_spon: filled missing - old=NaN, new=59

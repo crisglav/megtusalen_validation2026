@@ -1,0 +1,22 @@
+Log created on: 23-Mar-2026 13:21:38
+
+Variable: SFT_animals
+Updated values: false
+
+ID NEMOS-011, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable SFT_animals: skipped (nemos_neuro missing, megtusalen=NaN)

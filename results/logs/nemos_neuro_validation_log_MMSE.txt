@@ -1,0 +1,33 @@
+Log created on: 23-Mar-2026 13:21:38
+
+Variable: MMSE
+Updated values: false
+
+ID NEMOS-011, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-013, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-070, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-094, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-168, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-173, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-182, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-183, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-185, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable MMSE: filled missing - old=NaN, new=25
+ID NEMOS-190, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-204, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-205, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-221, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-222, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-223, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-226, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-227, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-228, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-237, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-238, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-239, variable MMSE: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable MMSE: filled missing - old=NaN, new=28

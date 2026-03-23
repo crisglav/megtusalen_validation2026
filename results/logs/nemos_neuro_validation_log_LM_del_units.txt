@@ -1,0 +1,32 @@
+Log created on: 23-Mar-2026 13:21:38
+
+Variable: LM_del_units
+Updated values: false
+
+ID NEMOS-011, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-031, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-036, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-056, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-092, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-181, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable LM_del_units: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable LM_del_units: filled missing - old=NaN, new=10

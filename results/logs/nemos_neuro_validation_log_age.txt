@@ -1,8 +1,5 @@
-Comparison: ../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx vs ../results/participants_megtusalen_nemos_corrected.xlsx
-Variable to compare: age
-Date: 19-Mar-2026 12:48:30
-Updated excel: true
-Updated values: 0
-Participants not found: 0
-Participants in megtusalen not in nemos: 0
-----------------------------------------
+Log created on: 23-Mar-2026 13:21:37
+
+Variable: age
+Updated values: false
+

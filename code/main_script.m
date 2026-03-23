@@ -45,4 +45,19 @@ umec_neuro_excel = '../data/source_data/UMEC_DAVID.csv';
 
 megtusalen_corrected = umec_neuropsico_validation(megtusalen_corrected,umec_neuro_excel, update);
 
+% UMEC extension (UMEC-236 onwards) TO DO
+
 %% NEMOS
+update = false;
+
+% ----- Correct genetics ----
+% Source data
+nemos_gen_excel = '../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx';
+
+megtusalen_corrected = nemos_gen_validation(megtusalen,nemos_gen_excel, update);
+
+% ----- Correct neuro for the UMEC project ----
+% Source data
+nemos_neuro_excel = '../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx';
+
+megtusalen_corrected = nemos_neuropsico_validation(megtusalen_corrected,nemos_neuro_excel, update);

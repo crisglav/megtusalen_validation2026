@@ -1,0 +1,30 @@
+Log created on: 23-Mar-2026 13:21:37
+
+Variable: edu_level_nemos
+Updated values: false
+
+ID NEMOS-011, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-185, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-204, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-207, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-209, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-222, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-223, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-228, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-237, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-239, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=5)
+ID NEMOS-240, variable edu_level_nemos: skipped (nemos_neuro missing, megtusalen=NaN)

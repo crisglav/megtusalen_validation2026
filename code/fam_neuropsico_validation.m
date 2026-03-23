@@ -77,7 +77,6 @@ for ivar = 1:length(vars)
             continue;
         end
 
-
         % Value for this participant an this variable
         fam_val = fam_neuro.(varname_fam)(i);
         meg_val = megtusalen.(varname_megtusalen)(meg_row);

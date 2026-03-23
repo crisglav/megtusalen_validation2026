@@ -1,0 +1,49 @@
+Log created on: 23-Mar-2026 13:21:37
+
+Variable: edu_years
+Updated values: false
+
+ID NEMOS-004, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-011, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-029, variable edu_years: corrected - old=12, new=13
+ID NEMOS-040, variable edu_years: corrected - old=6, new=7
+ID NEMOS-041, variable edu_years: corrected - old=12, new=13
+ID NEMOS-042, variable edu_years: corrected - old=6, new=7
+ID NEMOS-065, variable edu_years: corrected - old=31, new=20
+ID NEMOS-092, variable edu_years: corrected - old=6, new=7
+ID NEMOS-107, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-119, variable edu_years: corrected - old=23, new=20
+ID NEMOS-122, variable edu_years: corrected - old=6, new=7
+ID NEMOS-130, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable edu_years: corrected - old=14, new=12
+ID NEMOS-181, variable edu_years: corrected - old=6, new=7
+ID NEMOS-184, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-185, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-204, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-205, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-206, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-207, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-209, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-215, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-221, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-222, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-223, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-226, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-227, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-228, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-237, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-238, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-239, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable edu_years: skipped (nemos_neuro missing, megtusalen=NaN)

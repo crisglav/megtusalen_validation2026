@@ -1,0 +1,34 @@
+Log created on: 23-Mar-2026 13:21:38
+
+Variable: TMT_A_hits
+Updated values: false
+
+ID NEMOS-011, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-023, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-041, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-043, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-047, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-161, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-172, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-221, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable TMT_A_hits: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable TMT_A_hits: filled missing - old=NaN, new=24

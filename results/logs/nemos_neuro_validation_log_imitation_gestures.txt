@@ -1,0 +1,32 @@
+Log created on: 23-Mar-2026 13:21:37
+
+Variable: imitation_gestures
+Updated values: false
+
+ID NEMOS-011, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-040, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-193, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-206, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-220, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-224, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable imitation_gestures: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-240, variable imitation_gestures: filled missing - old=NaN, new=8

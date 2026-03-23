@@ -1,0 +1,27 @@
+Log created on: 23-Mar-2026 13:21:38
+
+Variable: PTF
+Updated values: false
+
+ID NEMOS-011, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-012, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-103, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-107, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-130, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-132, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-136, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-141, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-156, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-159, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-163, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-170, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-184, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-186, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-188, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-189, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-190, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-199, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-200, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-210, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-214, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
+ID NEMOS-236, variable PTF: skipped (nemos_neuro missing, megtusalen=NaN)
