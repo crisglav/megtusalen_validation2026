@@ -29,13 +29,13 @@
         "LongName": "Participant group",
         "Description": "Group to which the participant belongs based on their clinical diagnosis.",
         "Levels": {
-            "SCD-": "Healthy participant without Subjective Congnitve Decline",
-            "SCD+": "Participant with Subjective Cognitive Decline",
+            "SCDneg": "Healthy participant without Subjective Congnitve Decline",
+            "SCDpos": "Participant with Subjective Cognitive Decline",
             "MCIa": "Participant with Mild Cognitive Impairment, amnesic type",
             "MCIm": "Participant with Mild Cognitive Impairment, multidomain type",
-            "MCI-": "Healthy participant without Mild Cognitive Impairment",
-            "FH-": "Healthy participant without a Family History of Alzheimer's Disease",
-            "FH+": "Healthy participant with a Family History of Alzheimer's Disease",
+            "MCIneg": "Healthy participant without Mild Cognitive Impairment",
+            "FHneg": "Healthy participant without a Family History of Alzheimer's Disease",
+            "FHpos": "Healthy participant with a Family History of Alzheimer's Disease",
             "AD": "Participant with Alzheimer's disease"
         }
     },
