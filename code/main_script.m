@@ -1,8 +1,15 @@
 clear all
 close all
 
+create_from_scratch = false;
+
 % Input file
-megtusalen_excel = '../data/participants_megtusalen_blank.xlsx';
+if create_from_scratch
+    megtusalen_excel = '../data/participants_megtusalen_blank.xlsx';
+else
+    megtusalen_excel = '../data/participants_megtusalen.xlsx';
+end
+
 opts = detectImportOptions(megtusalen_excel);
 opts.VariableTypes = {'char'	'char'	'double'	'char'	'char'	'char'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'double'	'char'	'char'	'char'	'char'	'char'	'char'	'char'	'char'	'char'	'char'	'double'	'double'	'double'	'char'};
 megtusalen = readtable(megtusalen_excel,opts);
@@ -34,7 +41,7 @@ megtusalen_corrected = fam_gen_validation_update_missing(megtusalen_corrected,fa
 % Source data
 fam_neuro_excel = '../data/source_data/BBDD Conjunta 261 familiares.xlsx';
 
-megtusalen_corrected = fam_neuropsico_validation(megtusalen_corrected,fam_neuro_excel, update);
+megtusalen_corrected_fam = fam_neuropsico_validation(megtusalen_corrected,fam_neuro_excel, update);
 
 %% UMEC
 % Set to true if you want to update participants_megtusalen_umec_corrected
@@ -55,7 +62,7 @@ megtusalen_corrected = umec_neuropsico_validation(megtusalen_corrected,umec_neur
 % UMEC extension (UMEC-236 onwards) TO DO
 umec_extension_excel = '../data/source_data/cortisolyluna_inma.xlsx';
 
-megtusalen_corrected = umec_extension_validation(megtusalen_corrected,umec_extension_excel, update);
+megtusalen_corrected_umec = umec_extension_validation(megtusalen_corrected,umec_extension_excel, update);
 
 
 
@@ -72,19 +79,27 @@ megtusalen_corrected = nemos_gen_validation(megtusalen,nemos_gen_excel, update);
 % Source data
 nemos_neuro_excel = '../data/source_data/Base de Datos Proyecto NEMOS para MEGTUSALEN 18.03.26.xlsx';
 
-megtusalen_corrected = nemos_neuropsico_validation(megtusalen_corrected,nemos_neuro_excel, update);
+megtusalen_corrected_nemos = nemos_neuropsico_validation(megtusalen_corrected,nemos_neuro_excel, update);
 
 %% UNIFY THE THREE PROJECTS
-umec_path = '../results/participants_megtusalen_umec_corrected.xlsx';
-nemos_path = '../results/participants_megtusalen_nemos_corrected.xlsx';
-fam_path = '../results/participants_megtusalen_fam_corrected.xlsx';
+% umec_path = '../results/participants_megtusalen_umec_corrected.xlsx';
+% nemos_path = '../results/participants_megtusalen_nemos_corrected.xlsx';
+% fam_path = '../results/participants_megtusalen_fam_corrected.xlsx';
+% 
+% umec = readtable(umec_path,'FileType','spreadsheet');
+% nemos = readtable(nemos_path,'FileType','spreadsheet');
+% fam = readtable(fam_path,'FileType','spreadsheet');
+% 
+% project_id = categorical(umec.project_id);
+% 
+% megtusalen_corrected = [umec(project_id == 'UMEC',:); nemos(project_id == 'NEMOS',:); fam(project_id == 'FAM',:)];
 
-umec = readtable(umec_path,'FileType','spreadsheet');
-nemos = readtable(nemos_path,'FileType','spreadsheet');
-fam = readtable(fam_path,'FileType','spreadsheet');
+project_id = categorical(megtusalen.project_id);
 
-project_id = categorical(umec.project_id);
+megtusalen_corrected = [megtusalen_corrected_umec(project_id == 'UMEC',:); megtusalen_corrected_nemos(project_id == 'NEMOS',:); megtusalen_corrected_fam(project_id == 'FAM',:)];
 
-megtusalen_corrected = [umec(project_id == 'UMEC',:); nemos(project_id == 'NEMOS',:); fam(project_id == 'FAM',:)];
-
-writetable(megtusalen_corrected,'../results/participants_megtusalen_corrected.xlsx');
+if create_from_scratch
+    writetable(megtusalen_corrected,'../results/participants_megtusalen_corrected_fromblank.xlsx');
+else
+    writetable(megtusalen_corrected,'../results/participants_megtusalen_corrected.xlsx');
+end
