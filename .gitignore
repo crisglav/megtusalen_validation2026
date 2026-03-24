@@ -2,4 +2,5 @@
 *.doc
 *.docx
 *.asv
+~$*.xlsx
 results/logs
