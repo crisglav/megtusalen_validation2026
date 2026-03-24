@@ -114,9 +114,9 @@ for ivar = 1:length(vars)
         if strcmp(varname_megtusalen,'group')
             switch fam_val
                 case 0
-                    fam_val = 'FH-';
+                    fam_val = 'FHneg';
                 case 1
-                    fam_val = 'FH+';
+                    fam_val = 'FHpos';
             end
 
         end

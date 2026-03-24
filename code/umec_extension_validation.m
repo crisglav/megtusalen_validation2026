@@ -111,9 +111,9 @@ for ivar = 1:length(vars)
         if strcmp(varname_megtusalen,'group')
             switch umec_val
                 case 1
-                    umec_val = 'SCD-';
+                    umec_val = 'SCDneg';
                 case 2
-                    umec_val = 'SCD+';
+                    umec_val = 'SCDpos';
                 case 3
                     umec_val = 'MCIa';
             end

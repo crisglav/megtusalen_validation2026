@@ -2,13 +2,11 @@ clc
 clear
 close all
 
-megtusalen_excel = '../data/participants_megtusalen.xlsx';
-% json_file = '../data/participants_megtusalen.json';
-% out_file = '../data/participants_megtusalen_diag_corrected.xlsx';
+megtusalen_excel = '../results/participants_megtusalen_corrected.xlsx';
 
 megtusalen = readtable(megtusalen_excel);
 
-log_file = '../results/logs/full_validation_log.txt';
+log_file = '../results/logs/full_diag_validation_log.txt';
 fid_log = fopen(log_file, 'w');
 
 n_errors = 0;

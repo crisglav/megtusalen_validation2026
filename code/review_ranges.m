@@ -2,9 +2,9 @@ clc
 clear
 close all
 
-megtusalen_excel = '../data/participants_megtusalen.xlsx';
+megtusalen_excel = '../results/participants_megtusalen_corrected.xlsx';
 json_file = '../data/participants_megtusalen.json';
-out_file = '../data/participants_megtusalen_ranges_corrected.xlsx';
+out_file = '../results/participants_megtusalen_corrected.xlsx';
 update = false;
 
 megtusalen = readtable(megtusalen_excel);

@@ -129,7 +129,7 @@ for ivar = 1:length(vars)
             elseif strcmp(nemos_val,'DCLm')
                 nemos_val = 'MCIm';
             elseif strcmp(nemos_val,'Control')
-                nemos_val = 'MCI-';
+                nemos_val = 'MCIneg';
             elseif strcmp(nemos_val,'EA')
                 nemos_val = 'AD';
             end
