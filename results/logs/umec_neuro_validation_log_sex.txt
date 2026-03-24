@@ -1,6 +1,0 @@
-Log created on: 20-Mar-2026 16:41:52
-
-Variable: sex
-Updated values: true
-
-ID UMECMA093, variable sex: skipped (umec_neuro missing, megtusalen=NaN)
