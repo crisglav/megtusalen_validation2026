@@ -1,4 +1,5 @@
-clear all
+clc
+clear
 close all
 
 create_from_scratch = false;

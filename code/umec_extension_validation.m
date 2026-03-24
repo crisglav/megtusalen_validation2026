@@ -111,9 +111,9 @@ for ivar = 1:length(vars)
         if strcmp(varname_megtusalen,'group')
             switch umec_val
                 case 1
-                    umec_val = 'SCD-';
+                    umec_val = 'SCDneg';
                 case 2
-                    umec_val = 'SCD+';
+                    umec_val = 'SCDpos';
                 case 3
                     umec_val = 'MCIa';
             end
@@ -232,7 +232,7 @@ fclose(fid);
 
 fprintf('Validation finished.\n');
 if update
-    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
+    % writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
     fprintf('Filled values: %d\n', n_filled);

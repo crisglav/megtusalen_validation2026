@@ -35,6 +35,6 @@ meg_row = find(strcmp(megtusalen.participant_id, 'UMEC-215'));
 megtusalen.recording_id_orig{meg_row} = 'umeccd108';
 
 if update
-    writetable(megtusalen, out_file,"FileType","spreadsheet");
+    % writetable(megtusalen, out_file,"FileType","spreadsheet");
 end
 end

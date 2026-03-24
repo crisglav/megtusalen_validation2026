@@ -223,7 +223,7 @@ fclose(fid);
 fprintf('Validation finished.\n');
 
 if update
-    writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
+    % writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
     fprintf('Filled values: %d\n', n_filled);
