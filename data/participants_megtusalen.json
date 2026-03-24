@@ -29,7 +29,7 @@
         "LongName": "Participant group",
         "Description": "Group to which the participant belongs based on their clinical diagnosis.",
         "Levels": {
-            "SCDneg": "Healthy participant without Subjective Congnitve Decline",
+            "SCDneg": "Healthy participant without Subjective Cognitve Decline",
             "SCDpos": "Participant with Subjective Cognitive Decline",
             "MCIa": "Participant with Mild Cognitive Impairment, amnesic type",
             "MCIm": "Participant with Mild Cognitive Impairment, multidomain type",
@@ -56,7 +56,9 @@
         "Levels": {
             "0": "No converter",
             "1": "Converter from MCI to AD",
-            "2": "Converter from MCI to other dementia"
+            "2": "Converter from MCI to other dementia",
+            "3": "Converter from SCD to MCI",
+            "4": "Converter from SCD to MCI and to dementia"
         }
     },
     "conversion_time": {
@@ -152,7 +154,7 @@
     },
     "BADS_rules_test": {
         "LongName": "Behavioural Assessment of the Dysexecutive Syndrome, Rule Shift Cards Test",
-        "Instructions": "Participants respond “Yes” or “No” to a sequence of red and black cards, first according to card color and then according to whether the card matches the color of the previous card, requiring them to shift rules during the task. The score reflectes the performance, being 4 perfect performance and 0 unable to follow the rule.",
+        "Instructions": "Participants respond “Yes” or “No” to a sequence of red and black cards, first according to card color and then according to whether the card matches the color of the previous card, requiring them to shift rules during the task. The score reflects the performance, being 4 perfect performance and 0 unable to follow the rule.",
         "Range": [
             0,4
         ],
@@ -186,7 +188,7 @@
         "LongName": "Clock Drawing Test",
         "Instructions": "The participant is asked to draw a clock, place all the numbers correctly, and set the hands to show the time 11:10. The score reflects the accuracy of the circle, the presence and correct placement of numbers, and the correct positioning of the clock hands.",
         "Range": [0,7],
-        "ReferencesAndLinks": "Shulman, K. I. (2000). Clock-drawing: is it the ideal cognitive screening test? International Journal of Geriatric Psychiatry, 15(6), 548–561. Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. Archives of Neurology, 55(3), 349–355. DOI: 10.1001/archneur.55.3.349"
+        "ReferencesAndLinks": "Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. Archives of Neurology, 55(3), 349–355. DOI: 10.1001/archneur.55.3.349"
     },
     "cog_res": {
         "LongName": "Rami's Cognitive Reserve Questionnaire",
@@ -220,7 +222,7 @@
     },
     "GDS_15": {
         "LongName": "15-item Geriatric Depression Scale (Spanish adaptation)",
-        "Instructions": "Subjects answer 15 yes/no questions assessing depressive symptoms over the recent period. The score reflects symptom severity, with higher scores indicating greater depressive symptomatology. A score equal or higher than 5 indicates depression.",
+        "Instructions": "Subjects answer 15 yes/no questions assessing depressive symptoms over the recent period. The score reflects symptom severity, with higher scores indicating greater depressive symptomatology. Scores higher or equal than 5 may suggest clinically relevant depressive symptoms.",
         "Range": [
             0,15
         ],
@@ -275,7 +277,7 @@
     },
     "MMSE": {
         "LongName": "Mini-Mental State Examination (Spanish adaptation)",
-        "Instructions": "Clinicians administer a brief standardized assessment covering orientation, attention, memory, language, and visuoconstructive abilities. The score is the number of correct responses. A score lower than 26 indicates cognitive impairment.",
+        "Instructions": "Clinicians administer a brief standardized assessment covering orientation, attention, memory, language, and visuoconstructive abilities. The score is the number of correct responses. Scores <26 suggest possible cognitive impairment.",
         "Range": [
             0,30
         ],
@@ -309,13 +311,13 @@
         "LongName": "Rey-Osterrieth Complex Figure B (simplified figure), copy figure score",
         "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the copy.",
         "Range": [0,22],
-        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+        "ReferencesAndLinks": "Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
     },
     "ROCFB_simp_mem":{
         "LongName": "Rey-Osterrieth Complex Figure B (simplified figure), copy figure from memory score",
         "Instructions": "The participant is asked to copy the ROCF-B by hand, a figure made up of a complex series of rectangles, lines, circles and triangles. After 30 minutes, the participant is asked to reproduce it again from memory. The score indicates how well the figure is reproduced during the recall.",
         "Range": [0,22],
-        "ReferencesAndLinks": "Osterrieth, P. A. (1944). Le test de copie d’une figure complexe: Contribution à l’étude de la perception et de la mémoire. Archives de Psychologie, 30, 206–356.Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
+        "ReferencesAndLinks": "Solomon, P. R. et al. (1998). A 7 minute neurocognitive screening battery highly sensitive to Alzheimer’s disease. In: Archives of Neurology 55.3, pp. 349–355. DOI: 10.1001/archneur.55.3.349"
     },
     "ROCFB_copy":{
         "LongName": "Rey-Osterrieth Complex Figure B, copy figure score",
@@ -455,7 +457,7 @@
     },
     "has_meg": {
         "LongName": "Has MEG recording",
-        "Description": "Variable that indicates wether the participant has a MEG recording.",
+        "Description": "Variable that indicates whether the participant has a MEG recording.",
         "Levels": {
             "0": "No",
             "1": "Yes"
@@ -463,7 +465,7 @@
     },
     "has_mri": {
         "LongName": "Has MRI recording",
-        "Description": "Variable that indicates wether the participant has a MRI recording.",
+        "Description": "Variable that indicates whether the participant has a MRI recording.",
         "Levels": {
             "0": "No",
             "1": "Yes"
@@ -471,14 +473,14 @@
     },
     "mriok": {
         "LongName": "Is MRI normal",
-        "Description": "Variable that indicates wether the MRI of the participant is normal.",
+        "Description": "Variable that indicates whether the MRI of the participant is normal, i.e. no tumors nor ischemic lessions.",
         "Levels": {
             "0": "No",
             "1": "Yes"
         }
     },
     "recording_id_orig": {
-        "LongName": "Recording ID",
-        "Description": "Recording identificator. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
+        "LongName": "Orinal recording ID of the project",
+        "Description": "Recording identifier. The first letter indicates the project. The first digit indicates the number of the recording session. The three following digits indicate the participant inside the project."
     }
 }
