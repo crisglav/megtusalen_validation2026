@@ -56,6 +56,14 @@ for ivar = 1:length(vars)
         % ID familiares
         id_fam = string(fam_gen.(id_vars(1).fam){i});
 
+
+        % Deal with FAM-037 (FAMMA018 == UMECMA037 participant also in UMEC)
+        if contains(id_fam,'FAMMA018')
+            id_fam = megtusalen.recording_id_orig{contains(megtusalen.(id_vars(1).megtusalen),'FAMMA018')};
+            warning('%s participant is included also in UMEC.', id_fam);
+            fprintf(fid, 'ID %s: participant is included also in UMEC\n', id_fam);
+        end
+
         meg_row = find(strcmp(megtusalen.(id_vars(1).megtusalen), id_fam), 1);
 
         if isempty(meg_row)

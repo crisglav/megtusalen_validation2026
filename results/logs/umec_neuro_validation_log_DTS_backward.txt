@@ -1,9 +1,0 @@
-Log created on: 20-Mar-2026 16:41:52
-
-Variable: DTS_backward
-Updated values: true
-
-ID umeccd013, variable DTS_backward: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd064, variable DTS_backward: skipped (umec_neuro missing, megtusalen=NaN)
-ID umeccd092, variable DTS_backward: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable DTS_backward: skipped (umec_neuro missing, megtusalen=NaN)

@@ -1,33 +1,46 @@
 % clear all
 % close all
 
-function megtusalen = umec_neuropsico_validation(megtusalen,umec_neuro_excel, update)
+function megtusalen = umec_extension_validation(megtusalen,umec_extension_excel, update)
 
 % umec_excel = '../data/source_data/UMEC_DAVID.csv';
 % megtusalen_excel = '../results/participants_megtusalen_umec_corrected.xlsx';
 % update = true;
 out_file = '../results/participants_megtusalen_umec_corrected.xlsx';
 
-umec_neuro = readtable(umec_neuro_excel,'VariableNamingRule','preserve');
+opts = detectImportOptions(umec_extension_excel);
+opts.VariableNamingRule = 'preserve';
+opts.DataRange = 'A13:AS25';
+umec_neuro = readtable(umec_extension_excel,opts);
+
 % megtusalen = readtable(megtusalen_excel,'FileType','spreadsheet','VariableNamingRule','preserve');
 
 vars = struct( ...
     'megtusalen', ...
-    {'age','sex','group','conversion_time', 'family_history', 'edu_years','edu_level_umec','occupation_umec', ...
-    'BADS_rules_test', 'BNT_spon', 'BNT_phon', 'BNT_sem', 'clock_drawing', 'cog_res','DTS_forward','DTS_backward', ...
-    'FAQ', 'GDS_15', 'imitation_gestures', ...
-    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','PTF_F','PTF_A','PTF_S', ...
-    'ROCFB_simp_copy', 'ROCFB_simp_mem', 'SFT_animals', 'SFT_fruits', 'SFT_names', 'TMT_A_hits', 'TMT_A_errors','TMT_A_time', 'TMT_B_hits', 'TMT_B_errors', 'TMT_B_time', ...
-    'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition'}, ...
+    {'age','sex','group', ...
+    'BADS_rules_test', 'DST_forward','DST_backward', ...
+    'GDS_15', ...
+    'LM_imm_units','LM_del_units','LM_imm_them','LM_del_them','MMSE','PFT_F','PFT_A','PFT_S', ...
+    'TMT_A_errors','TMT_A_time', 'TMT_B_errors', 'TMT_B_time', ...
+    'word_list_trial1', 'word_list_trial4', 'word_list_learning_total', 'word_list_delayed_recall', 'word_list_recognition', ...
+    'APOE'}, ...
     'umec', ...
-    {'Edad','sexo','Diagnostico','T_Conversion','antec_familia_demenc','numañosescol','Estudios', 'rc_ocupac_labor', ...
-    'Pre_CReglas_perfil', 'Pre_BNT_r_espontaneas', 'Pre_BNT_clave_f', 'Pre_BNT_clave_s', 'Pre_sieteM_reloj', 'Rc_total','Pre_D_directos_total','Pre_D_inversos_total', ...
-    'Pre_FAQ', 'Pre_GDS', 'Pre_imitac_posturas', ...
-    'Pre_ML_total_unid_inm','Pre_ML_total_unid_dem','Pre_ML_total_temas_inm','Pre_ML_total_temas_dem','Pre_MMSE','Pre_F','Pre_A','Pre_S', ...
-    'Pre_Rey_copia', 'Pre_Rey_memoria', 'Pre_animales', 'Pre_frutas', 'Pre_nombres', 'Pre_TMTa_a', 'Pre_TMTa_e', 'Pre_TMTa_t', 'Pre_TMTb_a', 'Pre_TMTb_e','Pre_TMTb_t', ...
-    'Pre_LP_ap_inmediato', 'Pre_LP_4intento', 'Pre_LP_recuerdoT', 'Pre_LP_recuerdo_d', 'Pre_LP_reconoc'} );
+    {'Edad','Sexo','Grupo', ...
+    'CReglas_perfil', 'D_directos_total','D_inversos_total', ...
+    'GDS', ...
+    'ML_total_unid_inm','ML_total_unid_demo','ML_total_temas_inm','ML_total_temas_dem','Post_MMSE','F','A','S', ...
+    'TMTa_e', 'TMTa_t', 'TMTb_e','TMTb_t', ...
+    'LP_ap_inmediato', 'LP_4intento', 'LP_recuerdoT', 'LP_recuerdo_d', 'LP_reconoc', ...
+    'APOE'} );
 
-id_vars = struct ( 'megtusalen', {'recording_id_orig'}, 'umec' , {'CodigoCentroPaciente'});
+% Transform ids
+% Replace dash with underscore and lowercase
+ids_meg = upper(strrep(umec_neuro.Code, '_', '-'));
+
+% Assign back to table
+umec_neuro.IDmeg = ids_meg;
+
+id_vars = struct ( 'megtusalen', {'participant_id'}, 'umec' , {'IDmeg'});
 ids = umec_neuro.(id_vars(1).umec);
 n = length(ids);
 
@@ -43,7 +56,7 @@ for ivar = 1:length(vars)
     varname_umec = vars(ivar).umec;
 
     % Open log file per variable
-    log_file = fullfile('..', 'results', 'logs', ['umec_neuro_validation_log_' varname_megtusalen '.txt']);
+    log_file = fullfile('..', 'results', 'logs', ['umec_extension_validation_log_' varname_megtusalen '.txt']);
     fid = fopen(log_file, 'w');
 
     fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
@@ -57,7 +70,7 @@ for ivar = 1:length(vars)
         id = ids{i};
 
         % Find in megtusalen the participant with current id
-        meg_row = find(strcmp(megtusalen.recording_id_orig, id), 1);
+        meg_row = find(strcmp(megtusalen.(id_vars(1).megtusalen), id), 1);
 
         if isempty(meg_row)
             warning('Could not find %s\n', id)
@@ -88,9 +101,10 @@ for ivar = 1:length(vars)
             end
         end
 
-        % Deal with 999 values (missing in spss)
-        if umec_val == 999
-            umec_val = nan;
+        % Convert APOE variable
+        if strcmp(varname_megtusalen,'APOE')
+            umec_val = regexp(umec_val, '\d', 'match');
+            umec_val = str2double([umec_val{:}]);
         end
 
         % Convert group variable
@@ -146,7 +160,7 @@ for ivar = 1:length(vars)
             else
                 megtusalen.(varname_megtusalen){meg_row} = umec_val;
             end
-            n_fill = n_updated + 1;
+            n_filled = n_filled + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: filled missing - old=NaN, new=%s\n', ...
@@ -154,12 +168,16 @@ for ivar = 1:length(vars)
 
             % Case 2: both have values but differ → CORRECT
         elseif ~umec_missing && ~meg_missing && ~isequal(umec_val, meg_val)
+            try
             if isnumeric(umec_val)
                 megtusalen.(varname_megtusalen)(meg_row) = umec_val;
             else
                 megtusalen.(varname_megtusalen){meg_row} = umec_val;
             end
-            n_updated = n_updated + 1;
+            catch
+                error('var: %d, i:%d', ivar, i)
+            end
+            n_corrected = n_corrected + 1;
 
             fprintf(fid, ...
                 'ID %s, variable %s: corrected - old=%s, new=%s\n', ...
@@ -178,7 +196,8 @@ for ivar = 1:length(vars)
 
 end
 
-log_file = fullfile('..', 'results', 'logs', 'umec_neuro_validation_log_summary.txt');
+% Create summary log file
+log_file = fullfile('..', 'results', 'logs', 'umec_extension_validation_log_summary.txt');
 fid = fopen(log_file, 'w');
 
 % Check participants in megtusalen not in umec
@@ -189,24 +208,25 @@ umec_ids = string(umec_neuro.(id_vars(1).umec));
 
 n_not_in_umec = 0;
 
-for j = 1:length(meg_ids)
-    meg_id = meg_ids(j);
-
-    if ~any(strcmp(umec_ids, meg_id))
-        fprintf('ID %s: present in megtusalen but NOT in umec_neuro\n', meg_id);
-        n_not_in_umec = n_not_in_umec + 1;
-    end
-end
-sprintf('Participants in megtusalen not in umec: %d\n', n_not_in_umec)
+% for j = 1:length(meg_ids)
+%     meg_id = meg_ids(j);
+% 
+%     if ~any(strcmp(umec_ids, meg_id))
+%         fprintf('ID %s: present in megtusalen but NOT in umec_extension\n', meg_id);
+%         n_not_in_umec = n_not_in_umec + 1;
+%     end
+% end
+% sprintf('Participants in megtusalen not in umec: %d\n', n_not_in_umec);
 
 % Add summary comparisons to the log file
 fprintf(fid, 'Log created on: %s\n\n', datetime('now'));
 fprintf(fid, 'Updated values: %s\n\n', string(update));
 
-fprintf(fid,'Comparison: %s vs megtusalen_umec_corrected\n', umec_neuro_excel);
-fprintf(fid,'Updated values: %d\n', n_updated);
+fprintf(fid,'Comparison: %s vs megtusalen_umec_corrected\n', umec_extension_excel);
+fprintf(fid,'Filled values: %d\n', n_filled);
+fprintf(fid,'Corrected values: %d\n', n_corrected);
 fprintf(fid,'Participants not found: %d\n', n_not_found);
-fprintf(fid,'Participants in megtusalen not in umec: %d\n', n_not_in_umec);
+% fprintf(fid,'Participants in megtusalen not in umec: %d\n\n\n', n_not_in_umec);
 
 fclose(fid);
 
@@ -215,7 +235,8 @@ if update
     writetable(megtusalen, out_file, 'FileType', 'spreadsheet');
 
     fprintf('Correction finished.\n');
-    fprintf('Updated values: %d\n', n_updated);
+    fprintf('Filled values: %d\n', n_filled);
+    fprintf('Corrected values: %d\n', n_corrected);
     fprintf('Participants not found: %d\n', n_not_found);
     fprintf('Corrected file saved to: %s\n', out_file);
 end
