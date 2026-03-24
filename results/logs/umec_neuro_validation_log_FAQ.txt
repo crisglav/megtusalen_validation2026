@@ -1,7 +1,0 @@
-Log created on: 20-Mar-2026 16:41:52
-
-Variable: FAQ
-Updated values: true
-
-ID umeccd035, variable FAQ: skipped (umec_neuro missing, megtusalen=NaN)
-ID UMECMA093, variable FAQ: skipped (umec_neuro missing, megtusalen=NaN)
