@@ -76,12 +76,26 @@ Original data are located in `data/source_data/`.
 
 - FAMILIARES:
   - Multiple Excel files required to reconstruct full dataset
+  - Diagnosis incongruent for the following participants:
+    - ID FAM-083: ERROR diag 1 but antec_familia_demenc=0
+    - ID FAM-089: ERROR diag 1 but antec_familia_demenc=0
+    - ID FAM-124: ERROR diag 1but antec_familia_demenc=0
+    - ID FAM-171: ERROR diag 1but antec_familia_demenc=0
+    - ID FAM-175: ERROR diag 0 but antec_familia_demenc=1
+    - ID FAM-202: ERROR diag 0 but antec_familia_demenc=1
+    - ID FAM-227: ERROR diag 1 but antec_familia_demenc=0
+    - ID FAM-229: ERROR diag 1 but antec_familia_demenc=0
+    - ID FAM-254: ERROR diag 0 but antec_familia_demenc=1
+    - ID FAM-258: ERROR diag 0 but antec_familia_demenc=1
+    - ID FAM-259: ERROR diag 1 but antec_familia_demenc=2
+ 
 
 ## Code
 
 - Main script: `code/main_script.m`
 - Variable range validation: `code/review_ranges.m`
 - Diagnosis validation after correction: `code/diagnostic_review_megtusalen.m`
+- Check that healhty participants have a correct neuropsychological assessment: `code/generate_diagcog.m`
 - Variable definitions: `data/participants_megtusalen.json`
 
 The JSON file defines variable names, descriptions, ranges, and metadata used during validation.
