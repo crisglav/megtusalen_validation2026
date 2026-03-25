@@ -98,10 +98,21 @@ for ivar = 1:length(vars)
             switch umec_val
                 case 1
                     umec_val = 'SCDneg';
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "HC";
+
                 case 2
                     umec_val = 'SCDpos';
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "SCD";
+
                 case 3
                     umec_val = 'MCIa';
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "MCI";
+                otherwise
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "";
             end
 
         end

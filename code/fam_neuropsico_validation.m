@@ -115,8 +115,14 @@ for ivar = 1:length(vars)
             switch fam_val
                 case 0
                     fam_val = 'FHneg';
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "HC";
                 case 1
                     fam_val = 'FHpos';
+                    % Assign simplified diagnosis
+                    megtusalen.diagnosis{meg_row} = "FH";
+                otherwise
+                    megtusalen.diagnosis{meg_row} = "";
             end
 
         end

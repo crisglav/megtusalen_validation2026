@@ -126,12 +126,25 @@ for ivar = 1:length(vars)
 
             if strcmp(nemos_val,'DCLa')
                 nemos_val = 'MCIa';
+                % Assign simplified diagnosis
+                megtusalen.diagnosis{meg_row} = "MCI";
+
             elseif strcmp(nemos_val,'DCLm')
                 nemos_val = 'MCIm';
+                % Assign simplified diagnosis
+                megtusalen.diagnosis{meg_row} = "MCI";
+
             elseif strcmp(nemos_val,'Control')
                 nemos_val = 'MCIneg';
+                % Assign simplified diagnosis
+                megtusalen.diagnosis{meg_row} = "HC";
+
             elseif strcmp(nemos_val,'EA')
                 nemos_val = 'AD';
+                % Assign simplified diagnosis
+                megtusalen.diagnosis{meg_row} = "AD";
+            else
+                megtusalen.diagnosis{meg_row} = "";
             end
         end
 
