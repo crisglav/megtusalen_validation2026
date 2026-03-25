@@ -88,17 +88,7 @@ Original data are located in `data/source_data/`.
     - ID FAM-254: ERROR diag 0 but antec_familia_demenc=1
     - ID FAM-258: ERROR diag 0 but antec_familia_demenc=1
     - ID FAM-259: ERROR diag 1 but antec_familia_demenc=2
- 
 
-## Code
-
-- Main script: `code/main_script.m`
-- Variable range validation: `code/review_ranges.m`
-- Diagnosis validation after correction: `code/diagnostic_review_megtusalen.m`
-- Check that healhty participants have a correct neuropsychological assessment: `code/generate_diagcog.m`
-- Variable definitions: `data/participants_megtusalen.json`
-
-The JSON file defines variable names, descriptions, ranges, and metadata used during validation.
 
 ## How to run
 
@@ -110,17 +100,25 @@ Steps:
 2. Run:
    ```matlab
    code/main_script.m
+   code/review_ranges.m % Review data ranges for each variable
+   code/diagnostic_review_megtusalen.m % Double check diagnosis variable
+   code/generate_diagcog.m % Check that healthy participants have a correct neuropsychological assessment
 
 ## Outputs
 
+- [`participants_megtusalen.json`](data/participants_megtusalen.json)
+  - Defines variable names, descriptions, ranges, and metadata used during validation.
+  - Created manually.
 - `results/participants_megtusalen_corrected.xlsx`:
   - Harmonized dataset
   - Corrected variables based on validation rules
+- `results/participants_megtusalen_corrected_diagcog.xlsx`:
+  - Includes adjusted variables by edu_years and whether participants passed the neuropsychological assessment
+  - Diagcog variable classifies healthy participants based on their neuropsychological assessment
+- `results/logs`
+  - log files for each variable
 
-- Variable schema: [`participants_megtusalen.json`](data/participants_megtusalen.json)
-  - Created manually
-
-Note: for comparing outputs visually one can use the tool "spreadsheet compare" which is preinstalled with Microsoft Excel.
+Note: for comparing excel files visually you can use the tool "spreadsheet compare" which is preinstalled with Microsoft Excel.
 
 ## Data privacy
 

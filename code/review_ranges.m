@@ -5,7 +5,7 @@ close all
 megtusalen_excel = '../results/participants_megtusalen_corrected.xlsx';
 json_file = '../data/participants_megtusalen.json';
 out_file = '../results/participants_megtusalen_corrected.xlsx';
-update = false;
+update = true;
 
 megtusalen = readtable(megtusalen_excel);
 meta = jsondecode(fileread(json_file));
