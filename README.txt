@@ -106,6 +106,8 @@ Steps:
 - Variable schema: [`participants_megtusalen.json`](data/participants_megtusalen.json)
   - Created manually
 
+Note: for comparing outputs visually one can use the tool "spreadsheet compare" which is preinstalled with Microsoft Excel.
+
 ## Data privacy
 
 This repository contains sensitive clinical data belonging to the C3N. This dataset is for internal use only.
