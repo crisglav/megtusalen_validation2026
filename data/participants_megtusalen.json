@@ -84,7 +84,10 @@
     "edu_years": {
         "LongName": "Education years",
         "Description": "Completed years of formal education.",
-        "Units": "years (max.20 years)"
+        "Units": "years",
+        "Range": [
+            0,20
+        ]
     },
     "edu_level_umec": {
         "LongName": "Education level",

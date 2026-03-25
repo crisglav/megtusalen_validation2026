@@ -5,7 +5,7 @@ close all
 megtusalen_excel = '../results/participants_megtusalen_corrected.xlsx';
 json_file = '../data/participants_megtusalen.json';
 out_file = '../results/participants_megtusalen_corrected.xlsx';
-update = false;
+update = true;
 
 megtusalen = readtable(megtusalen_excel);
 meta = jsondecode(fileread(json_file));
@@ -57,86 +57,95 @@ for ivar = 1:n
                 idx = find ( out_range );
 
                 for k = 1:length(idx)
+                    if strcmp(var, 'edu_years')
+                        i = idx(k);
+                        id = string(megtusalen.participant_id (i));
+                        val_str = string(vals(i));
+                        megtusalen.(var)(i) = maxval;
+
+                        n_updated = n_updated + 1;
+                        log_lines{end+1} = sprintf( ...
+                            'ID %s, variable %s: OUT OF RANGE [%g,%g]   - old=%s, new=%g\n', ...
+                            id, var, minval, maxval, val_str, maxval);
+                    else
+                        i = idx(k);
+                        id = string(megtusalen.participant_id (i));
+                        val_str = string(vals(i));
+                        megtusalen.(var)(i) = NaN;
+
+                        n_updated = n_updated + 1;
+                        log_lines{end+1} = sprintf( ...
+                            'ID %s, variable %s: OUT OF RANGE [%g,%g]   - old=%s, new=NaN\n', ...
+                            id, var, minval, maxval, val_str);
+                    end
+                end
+            end
+        end
+
+        % Check levels
+        if isfield (meta.(var), 'Levels')
+            levels = fieldnames(meta.(var).Levels);
+
+            vals = megtusalen.(var);
+
+            if iscell (vals)
+                out_level = ~ismember(vals, levels) & ~cellfun(@isempty, vals);
+                idx = find ( out_level );
+
+                for k = 1:length(idx)
                     i = idx(k);
                     id = string(megtusalen.participant_id (i));
+                    megtusalen.(var){i} = NaN;
+
                     val_str = string(vals(i));
-                    megtusalen.(var)(i) = NaN;
+                    levels_str = strjoin(levels, ',');
 
                     n_updated = n_updated + 1;
                     log_lines{end+1} = sprintf( ...
-                        'ID %s, variable %s: OUT OF RANGE [%g,%g]   - old=%s, new=NaN\n', ...
-                        id, var, minval, maxval, val_str);
+                        'ID %s, variable %s: OUT OF LEVELS {%s} - old=%s, new=NaN\n', ...
+                        id, var, levels_str, val_str);
+                end
+            elseif isnumeric (vals)
+                levels = str2double(extractAfter(levels, 'x'));
+                out_level = ~ismember(vals, levels) & ~isnan(vals);
+                idx = find ( out_level );
+
+                for k = 1:length(idx)
+                    i = idx(k);
+                    id = string(megtusalen.participant_id (i));
+                    megtusalen.(var)(i) = NaN;
+
+                    val_str = string(vals(i));
+                    levels_str = strjoin(string(levels), ',');
+
+                    n_updated = n_updated + 1;
+                    log_lines{end+1} = sprintf( ...
+                        'ID %s, variable %s: OUT OF LEVELS {%s} - old=%s, new=NaN\n', ...
+                        id, var, levels_str, val_str);
                 end
             else
-                warning ('Variable %s: NON-NUMERIC column for RANGE\n', var);
+                warning ('Variable %s: NON-FORMAT column for LEVELS\n', var);
             end
         end
-    end
 
-    % Check levels
-    if isfield (meta.(var), 'Levels')
-        levels = fieldnames(meta.(var).Levels);
-
-        vals = megtusalen.(var);
-
-        if iscell (vals)
-            out_level = ~ismember(vals, levels) & ~cellfun(@isempty, vals);
-            idx = find ( out_level );
-
-            for k = 1:length(idx)
-                i = idx(k);
-                id = string(megtusalen.participant_id (i));
-                megtusalen.(var){i} = NaN;
-
-                val_str = string(vals(i));
-                levels_str = strjoin(levels, ',');
-
-                n_updated = n_updated + 1;
-                log_lines{end+1} = sprintf( ...
-                    'ID %s, variable %s: OUT OF LEVELS {%s} - old=%s, new=NaN\n', ...
-                    id, var, levels_str, val_str);
+        % Save log only if corrections made
+        % if ~isempty (log_lines)
+        %     vars_updated{end+1} = var;
+        %     fprintf(fid, 'Changes for variable %s\n', var);
+        %     for k = 1:length(log_lines)
+        %         fprintf(fid, '%s\n', log_lines{k});
+        %     end
+        % end
+        if ~isempty(log_lines)
+            vars_updated{end+1} = var;
+            fprintf(fid_general, '--- Changes for variable %s ---\n', var);
+            for k = 1:length(log_lines)
+                fprintf(fid_general, '%s\n', log_lines{k});
             end
-        elseif isnumeric (vals)
-            levels = str2double(extractAfter(levels, 'x'));
-            out_level = ~ismember(vals, levels) & ~isnan(vals);
-            idx = find ( out_level );
-
-            for k = 1:length(idx)
-                i = idx(k);
-                id = string(megtusalen.participant_id (i));
-                megtusalen.(var)(i) = NaN;
-
-                val_str = string(vals(i));
-                levels_str = strjoin(string(levels), ',');
-
-                n_updated = n_updated + 1;
-                log_lines{end+1} = sprintf( ...
-                    'ID %s, variable %s: OUT OF LEVELS {%s} - old=%s, new=NaN\n', ...
-                    id, var, levels_str, val_str);
-            end
-        else
-            warning ('Variable %s: NON-FORMAT column for LEVELS\n', var);
         end
-    end
 
-    % Save log only if corrections made
-    % if ~isempty (log_lines)
-    %     vars_updated{end+1} = var;
-    %     fprintf(fid, 'Changes for variable %s\n', var);
-    %     for k = 1:length(log_lines)
-    %         fprintf(fid, '%s\n', log_lines{k});
-    %     end
-    % end
-    if ~isempty(log_lines)
-        vars_updated{end+1} = var;
-        fprintf(fid_general, '--- Changes for variable %s ---\n', var);
-        for k = 1:length(log_lines)
-            fprintf(fid_general, '%s\n', log_lines{k});
-        end
     end
-
 end
-
 fclose(fid_general);
 fprintf('Validation finished. Log saved to %s\n', general_log_file);
 
