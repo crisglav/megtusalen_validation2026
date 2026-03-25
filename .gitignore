@@ -4,3 +4,5 @@
 *.asv
 ~$*.xlsx
 results/logs
+data/source_data
+*.xlsx
