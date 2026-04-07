@@ -89,6 +89,12 @@ Original data are located in `data/source_data/`.
     - ID FAM-258: ERROR diag 0 but antec_familia_demenc=1
     - ID FAM-259: ERROR diag 1 but antec_familia_demenc=2
 
+- 31/03/2026 - Ricardo Bruña - Discord
+  - Las volumetrías de MEGtusalen tienen errores. He encontrado éstos:
+      - F1056 es una copia de F1074.
+      - F1203 no tiene T1, y no sabemos de dónde ha salido la MRI.
+      - F1206 es una copia de F1217.
+      - N1163 y N1206 tienen la misma MRI, pero no sabemos (seguro) a cuál pertenece. Tiene pinta de ser de N1206.
 
 ## How to run
 
